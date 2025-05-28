@@ -18,7 +18,7 @@ Citatet från texten skall vara identisk med det från dokumentet.
 Din utdata ska vara i TOML-format, strukturerad för att efterlikna en samling frågor och deras associerade metadata (svar, källfiler, sidnummer). 
 **För varje identifierad fråga, tillhandahåll följande TOML-struktur:**
 
-toml
+toml:
 ```
 [[questions]]
 id = "unikt_fråge_id_N"                     # En unik identifierare för frågan (börja med siffran i exemplet.)

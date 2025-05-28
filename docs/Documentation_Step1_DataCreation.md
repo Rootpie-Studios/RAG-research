@@ -22,15 +22,15 @@ Din utdata ska vara i TOML-format, strukturerad för att efterlikna en samling f
 toml:
 
 [[questions]]
-id = "unikt_fråge_id_N"       # En unik identifierare för frågan (börja med siffran i exemplet.)
+id = "unikt_fråge_id_N"                     # En unik identifierare för frågan (börja med siffran i exemplet.)
 question = "Den fullständiga texten av den identifierade frågan på svenska."
 answer = "Det citerade svaret som finns i dokumentet."
-difficulty = "easy"         # Eller "medium" eller "hard"  baserat på hur lätt svaret är att hitta.
+difficulty = "easy"                         # Eller "medium" eller "hard"  baserat på hur lätt svaret är att hitta.
 category = "physics" 
 
 # Kapslad tabell för fil- och sidinformation
 [[questions.files]]
-file = "dokument_namn_eller_id.pdf"     # Identifieraren för dokumentet där svaret finns. Anvend filnamnet i exemplet. 
+file = "dokument_namn_eller_id.pdf"         # Identifieraren för dokumentet där svaret finns. Anvend filnamnet i exemplet. 
 page_numbers = [sidnummer_1, sidnummer_2]   # En array med sidnummer där svaret finns. Första sidan är det som är angivet i exemplet.
 ```
 

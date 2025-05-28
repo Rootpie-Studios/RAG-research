@@ -8,9 +8,9 @@ The project started on Monday, 2025-05-19
 These are examples of prompts we use to generate questions, answers and to put
 them in the correct structure.
 
-Paulo:
-```
+Paulo:</br>
 This is the prompt that I use (works ok):
+```
 Du är en avancerad AI-assistent specialiserad på dokumentanalys och frågeextraktion. 
 Ditt mål är att identifiera explicita och implicita frågor som kan besvaras direkt från innehållet i ett dokument. Skapa 12 stycken frågor. 
 För varje fråga: tillhandahåll ett svar i form av ett citat från texten. 

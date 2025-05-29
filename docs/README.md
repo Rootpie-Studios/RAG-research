@@ -1,2 +1,2 @@
 
-* [Link to Learning Resources](docs/Learning_Resources.md)
+* [Link to Learning Resources](Learning_Resources.md)

@@ -1,7 +1,46 @@
 # Documentation Step 1: Data Creation
-Notes taken at our meetings.
 
-The project started on Monday, 2025-05-19
+## **Baseline**
+
+When creating the baseline for the later improvement we agreed to keep the answers short. Here are a few examples of what the questions and answers look like at the very beginning of the project:
+
+´´´
+[[questions]]
+id = "RN022"
+question = "När beslutade regeringen att inhämta Lagrådets yttrande över lagförslaget?"
+answer = "Den 22 juni 2023"
+difficulty = "easy"
+category = "education"
+[[questions.files]]
+file = "2023_24_UbU6_20231211104325_Publicering.pdf"
+page_numbers = [5]
+
+
+[[questions]]
+id = "RN023"
+question = "Vad var syftet med Läromedelsutredningen som tillsattes 2019?"
+answer = "Att bland annat föreslå hur statens roll bör se ut när det gäller läromedel i svensk skola."
+difficulty = "easy"
+category = "education"
+[[questions.files]]
+file = "2023_24_UbU6_20231211104325_Publicering.pdf"
+page_numbers = [29]
+
+
+[[questions]]
+id = "RN024"
+question = "Vad anser undertecknarna är angeläget att regeringen fortsätter med?"
+answer = "Att säkerställa en god och likvärdig tillgång till läromedel av hög kvalitet på alla skolor."
+difficulty = "easy"
+category = "education"
+[[questions.files]]
+file = "2023_24_UbU6_20231211104325_Publicering.pdf"
+page_numbers = [29]
+´´´
+The answers are kept short on purpose.
+
+
+
 
 ## **Prompts**
 

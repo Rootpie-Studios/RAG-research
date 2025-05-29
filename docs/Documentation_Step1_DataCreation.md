@@ -4,7 +4,7 @@
 
 When creating the baseline for the later improvement we agreed to keep the answers short. Here are a few examples of what the questions and answers look like at the very beginning of the project:
 
-´´´
+```
 [[questions]]
 id = "RN022"
 question = "När beslutade regeringen att inhämta Lagrådets yttrande över lagförslaget?"
@@ -36,7 +36,7 @@ category = "education"
 [[questions.files]]
 file = "2023_24_UbU6_20231211104325_Publicering.pdf"
 page_numbers = [29]
-´´´
+```
 The answers are kept short on purpose.
 
 

@@ -15,3 +15,8 @@ completed the documention of this step will be added to README.md.
 It is important that make sure that every PDF document has a unique file name.
 Some sources rename the files to the same name when you download a file. In these
 cases we have to change the file names so they are unique.
+
+
+## **Friday 2025-05-30**
+We are close finishing the first phase which is to create data (question and answer pairs).
+Next week, week 23, we are will be done with the data. At that point we will start planning the next phase.

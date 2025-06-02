@@ -20,3 +20,6 @@ cases we have to change the file names so they are unique.
 ## **Friday 2025-05-30**
 We are close finishing the first phase which is to create data (question and answer pairs).
 Next week, week 23, we are will be done with the data. At that point we will start planning the next phase.
+
+## **Monday 2025-06-02**
+We have finished the phase of creating questions. Today everybody will watch the videos posted under Learning Resources to get an idea of what we supposed to do in the project. Tomorrow we will plan concrete tasks.

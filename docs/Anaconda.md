@@ -1,4 +1,4 @@
-## Conda Setup for Windows
+# Conda Setup for Windows
 
 This guide assumes you have Miniconda or Anaconda already installed on your Windows machine.
 
@@ -45,3 +45,21 @@ When you are done working on your project, you can deactivate the environment:
 
 ```bash
 conda deactivate
+```
+
+# Reuse Conda Environment
+This guide assumes you have Miniconda or Anaconda already installed on your Windows machine.
+
+1.  **Open Anaconda Prompt:**
+    Search for "Anaconda Prompt" in your Windows Start menu and open it.
+
+2.  **Navigate to your Project Directory:**
+    Use the `cd` command to go to the root of your project directory. For example:
+    ```bash
+    cd C:\ws\MyProject
+    ```
+3.  **Activate the Environment:**
+    activate it:
+    ```bash
+    conda activate ./.venv
+    ```

@@ -12,6 +12,7 @@ Chunk size: 512 tokens max.
 
 ## **Questions structure**
 
+```toml
 [[questions]]
 id = "PMCEMB111"
 question = "Vad är en 'pipe' i MIPS?"
@@ -23,6 +24,7 @@ category = "Computer architecture"
 [[questions.files]]
 file = "Kap1.pdf"
 page_numbers = [2]
+```
 
 The id is the id of the person who created the question.
 

@@ -23,3 +23,18 @@ Next week, week 23, we are will be done with the data. At that point we will sta
 
 ## **Monday 2025-06-02**
 We have finished the phase of creating questions. Today everybody will watch the videos posted under Learning Resources to get an idea of what we supposed to do in the project. Tomorrow we will plan concrete tasks.
+
+## **Thursday 2025-06-05**
+The team is going to study the subject over the long weekend. The goal with the studying is that everybody will be up to speed with what we are doing. Everybody will have the right knowledge to participate in the discussion.
+
+Another thing we talked about today is to chunk up the code into functions or even files. That way it will be easier to read and understand. 
+
+Next Monday we are going to talk about the following things.
+
+Deliverables 1: what are actually going to deliver. This subject will be easier to discuss once all the members have the right knowledge. That is why we are going to spend the weekend studying.
+
+Deliverables 2: how are we going to reach the goal? We are going to start talking about a long term plan for how to reach the goal of the project.
+
+What goes into the official RootPi repo: should the repo only contain high quality work while everybody is experimenting on their own personal repos? Considering that this is a research project the experimentation might be done on branches on the official repo.
+
+How are team members going to present findings: when a team member makes an improvement how are they going to share it with the team? One suggestion is that team members share their screen and present what they have done and we can have a discussion about it in the team.

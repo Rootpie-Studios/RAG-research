@@ -14,16 +14,14 @@ Chunk size: 512 tokens max.
 
 ```toml
 [[questions]]
-id = "PMCEMB111"
-question = "Vad är en 'pipe' i MIPS?"
-answer = "För MIPS sker detta i en sk. pipe, eller vilket jag tycker är bättre på ett \"löpande band\"."
-
+id = "PMCSKOLVERKET002"
+question = "Hur många elever i grundskolan omfattas av ett åtgärdsprogram läsåret 2024/25?"
+answer = "Läsåret 2024/25 omfattas 6,7 procent av eleverna i grundskolan av ett åtgärdsprogram, vilket motsvarar knappt 73 200 elever"
 difficulty = "easy"
-category = "Computer architecture"
-
+category = "education"
 [[questions.files]]
-file = "Kap1.pdf"
-page_numbers = [2]
+file = "pdf1323q9.pdf"
+page_numbers = [4, 10]
 ```
 
 The id is the id of the person who created the question.

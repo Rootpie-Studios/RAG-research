@@ -19,6 +19,7 @@ question = "Hur många elever i grundskolan omfattas av ett åtgärdsprogram lä
 answer = "Läsåret 2024/25 omfattas 6,7 procent av eleverna i grundskolan av ett åtgärdsprogram, vilket motsvarar knappt 73 200 elever"
 difficulty = "easy"
 category = "education"
+
 [[questions.files]]
 file = "pdf1323q9.pdf"
 page_numbers = [4, 10]

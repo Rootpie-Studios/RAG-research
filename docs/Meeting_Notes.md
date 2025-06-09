@@ -38,3 +38,12 @@ Deliverables 2: how are we going to reach the goal? We are going to start talkin
 What goes into the official RootPi repo: should the repo only contain high quality work while everybody is experimenting on their own personal repos? Considering that this is a research project the experimentation might be done on branches on the official repo.
 
 How are team members going to present findings: when a team member makes an improvement how are they going to share it with the team? One suggestion is that team members share their screen and present what they have done and we can have a discussion about it in the team.
+
+## **Monday 2025-06-09**
+We discussed how to measure metrics like recall and precision and other metrics we will use to measure the quality of the embeddings and the other deliverables of the project. Do we need text matching in order to determine if the results of the querying the database are good?
+
+Or should we focus completely in the embeddings are make sure that they capture the meaning of the text?
+
+We asked “what are we supposed to do?”
+
+We came to the conclusion that in order to understand what the goal of the project is we have to view the project as a RAG project instead of a preparation for a RAG project.

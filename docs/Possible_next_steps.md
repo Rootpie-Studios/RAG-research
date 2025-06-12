@@ -31,7 +31,7 @@
 **Tokens**:
   + Needs to work with embedding model. Embedding models are trained on tokenizers.
   
-  + If custom tokens -> custom embeddings, otherwise vector space can break or be misaligned.
+  + If custom tokens -> custom embeddings, otherwise vector space might break or be misaligned.
 
 **Adding Context**:
   + Let LLM write 10 questions (and/or descriptions) of each chunk in database. Let them create a space.

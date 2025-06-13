@@ -44,3 +44,4 @@
 
 + [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 + [sentence-bert-swedish-cased](https://huggingface.co/KBLab/sentence-bert-swedish-cased)
++ [Maybe take something from the leaderboard](https://huggingface.co/spaces/mteb/leaderboard)

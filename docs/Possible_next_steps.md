@@ -42,5 +42,5 @@
 
 ## Embedding Models
 
-+ all-MiniLM-L6-v2
-+ sentence-bert-swedish-cased
++ [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
++ [sentence-bert-swedish-cased](https://huggingface.co/KBLab/sentence-bert-swedish-cased)

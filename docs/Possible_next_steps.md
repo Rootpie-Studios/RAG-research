@@ -37,3 +37,10 @@
   + Let LLM write 10 questions (and/or descriptions) of each chunk in database. Let them create a space.
     Now 10 embeddings point to the same chunk, increasing the cross-section of the document being found.
     And adding both questions and descriptions could be benifitial.
+
+# Suggestions
+
+## Embedding Models
+
++ all-MiniLM-L6-v2
++ sentence-bert-swedish-cased

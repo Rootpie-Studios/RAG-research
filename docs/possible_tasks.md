@@ -8,7 +8,6 @@
     * **Task:** Try parsers specifically designed for your document types.
     * **Examples to Try:**
         * **`Unstructured.io`:** Excellent for extracting structured content from diverse formats (PDFs, images, HTML, PPTX, etc.). Can identify titles, tables, list items, etc.
-        * **`PyMuPDF` (for PDFs):** More robust PDF parsing than basic options, allows for better text extraction and layout understanding.
         * **`LlamaParse` (LlamaIndex):** Specifically designed for complex PDF parsing, can extract tables and structured data.
         * **`Mistral OCR`**
         * **Custom Parsers:** If your data has a unique, predictable structure.

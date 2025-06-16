@@ -22,7 +22,6 @@
         * **Larger chunks:** More context, but can dilute the main topic and introduce noise.
         * **Overlap:** Helps maintain context across chunk boundaries. Can also
         be used to select neiboring chunks if part of the text is in a boundary.
-
     * **Evaluation:** Observe the trade-offs in relevance and completeness of retrieved chunks.
 
 3.  **Tokenizers vs. Character Chunks:**
@@ -61,7 +60,6 @@
         * **`GTE-base` (Alibaba):** Good general-purpose model.
         * **`text-embedding-ada-002` (OpenAI):** If you are considering commercial options, this is a very strong baseline.
         * **`sentence-bert-swedish-cased`:** swedish model.
-
         * **Instruction-Tuned Embeddings:** Models designed for specific tasks (e.g., query-document similarity).
     * **Considerations:** Model size, inference speed, performance on your specific data.
     * **Evaluation:**

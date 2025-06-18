@@ -1,22 +1,20 @@
 ## At Parsing
-These normalizations take place just after extracting the text by the parser. Which means that the normalized version will be in the database (Not the most flexible?). So it is done in the beginnig of the [parse_embedd_into_db.py](https://github.com/dc91/RAG/blob/main/parse_embedd_into_db.py) script, where it is called by chunk_pdf_by_tokens() (showing part of function):
+These normalizations take place just after extracting the text by the parser. Which means that the normalized version will be in the database (Not the most flexible?). So it is done in the beginnig of the [parse_embedd_into_db.py](https://github.com/dc91/RAG/blob/main/parse_embedd_into_db.py) script, where it is called by parse_document(pdf_path):
  
 ```python
-def chunk_pdf_by_tokens(pdf_path, model="text-embedding-3-small", MAX_TOKENS=MAX_TOKENS, OVERLAP=OVERLAP):
-    # encoding = tiktoken.encoding_for_model(model)
-
+def parse_document(pdf_path):
     doc = fitz.open(pdf_path)
-    chunks = []
-    filename = os.path.basename(pdf_path)
-
     text_and_pagenumber = []  # List [(page_number, page_text)]
+
     for i, page in enumerate(doc):
         text = page.get_text(sort=True)
         if text.strip():  # Skip empty pages
             norm_text = normalize_text(text)
             text_and_pagenumber.append((i + 1, norm_text + " "))
     doc.close()
-    ...
+    # Test print
+    # print(text_and_pagenumber)
+    return text_and_pagenumber
 ```
 
 **Defaut Version**

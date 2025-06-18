@@ -1,5 +1,5 @@
 ## At Parsing
-These normalizations take place just after extracting the text by the parser. Which means that the normalized version will be in the databse (Not the most flexible?). So it is done in the beginnig of the [parse_embedd_into_db.py](https://github.com/dc91/RAG/blob/main/parse_embedd_into_db.py) script, where it is called by chunk_pdf_by_tokens() (showing part of function):
+These normalizations take place just after extracting the text by the parser. Which means that the normalized version will be in the database (Not the most flexible?). So it is done in the beginnig of the [parse_embedd_into_db.py](https://github.com/dc91/RAG/blob/main/parse_embedd_into_db.py) script, where it is called by chunk_pdf_by_tokens() (showing part of function):
  
 ```python
 def chunk_pdf_by_tokens(pdf_path, model="text-embedding-3-small", MAX_TOKENS=MAX_TOKENS, OVERLAP=OVERLAP):

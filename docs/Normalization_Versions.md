@@ -40,3 +40,5 @@ def normalize_text(input_text):
     
     return text.strip()
 ```
+
+*Add your own here if you want to share*

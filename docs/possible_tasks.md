@@ -52,7 +52,7 @@
 
 1.  **Experiment with Different Embedding Models:**
     * **Task:** Systematically try a range of embedding models.
-    * **Example Options to Try (progressing in size/performance):**
+    * **Example Options to Try:**
     	* **`all-MiniLM-L6-v2` (Sentence-Transformers):** Normal version of MiniLM.
         * **`all-MiniLM-L12-v2` (Sentence-Transformers):** Larger version of MiniLM.
         * **`bge-base-en-v1.5` (BAAI):** Base version, generally stronger.

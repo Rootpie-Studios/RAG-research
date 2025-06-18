@@ -16,6 +16,7 @@ def parse_document(pdf_path):
     # print(text_and_pagenumber)
     return text_and_pagenumber
 ```
+[This notebook](https://github.com/dc91/RAG/blob/main/extra_scripts/jupyter/RAG_project.ipynb) shows the effect of the normalization.
 
 **Defaut Version**
 

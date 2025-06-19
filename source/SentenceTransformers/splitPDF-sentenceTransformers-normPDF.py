@@ -534,6 +534,6 @@ add_embeddings_to_toml(TOML_DIRECTORY)
 question_dict = get_embedded_questions(TOML_DIRECTORY)
 
 query_documents_one_embedding(
-    question_dict["PMCSKOLVERKET004"], n_results=RESULTS_PER_QUERY
+    question_dict["PMCSKOLVERKET001"], n_results=RESULTS_PER_QUERY
 )
 # query_documents_all_embeddings(question_dict, n_results=RESULTS_PER_QUERY)

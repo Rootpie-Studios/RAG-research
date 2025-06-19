@@ -14,6 +14,7 @@ If you use UV then just do
 ```bash
 uv sync
 .\.venv\Scripts\activate.ps1
+uv pip install sentence-transformers
 ```
 
 # Files

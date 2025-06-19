@@ -527,7 +527,7 @@ print("[green]Make sure your questions are in the questions/cleaned folder![/gre
 print(
     "[red]If you change MAX_TOKENS, CHUNK_OVERLAP or EMBEDDING_MODEL_NAME, you need to delete the doc_storage_norm_all_minilm folder![/red]"
 )
-# process_pdfs_and_insert(PDF_DIRECTORY)
+process_pdfs_and_insert(PDF_DIRECTORY)
 
 add_embeddings_to_toml(TOML_DIRECTORY)
 

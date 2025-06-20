@@ -2288,47 +2288,6 @@ wheels = [
 ]
 
 [[package]]
-name = "rag-dilan"
-version = "0.1.0"
-source = { virtual = "." }
-dependencies = [
-    { name = "chromadb" },
-    { name = "ipykernel" },
-    { name = "joblib" },
-    { name = "levenshtein" },
-    { name = "matplotlib" },
-    { name = "openai" },
-    { name = "openpyxl" },
-    { name = "pandas" },
-    { name = "pymupdf4llm" },
-    { name = "rich" },
-    { name = "seaborn" },
-    { name = "tiktoken" },
-    { name = "tomli" },
-    { name = "tomlkit" },
-    { name = "tqdm" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "chromadb", specifier = ">=1.0.12" },
-    { name = "ipykernel", specifier = ">=6.29.5" },
-    { name = "joblib", specifier = ">=1.5.1" },
-    { name = "levenshtein", specifier = ">=0.27.1" },
-    { name = "matplotlib", specifier = ">=3.10.3" },
-    { name = "openai", specifier = ">=1.83.0" },
-    { name = "openpyxl", specifier = ">=3.1.5" },
-    { name = "pandas", specifier = ">=2.3.0" },
-    { name = "pymupdf4llm", specifier = ">=0.0.24" },
-    { name = "rich", specifier = ">=14.0.0" },
-    { name = "seaborn", specifier = ">=0.13.2" },
-    { name = "tiktoken", specifier = ">=0.9.0" },
-    { name = "tomli", specifier = ">=2.2.1" },
-    { name = "tomlkit", specifier = ">=0.13.2" },
-    { name = "tqdm", specifier = ">=4.66.5" },
-]
-
-[[package]]
 name = "rapidfuzz"
 version = "3.13.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2530,6 +2489,47 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/a1/53/830aa4c3066a8ab0ae9a9955976fb770fe9c6102117c8ec4ab3ea62d89e8/rich-14.0.0.tar.gz", hash = "sha256:82f1bc23a6a21ebca4ae0c45af9bdbc492ed20231dcb63f297d6d1021a9d5725", size = 224078, upload-time = "2025-03-30T14:15:14.23Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/0d/9b/63f4c7ebc259242c89b3acafdb37b41d1185c07ff0011164674e9076b491/rich-14.0.0-py3-none-any.whl", hash = "sha256:1c9491e1951aac09caffd42f448ee3d04e58923ffe14993f6e83068dc395d7e0", size = 243229, upload-time = "2025-03-30T14:15:12.283Z" },
+]
+
+[[package]]
+name = "rootpie-rag-research"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "chromadb" },
+    { name = "ipykernel" },
+    { name = "joblib" },
+    { name = "levenshtein" },
+    { name = "matplotlib" },
+    { name = "openai" },
+    { name = "openpyxl" },
+    { name = "pandas" },
+    { name = "pymupdf4llm" },
+    { name = "rich" },
+    { name = "seaborn" },
+    { name = "tiktoken" },
+    { name = "tomli" },
+    { name = "tomlkit" },
+    { name = "tqdm" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "chromadb", specifier = ">=1.0.12" },
+    { name = "ipykernel", specifier = ">=6.29.5" },
+    { name = "joblib", specifier = ">=1.5.1" },
+    { name = "levenshtein", specifier = ">=0.27.1" },
+    { name = "matplotlib", specifier = ">=3.10.3" },
+    { name = "openai", specifier = ">=1.83.0" },
+    { name = "openpyxl", specifier = ">=3.1.5" },
+    { name = "pandas", specifier = ">=2.3.0" },
+    { name = "pymupdf4llm", specifier = ">=0.0.24" },
+    { name = "rich", specifier = ">=14.0.0" },
+    { name = "seaborn", specifier = ">=0.13.2" },
+    { name = "tiktoken", specifier = ">=0.9.0" },
+    { name = "tomli", specifier = ">=2.2.1" },
+    { name = "tomlkit", specifier = ">=0.13.2" },
+    { name = "tqdm", specifier = ">=4.66.5" },
 ]
 
 [[package]]

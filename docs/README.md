@@ -7,6 +7,7 @@
 * [RAG Flowchart example](RAG%20Flowchart.md) General overview how RAG works. Uses Mermaid.js to generate Flowchart.
 * [Anaconda tips and tricks](Anaconda.md) How to setup environment and other tips and tricks
 * [Possible task breaksdowns](possible_tasks.md) Task breakdown and Ideas
+* [Normalization Version](Normalization_Versions.md) Tips and Tricks on Normalization
 
 ## Learning Resources
 * [Link to Learning Resources](Learning%20Resources.md)

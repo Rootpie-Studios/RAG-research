@@ -63,6 +63,24 @@ collection = chroma_client.get_or_create_collection(
 # -----------------------------------------------#
 # --------------------Parse----------------------#
 # -----------------------------------------------#
+def remove_dash_space(text):
+    """
+    Removes '- ' from a string if it's surrounded by alphabet characters.
+
+    Args:
+      text: The input string.
+
+    Returns:
+      The modified string with '- ' removed under the specified conditions.
+    """
+    # The regex explained:
+    # (?<=[a-zA-Z]) : Positive lookbehind to assert that there's an alphabet character before '- '
+    # -             : Matches the literal hyphen
+    #               : Matches the literal space
+    # (?=[a-zA-Z])  : Positive lookahead to assert that there's an alphabet character after '- '
+    return re.sub(r"(?<=[a-zA-Z])- (?=[a-zA-Z])", "", text)
+
+
 def normalize_text(input_text):
     # Remove split words at the end of lines
     normalized = re.sub(r"- ?\n", "", input_text.strip())
@@ -70,7 +88,8 @@ def normalize_text(input_text):
     normalized = re.sub(r"\s+", " ", normalized)
     # Don't keep space if end of sentence
     normalized = re.sub(r" +\.\s", ". ", normalized)
-
+    # Remove '- ' if surrounded by alphabet characters
+    normalized = remove_dash_space(normalized)
     return normalized
 
 
@@ -81,7 +100,7 @@ def parse_document(pdf_path):
     for i, page in enumerate(doc):
         text = page.get_text(sort=True)
         if text.strip():  # Skip empty pages
-            norm_text = normalize_text(text)
+            norm_text = text
             text_and_pagenumber.append((i + 1, norm_text + " "))
     doc.close()
     # Test print
@@ -266,9 +285,8 @@ def get_embedded_questions(toml_dir):
 def check_shrinking_matches(
     text_list, chunk, shrink_from_start=False, text_or_embedding="text", tolerance=1
 ):
-    print(chunk)
-    # chunk = normalize_text(chunk.lower())
-    chunk = chunk.lower()
+    chunk = normalize_text(chunk.lower())
+    # chunk = chunk.lower()
     text_len = len(text_list)
     chunk_len = len(chunk)
 
@@ -276,7 +294,6 @@ def check_shrinking_matches(
         # Determine the current substring based on shrinking direction
         current = text_list[i:] if shrink_from_start else text_list[: text_len - i]
         substring = "".join(current).lower()
-        # substring = normalize_text(substring)
         substring_len = len(substring)
         # Use a sliding window over the chunk to compare with the substring
         for j in range(chunk_len - substring_len + 1):
@@ -308,7 +325,7 @@ def check_shrinking_matches(
 # This is just a function that calls check_shrinking_matches, and prints stuff around it
 # Only used with query_documents_one_embedding
 def match_strings(chunk_text, answer):
-    answer_chars = list(answer.lower())
+    answer_chars = list(normalize_text(answer.lower()))
     print("[Shrinking from end and matching...]")
     match_from_start_bool = check_shrinking_matches(
         answer_chars, chunk_text, shrink_from_start=False, text_or_embedding="text"
@@ -527,13 +544,13 @@ print("[green]Make sure your questions are in the questions/cleaned folder![/gre
 print(
     "[red]If you change MAX_TOKENS, CHUNK_OVERLAP or EMBEDDING_MODEL_NAME, you need to delete the doc_storage_norm_all_minilm folder![/red]"
 )
-process_pdfs_and_insert(PDF_DIRECTORY)
+# process_pdfs_and_insert(PDF_DIRECTORY)
 
 add_embeddings_to_toml(TOML_DIRECTORY)
 
 question_dict = get_embedded_questions(TOML_DIRECTORY)
 
 query_documents_one_embedding(
-    question_dict["PMCSKOLVERKET001"], n_results=RESULTS_PER_QUERY
+    question_dict["PMCSKOLVERKET006"], n_results=RESULTS_PER_QUERY
 )
 # query_documents_all_embeddings(question_dict, n_results=RESULTS_PER_QUERY)

@@ -61,38 +61,24 @@ def normalize_text(input_text):
     return text.strip()
 ```
 
-*From Pierre's file*
+*removes dash space*
+Removes dash space leftover of either parser or chunker. Read the comments for more info
 ```python
-def normalize_text(input_text):
-    # Split into lines and clean
-    lines = input_text.strip().split("\n")
-    cleaned_lines = []
+def remove_dash_space(text):
+    """
+    Removes '- ' from a string if it's surrounded by alphabet characters.
 
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-        # Remove bullet points and keep the content
-        if line.startswith("•"):
-            cleaned_lines.append(line.replace("•", "").strip() + ",")
-        else:
-            cleaned_lines.append(line)
+    Args:
+      text: The input string.
 
-    # Merge lines intelligently (join split words ?)
-    full_text = ""
-    skipNextSpace = False
-    for line in cleaned_lines:
-        if line.endswith("-"):
-            full_text += line[:-1]
-            skipNextSpace = True
-        elif skipNextSpace:
-            full_text += line
-            skipNextSpace = False
-        else:
-            full_text += " " + line
-
-    # todo: after bullet removal there might be a "," when there should be a "."
-
-    return full_text.strip()
+    Returns:
+      The modified string with '- ' removed under the specified conditions.
+    """
+    # The regex explained:
+    # (?<=[a-zA-Z]) : Positive lookbehind to assert that there's an alphabet character before '- '
+    # -             : Matches the literal hyphen
+    #               : Matches the literal space
+    # (?=[a-zA-Z])  : Positive lookahead to assert that there's an alphabet character after '- '
+    return re.sub(r"(?<=[a-zA-Z])- (?=[a-zA-Z])", "", text)
 ```
 *Add your own here if you want to share*

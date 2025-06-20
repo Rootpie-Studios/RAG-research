@@ -1,6 +1,7 @@
-/.env
+.env
 /.venv
-/docs_storage_norm_all
+docs_storage*/
+doc_storage*/
 /compare_splits_sorted
 /questions
 /pdf_data

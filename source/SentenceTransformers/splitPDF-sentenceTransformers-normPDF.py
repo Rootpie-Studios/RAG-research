@@ -544,13 +544,13 @@ print("[green]Make sure your questions are in the questions/cleaned folder![/gre
 print(
     "[red]If you change MAX_TOKENS, CHUNK_OVERLAP or EMBEDDING_MODEL_NAME, you need to delete the doc_storage_norm_all_minilm folder![/red]"
 )
-# process_pdfs_and_insert(PDF_DIRECTORY)
+process_pdfs_and_insert(PDF_DIRECTORY)
 
 add_embeddings_to_toml(TOML_DIRECTORY)
 
 question_dict = get_embedded_questions(TOML_DIRECTORY)
 
 query_documents_one_embedding(
-    question_dict["PMCSKOLVERKET006"], n_results=RESULTS_PER_QUERY
+    question_dict["PMCSKOLVERKET001"], n_results=RESULTS_PER_QUERY
 )
 # query_documents_all_embeddings(question_dict, n_results=RESULTS_PER_QUERY)

@@ -83,7 +83,7 @@ def remove_dash_space(text):
 ```
 
 We need to consider some of these control characters/invisble characters. Especially the ones around the hyphens, some are specific for that.
-```
+```python
 def clean_md_text(text):
     CONTROL_SPACE_REGEX = re.compile(
         r'[\x00-\x1F\x7F\u00A0\u1680\u180E\u2000-\u200F\u2028\u2029\u202F\u205F\u2060\u2061\u2062\u2063\u2064\uFEFF]'

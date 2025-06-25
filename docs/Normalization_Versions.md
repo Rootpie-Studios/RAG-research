@@ -81,4 +81,34 @@ def remove_dash_space(text):
     # (?=[a-zA-Z])  : Positive lookahead to assert that there's an alphabet character after '- '
     return re.sub(r"(?<=[a-zA-Z])- (?=[a-zA-Z])", "", text)
 ```
+
+We need to consider some of these control characters/invisble characters. Especially the ones around the hyphens, some are specific for that.
+```
+def clean_md_text(text):
+    CONTROL_SPACE_REGEX = re.compile(
+        r'[\x00-\x1F\x7F\u00A0\u1680\u180E\u2000-\u200F\u2028\u2029\u202F\u205F\u2060\u2061\u2062\u2063\u2064\uFEFF]'
+    )
+    text = re.sub(r"-[\u00AD\u200B\u200C\u200D\u200E\u200F]*\s*\n[\u00AD\u200B\u200C\u200D\u200E\u200F]*\s*", "", text)
+    text = re.sub(r"[\u00AD\u200B\u200C\u200D\u200E\u200F]\s*", "", text)
+    # Split text into lines
+    lines = text.split('\n')
+    
+    cleaned_lines = []
+    
+    for line in lines:
+        stripped_line = line.strip()
+        # Skip lines that only contain a number (e.g., page numbers)
+        if re.fullmatch(r'\s*\d+\s*', line):
+            continue
+        # Skip empty lines
+        if not stripped_line:
+            continue
+        cleaned_lines.append(line)
+    
+    # Join all lines into one paragraph-like text
+    merged_text = '\n'.join(cleaned_lines)
+    merged_text = re.sub(r"\s+", " ", merged_text)
+    
+    return CONTROL_SPACE_REGEX.sub('', merged_text).strip()
+```
 *Add your own here if you want to share*

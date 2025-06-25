@@ -28,17 +28,16 @@ COLLECTION_NAME = (
     "doc_collection_norm_all_minilm"  # Changed collection name to differentiate
 )
 PERSIST_DIRECTORY = "doc_storage_norm_all_minilm"  # Changed persist directory
-EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"  # Changed embedding model name
+EMBEDDING_MODEL_NAME = "all-MiniLM-L12-v2"  # Changed embedding model name
 MAX_TOKENS = (
     512  # Increased MAX_TOKENS for better context, considering SentenceTransformer
 )
 CHUNK_OVERLAP = 150  # New: Define chunk overlap for characters
 RESULTS_PER_QUERY = 5
 MATCH_THRESHOLD = 50
-RESULTS_CSV_NAME = "results/norm_queries_minilm.csv"  # Changed result file name
-RESULTS_EXCEL_NAME = (
-    "results/norm_queries_excel_minilm.xlsx"  # Changed result file name
-)
+RESULTS_CSV_NAME = f"results/{EMBEDDING_MODEL_NAME}_{MAX_TOKENS}_{CHUNK_OVERLAP}_{RESULTS_PER_QUERY}-queries.csv"     # Changed result file name
+RESULTS_EXCEL_NAME = f"results/{EMBEDDING_MODEL_NAME}_{MAX_TOKENS}_{CHUNK_OVERLAP}_{RESULTS_PER_QUERY}-queries_excel.xlsx"  # Changed result file name
+
 # -----------------------------------------------#
 # ------------ChromaDB Config--------------------#
 # -----------------------------------------------#
@@ -544,13 +543,12 @@ print("[green]Make sure your questions are in the questions/cleaned folder![/gre
 print(
     "[red]If you change MAX_TOKENS, CHUNK_OVERLAP or EMBEDDING_MODEL_NAME, you need to delete the doc_storage_norm_all_minilm folder![/red]"
 )
+
 process_pdfs_and_insert(PDF_DIRECTORY)
 
 add_embeddings_to_toml(TOML_DIRECTORY)
-
 question_dict = get_embedded_questions(TOML_DIRECTORY)
+query_documents_all_embeddings(question_dict, n_results=RESULTS_PER_QUERY)
 
-query_documents_one_embedding(
-    question_dict["PMCSKOLVERKET001"], n_results=RESULTS_PER_QUERY
-)
-# query_documents_all_embeddings(question_dict, n_results=RESULTS_PER_QUERY)
+# query_documents_one_embedding(    question_dict["PMCSKOLVERKET001"], n_results=RESULTS_PER_QUERY)
+

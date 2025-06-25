@@ -1,0 +1,1320 @@
+[[questions]]
+id = "PAV149"
+question = "Vilket ämne har lägst andel elever som når målen enligt Skolverkets redovisning från 2011?"
+answer = "matematik är det ämne där lägst andel av eleverna når målen. 19,3 procent eller ungefär var femte elev nådde inte målen i matematik år 2011"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV150"
+question = "Vilka elever är kraftigt överrepresenterade bland dem som inte når målen i matematik?"
+answer = "Elever med migrantbakgrund eller med föräldrar med låg utbildning är kraftigt överrepresenterade bland dem som inte når målen"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV151"
+question = "Vad är syftet med Europa 2020-strategin enligt Europeiska rådet?"
+answer = "Europa 2020-strategin för smart och hållbar tillväxt. Ett av fem huvudområden i strategin är att fram till 2020 minska andelen elever i EU som lämnar skolan i förtid"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV152"
+question = "Vad är EU-målet för andelen som ska fullfölja en högskoleutbildning?"
+answer = "För andelen som ska fullfölja en högskoleutbildning (eller motsvarande) är EU-målet satt till 40 procent"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV153"
+question = "Vad är termen för att erbjuda alla elever delaktighet i skolans verksamhet?"
+answer = "Man använder termen inkludering (eng. inclusion) för detta"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PAV154"
+question = "Vilken kritik har Skolinspektionen riktat mot resursskolor i Linköping?"
+answer = "Skolinspektionen har kritiserat kommunen och hävdat att organisationen strider mot skollagen och har hotat kommunen med vite om den inte ändrar sin organisation"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PAV155"
+question = "Vilket villkor ställer skollagen för att hemundervisning ska medges i Sverige?"
+answer = "där skollagen föreskriver ”synnerliga skäl” för att medge hemundervisning"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PAV156"
+question = "Vad slog Högsta förvaltningsdomstolen fast i fallet med den ultraortodoxa judiska familjen?"
+answer = "slutligen fastslog Högsta förvaltningsdomstolen i en dom 2013 att familjens hemundervisning inte är förenlig med skollagen"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PAV157"
+question = "Vad är en anledning till att flickor i vissa migrantkulturer lämnar skolan i förtid?"
+answer = "I vissa migrantkulturer gifts flickor bort i tidiga tonåren och det innebär vanligtvis att de också lämnar skolan"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV158"
+question = "Vad är ett bättre begrepp än 'hemmasittare' enligt texten?"
+answer = "Bättre är att tala om elever med lång ogiltig frånvaro"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PAV159"
+question = "Vilken grupp elever är särskilt överrepresenterad bland dem som lämnar skolan i förtid?"
+answer = "Pojkar är överrepresenterade bland elever med funktionsnedsättningar och uppvisar i högre grad emotionella problem, beteendestörningar eller inlärningssvårigheter"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV160"
+question = "Vilket problem uppstår med tester och diagnoser i specialpedagogiken enligt SBU:s rapport?"
+answer = "Det är en uppenbar risk att tester och diagnoser, i stället för att vara en del av det specialpedagogiska arbetet, blir ett instrument för särskiljande lösningar"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (1).pdf"
+page_numbers = [10]
+
+
+
+[[questions]]
+id = "PAV161"
+question = "Hur många elever gick ut grundskolan läsåret 2004/2005 utan att ha uppnått målen i matematik?"
+answer = "läsåret 2004/2005 gick nästan 8000 elever eller 6,8 % av Sveriges avgångselever ut grundskolan utan att ha uppnått målen i matematik"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAV162"
+question = "Vilket ämne anses enligt PRIM-gruppen vara det näst viktigaste skolämnet bland elever i årskurs 9?"
+answer = "matematik ansågs av eleverna vara det näst viktigaste skolämnet"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAV163"
+question = "Vilka fyra negativa faktorer påverkar enligt Olof Magne inlärningen i matematik?"
+answer = "Det blir fel i elevens tänkande beroende på t. ex. att eleven helt enkelt tänker fel eller inte förstår det abstrakta, eleven anstränger sig inte tillräckligt och orkar inte anstränga sig, eleven distraheras lätt och ofta eller eleven har utvecklat en negativ känsla till matematik t. ex. rädsla eller avsky"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV164"
+question = "Vad menar Auno & Brandelius-Johansson är grunden för allt lärande i skolan?"
+answer = "att ett bra självförtroende är grunden för allt lärande i skolan"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV165"
+question = "Vad betyder ordet självförtroende enligt Nationalencyklopedin?"
+answer = "stark tilltro till den egna förmågan"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV166"
+question = "Vad var syftet med mattestugan som Linnea Forslund startade under sin praktik?"
+answer = "Där kunde eleverna få extra hjälp"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV167"
+question = "Vad försökte Linnea Forslund fokusera på förutom att hjälpa elever att klara uppgifter?"
+answer = "att försöka få eleven att tro och lita på sin egen förmåga samt få upp elevens intresse för matematik"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV168"
+question = "Vilket intryck fick Camilla Hiertner om elevernas självförtroende innan hon började undervisa på folkhögskola?"
+answer = "eleverna var ointresserade av matematik och hade ganska dåligt självförtroende i största allmänhet och i matematik i synnerhet"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV169"
+question = "Vilken metod använde Camilla Hiertner för att stärka elevernas självförtroende i matematik?"
+answer = "Ett exempel är att tipsa eleverna om att när de promenerar upprepa ramsan ’Jag kan matte’"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PAV170"
+question = "Vilken var Camilla Hiertners uppfattning om effekten av hennes metod?"
+answer = "Flera av dem ändrade sin uppfattning och började till och med tycka om matematik. Deras självförtroende i matematik stärktes"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PAV171"
+question = "Vad vill författarna undersöka genom sin litteraturstudie?"
+answer = "vilken betydelse självförtroendet har för matematiken"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PAV172"
+question = "Vad är författarnas hypotes angående könsskillnader i självförtroende i matematik?"
+answer = "flickor har sämre självförtroende i matematik än pojkar"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (2).pdf"
+page_numbers = [10]
+
+
+[[questions]]
+id = "PAV173"
+question = "Vad är syftet med studien som diskuteras i inledningen av dokumentet?"
+answer = "Papret är en del i en pågående studie vars syfte är att synliggöra och analysera vad som händer när minoritetselever undervisas i matematik delvis på sitt modersmål"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV174"
+question = "Vilken forskningsansats används i studien?"
+answer = "Studien har en kvalitativt etnografisk forskningsansats"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV175"
+question = "Hur många språk talades i Stockholms grundskolor höstterminen 2005?"
+answer = "I Stockholms grundskolor talades höstterminen 2005, 106 språk (inklusive svenska)"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV176"
+question = "Vad menas med 'kodväxling' enligt Setati och Adler?"
+answer = "De talar bland annat om kodväxling, då man undervisar, lär och talar om matematik på mer än ett språk, som ett medvetet verktyg för undervisning och lärande i matematik"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV177"
+question = "Vilka tre faktorer pekar Adler (2001) på som centrala i ett flerspråkigt matematikklassrum?"
+answer = "Tillgång/tillträde till undervisningsspråket, tillgång/tillträde till den matematiska diskursen samt tillgång/tillträde till klassrumsdiskursen"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV178"
+question = "Vad visar forskningen om elever som får modersmålsundervisning?"
+answer = "Det finns samstämmig forskning som visar att elever som deltar i modersmålsundervisning och/eller undervisning i ämnen på sitt modersmål, presterar bättre i skolan, utvecklar sin identitetskänsla och fungerar som en länk mellan sin etniska grupp och samhället i övrigt"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV179"
+question = "Vad innebär en matematisk diskurs enligt Cobbs (1998)?"
+answer = "Med en matematisk diskurs menas här på vilket sätt man kommunicerar matematik i klassrummet, det vill säga på vilket sätt man undervisar i matematik"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV180"
+question = "Vad hävdar Dewey om kunskap och erfarenhet?"
+answer = "Dewey ser kunskap som kontextuell, den är beroende av sammanhang och erfarenhet"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV181"
+question = "Vilket problem med konkretisering av matematiska begrepp lyfter Dörfler (2000)?"
+answer = "Dörfler (2000) pekar också på en begränsning i att konkretisera matematiska begrepp som bygger på att en del begrepp inte är möjliga att konkretisera"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV182"
+question = "Vad är etnomatematik enligt D’Ambrosio (1997)?"
+answer = "D’Ambrosio ser etnomatematik som matematik praktiserad av kulturellt identifierbara grupper"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV183"
+question = "Vilken kritik riktas mot att använda vardagliga kontexter i matematikuppgifter?"
+answer = "Parszyk (1999) ger flera exempel på hur elever kan tolka enstaka ord i problemuppgifter, men inte förstår sammanhanget"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV184"
+question = "Vad säger Cummins om vikten av lärares kunskap om elevernas bakgrund?"
+answer = "Cummins (1996, 2000) som har en stark tilltro till flerspråkiga elevers möjlighet att nå framgång i skolans ämnen påtalar ständigt betydelsen av att lärare har kunskap om och respekt för elevernas etnicitet, kultur och modersmål"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (3).pdf"
+page_numbers = [4]
+
+
+[[questions]]
+id = "PAV185"
+question = "Hur många delar består avhandlingen av?"
+answer = "Den här avhandlingen har tre delar"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PAV186"
+question = "Vilken är den övergripande ambitionen med avhandlingen?"
+answer = "Förutom att ge ett bidrag till forskningen är mitt övergripande syfte att skapa möjligheter för en offentlig kritisk diskussion av en rad frågor rörande grundläggande matematikutbildning"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PAV187"
+question = "Hur definieras skolmatematik i avhandlingen?"
+answer = "Skolmatematik – vilken här skall förstås som en social institution med syfte att förmedla kunskaper i matematik till först och främst barn och ungdomar"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PAV188"
+question = "Vad är författarens tes om relationen mellan skolmatematik och matematik?"
+answer = "Min tes är att dessa två fenomen, skolmatematiken och matematiken, är oupplösligt förenade med varandra"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PAV189"
+question = "Vad är enligt författaren orsaken till våra gemensamma föreställningar om matematik?"
+answer = "Min idé är istället att våra föreställningar om matematiken formas i skolan"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV190"
+question = "Hur beskrivs skolans påverkan på våra föreställningar om matematik med hjälp av en metafor?"
+answer = "Om vi ser var och ens föreställningar om matematiken som en kompassnål, kan vi tänka oss skolan som ett magnetfält vilket ger alla dessa kompassnålar ungefär samma riktning"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PAV191"
+question = "Hur uppfattades termen 'skolmatematik' i början av 1900-talet?"
+answer = "Termen användes inledningsvis för att kontrastera skolans (som man menade felaktiga) behandling av matematiken med den matematiska vetenskapen"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV192"
+question = "Vad är poängen med att diskutera skolmatematiken enligt författaren?"
+answer = "Poängen är inte att matematiken ”inte finns”, utan att det de allra flesta tror sig veta om matematiken, har sitt ursprung i skolan"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PAV193"
+question = "Vad handlar teorigenomgången i avhandlingen om?"
+answer = "Den efterföljande teorigenomgången en motsvarande rekonstruktion, där mitt forskningsobjekt konstitueras med hjälp av en särskilt avpassad terminologi"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PAV194"
+question = "Vilket centralt problem identifieras i tidigare teorier om skolmatematik?"
+answer = "Tidigare teorier om skolmatematiken tenderar att ta matematiken för given på ett sätt som gör att många aspekter av skolmatematiken tycks ha matematiken som sin 'orsak'"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PAV195"
+question = "Vilken funktion tillskrivs termen 'matematik' i vetenskaplig kontext enligt avhandlingen?"
+answer = "Hur ordet 'matematik' bidrar till att få myllret av praktiker att framstå som om de hängde samman på ett sätt som är självklart och enkelt att förstå"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PAV196"
+question = "Hur beskriver författaren sin avhandling i relation till vetenskaplig matematik?"
+answer = "I denna bemärkelse handlar den här avhandlingen snarare om skolan än om den vetenskapliga matematiken"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "FULLTEXT01 (4).pdf"
+page_numbers = [13]
+
+
+[[questions]]
+id = "PAV197"
+question = "Vad diskuteras i artikeln 'Matematik och språk' av Gudrun Svensson?"
+answer = "I denna artikel diskuteras sambandet mellan elevers resultat i läsning, skrivning och matematik utifrån undersökningar på en gymnasieskola"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV198"
+question = "Vilka elever beaktas särskilt i undersökningen?"
+answer = "Särskilt beaktas elever med läs- och skrivsvårigheter samt elever med annat modersmål än svenska"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV199"
+question = "Hur genomförs testerna i matematik på skolan?"
+answer = "I matematik använder vi ett test, där man kan få högst 50 poäng. Elever som har mindre än 10 poäng anses vara i stort behov av extra stödåtgärder och elever med 11–20 poäng behöver också visst stöd, medan elever med mer än 20 poäng anses kunna klara av kurs A utan extra åtgärder"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV200"
+question = "Vilken typ av uppgifter innehåller matematiktestet?"
+answer = "Detta test innehåller varierade uppgifter med olika svårighetsgrad från enkel addition till operationer i ett par led. Alla uppgifter innehåller någon form av verbal information.."
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV201"
+question = "Hur poängsätts språktesterna i svenska?"
+answer = "Resultaten från dessa tester poängberäknas och placeras sedan på en 9-gradig standardiserad skala, stanineskalan, där 1 motsvarar de lägsta värdena och 9 de högsta"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV202"
+question = "Vilket samband finns mellan språk- och matematiktester enligt undersökningen?"
+answer = "Vid jämförelse mellan matematik- och språktesterna kunde man se en tydlig korrelation, där de som hade dåligt resultat på det ena provet oftast hade ett dåligt resultat på de andra"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV203"
+question = "Vilka elever uppvisar sämst resultat i tester enligt undersökningen?"
+answer = "För övrigt är det elever med annat modersmål som har sämst resultat, såväl på tester i språkfärdighet som i matematik"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV204"
+question = "Visar uppsatsskrivning någon korrelation med matematikresultat?"
+answer = "Resultatet visar dock på en tydlig korrelation även inom detta område"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV205"
+question = "Vilket språkfärdighetstest har starkast samband med betyg i matematik?"
+answer = "Det mest påtagliga sambandet finns mellan resultatet på ordförståelsen och kursbetyget"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV206"
+question = "Vad säger undersökningen om läshastighetens påverkan på betyg i matematik?"
+answer = "Det finns en viss uppåtgående trend mot högre betyg vid högre läshastighet, men det finns inte finns någon självklar stegring av betygen i matematik efter hand som läshastigheten ökar"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV207"
+question = "Vad föreslår författaren som viktigt för elever med svårigheter i språk och matematik?"
+answer = "Oavsett förklaringsmodell krävs dock en handgriplig vägledning för elever med dessa svårigheter"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV208"
+question = "Vilken skola gäller undersökningen och vilka program omfattas?"
+answer = "Ovanstående undersökningar gäller cirka 800 elever, de flesta på yrkesprogram, vid Vipeholmsskolan i Lund"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "1317_02_3.pdf"
+page_numbers = [4]
+
+
+[[questions]]
+id = "PAV209"
+question = "Vilka två linjer fanns ursprungligen i det svenska gymnasiet?"
+answer = " latinlinjen och reallinjen"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV210"
+question = "Vad säger artikeln om sambandet mellan läsförståelse och andra skolämnen?"
+answer = "Detta gäller särskilt på gymnasiet, eftersom man här ofta måste inhämta stora mängder av kunskap genom egen tyst inläsning"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV211"
+question = "Vad påvisades i PISA-studien från år 2000?"
+answer = "Här påvisades ett starkt samband mellan läsning och matematik"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV212"
+question = "Vilken uppfattning fick författaren revidera om elever med utländsk bakgrund?"
+answer = " har i stället börjat inse att det ligger andra och djupare förståelseproblem bakom deras svårigheter"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV213"
+question = "Vilken korrelation fann författaren mellan ordkunskap, läsförståelse och matematik?"
+answer = "Det som då framkom var en stark korrelation mellan ordkunskap respektive läsförståelse och matematik"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV214"
+question = "Hur definierades gränsen för elever som behövde stöd i matematiktestet?"
+answer = "Elever med mindre än 20 poäng anses behöva stöd av olika omfattning, medan elever med mer än 20 poäng bör kunna klara av kurs A utan problem"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV215"
+question = "Hur stor var korrelationen mellan ordkunskap och resultatet på matematikprovet?"
+answer = "Dessa första undersökningar visade att det fanns en ganska stark korrelation mellan först och främst ordkunskap, men även läsförståelse, och resultaten på matematikprovet, r = 0.61 respektive 0.53"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV216"
+question = "Vilken grupp elever visade högst lösningsfrekvens i matematiktestet?"
+answer = "HL 68 %"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV217"
+question = "Hur definieras nivå 1 i textnivåbedömningen av matematikuppgifter?"
+answer = "Nivå 1 innehåller således bara en enkel proposition el. dyl"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAV218"
+question = "Vad är en möjlig pedagogisk fördel med benämnda tal enligt artikeln?"
+answer = "Samtidigt framhålls det i pedagogiska sammanhang att det är en fördel att utgå från elevernas vardagskunskap när man ska bygga upp nytt kunnande"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV219"
+question = "Vilken grupp visade inte samma ökning i lösningsfrekvens mellan nivå 1 och 2?"
+answer = "E-gruppen, som inte hade samma ökning i lösningsfrekvens från textnivå 1 till 2"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAV220"
+question = "Vilken slutsats kan dras av lösningsfrekvenserna för benämnda tal i 0-gruppen?"
+answer = "Lösningsfrekvensen för 0-gruppen, kontrollgruppen, ökar markant för de benämnda talen"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "624036.pdf"
+page_numbers = [6]
+
+
+[[questions]]
+id = "PAV221"
+question = "Vad visar forskningen om kursplanens påverkan på undervisning och lärande?"
+answer = "Forskningen pekar på att det som kursplanen lägger vikt vid är det som får mer utrymme eller uppmärksamhet i läromedel och undervisning; elevernas kunskaper är också starkast i dessa delar"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAV222"
+question = "Vilken typ av kursplan föreslås för framtiden enligt rapporten från 2023?"
+answer = "En framtida svensk kursplan i matematik i större grad bör präglas av mer utförliga och precisa beskrivningar med ämnesspecifika uttryck och begrepp"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAV223"
+question = "Vilken äldre kursplan pekas ut som särskilt framgångsrik enligt rapporten?"
+answer = "Kursplanen till 1980 års läroplan (Lgr 80), i synnerhet den mer detaljerade aritmetikdelen, förefaller ha varit en särskilt framgångsrik kursplanedesign"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAV224"
+question = "Vad är syftet med rapporten?"
+answer = "Syftet med denna rapport är att bredda bilden av hur en framtida svensk kursplan i matematik kan se ut, en kursplan som till stor del bygger på utförliga och precisa beskrivningar med ämnesspecifika uttryck och begrepp"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAV225"
+question = "Vilka länder ingår i jämförelsen av nutida kursplaner i rapporten?"
+answer = "Nutida kursplaner i olika länder (Singapore, England och Estland)"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV226"
+question = "Vilka två teman används för att analysera kursplanernas beskrivningar?"
+answer = "Svaren samlas under följande två teman: a) koppla ihop matematik med förmågor och b) beskriva progression"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV227"
+question = "Hur skiljer sig de undersökta kursplanerna åt?"
+answer = "Alla fyra kursplanerna skiljer sig åt på väsentliga punkter. Inte minst skiljer de sig åt vad gäller detaljnivå"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV228"
+question = "Vilket uttryck används för att beskriva enighet i ett skolsystem?"
+answer = "Curriculum coherence"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV229"
+question = "Vad krävs för att nå curriculum coherence?"
+answer = "Förberedelse- och planeringsfaserna vara viktiga för att nå curriculum coherence"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [5]
+
+
+[[questions]]
+id = "PAV230"
+question = "Vilket är ett syfte med mer detaljerade kursplaner enligt forskningen?"
+answer = "Att aktörerna i ett skolsystem har en gemensam förståelse av ämnesundervisningens syfte och innehåll samt att de drar åt samma håll"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV231"
+question = "Vilken typ av uttryck använder den svenska kursplanen mer av jämfört med andra länders kursplaner?"
+answer = "Den svenska har en mycket enkel konstruktion vad gäller att koppla ihop matematik med förmågor och att beskriva progression – det görs i mycket liten utsträckning"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV232"
+question = "Vilken typ av styrmodell förespråkas i rapportens forskningsgenomgång?"
+answer = "En mer centraliserad styrmodell är att föredra"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "En_ny_kursplan_i_matematik__Johan_Prytz_nov_2023_web.pdf"
+page_numbers = [7]
+
+
+
+[[questions]]
+id = "PAV233"
+question = "Varför rekommenderas det inte att minimera de språkliga kraven i matematikuppgifter för elever med läs- och skrivsvårigheter?"
+answer = "Välmenta försök från lärares sida att låta eleverna undvika läs- och skrivsvårigheter genom att låta dem arbeta med uppgifter där de språkliga kraven är minimerade rekommenderas inte (El Naggar, 1996)"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PAV234"
+question = "Vilken betydelse har lärarens insikter om språkliga svårigheter för elevernas lärande i matematik?"
+answer = "De kunskaper och insikter som läraren har om hur språkliga svårigheter påverkar lärandet i matematik är särskilt betydelsefulla för att dessa elever ska utveckla självförtroende och lust att lära matematik"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PAV235"
+question = "Vad utmärker det matematiska språket enligt Jakobsson-Åhl?"
+answer = "Skillnaden mellan vardagsspråket och det matematiska språket är matematikens speciella symbolsystem och graden av precision"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PAV236"
+question = "Hur beskriver Pimm (1987) matematikens språk?"
+answer = "Pimm (1987) betraktar matematiken ur ett lingvistiskt perspektiv och jämför matematikens språk med lingvistikens idé om att språk handlar om kommunikativ kompetens"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PAV237"
+question = "Vilken typ av undervisning krävs för att elever med läs- och skrivsvårigheter ska kunna kommunicera effektivt i matematik?"
+answer = "Att lära sig tala och skriva när man arbetar med matematik kräver explicit undervisning för att elever – särskilt elever i läs- och skrivsvårigheter – ska kunna använda muntlig och skriftlig kommunikation på ett effektivt sätt"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PAV238"
+question = "Hur kan språksvårigheter påverka elevernas förståelse av muntliga instruktioner i matematik?"
+answer = "En del elever finner det svårt att uppfatta information som i huvudsak ges genom lärarens muntliga förklaringar och instruktioner, eftersom det innebär att de för sitt lärande måste förlita sig helt på det område som vållar problem, nämligen språket"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [24]
+
+[[questions]]
+id = "PAV239"
+question = "Varför är det inre talet viktigt enligt Joffe (1983)?"
+answer = "Det inre talet är viktigt för att vi ska kunna skapa inre representationer av ett innehåll och för att kunna hålla aktuell information i minnet"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [25]
+
+[[questions]]
+id = "PAV240"
+question = "Vilken risk finns om elever bara använder laborativt materiel utan att öva inre föreställningar?"
+answer = "Om elever får använda laborativt materiel enbart i syfte att komma fram till lösningar på tex enkla additionsuppgifter finns risken att eleverna inte utvecklar någon djupare förståelse"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [24]
+
+[[questions]]
+id = "PAV241"
+question = "Vad menas med att språket synliggör tänkandet i matematikundervisningen?"
+answer = "Att sätta ord på sina tankar är ett sätt att synliggöra dem, vilket är betydelsefullt för att eleverna ska kunna sammanbinda språket med själva handlingen"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [26]
+
+[[questions]]
+id = "PAV242"
+question = "Vilken roll spelar muntligt språk när elever använder åskådligt materiel enligt Henderson & Miles (2001)?"
+answer = "För elever med dyslexi rekommenderas att de alltid får möjlighet att uttrycka sina tankar i talat språk i samband med att de laborerar med åskådligt materiel"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [26]
+
+[[questions]]
+id = "PAV243"
+question = "Vilken metod använde personer med dyslexi mindre effektivt i Joffes minnestest?"
+answer = "Personer med dyslexi använde denna namnteknik i mycket mindre utsträckning och mindes också färre bilder"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [25]
+
+[[questions]]
+id = "PAV244"
+question = "Vad visar Joffe (1983) om svårigheter vid algoritmräkning hos elever med dyslexi?"
+answer = "En svårighet verkar just vara att namnge de omgrupperade talen med hjälp av det inre talet och dessutom behålla all aktuell information i minnet som är nödvändig för att utföra beräkningen"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Lasoskriv_del1.pdf"
+page_numbers = [26]
+
+
+[[questions]]
+id = "PAV245"
+question = "Vad är syftet med att Sverige deltar i internationella kunskapsutvärderingar?"
+answer = "Genom att delta i internationella jämförande studier kan man bland annat studera hur kunskaper hos elever i svenska skolan står i relation till kunskaper hos elever i andra länder men även hur de svenska resultaten utvecklas över tid"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PAV246"
+question = "Hur definierar TIMSS begreppet 'förståelse av ett matematikområde'?"
+answer = "I TIMSS ramverk (Mullis & Martin, 2017) definieras att förståelse av ett matematikområde innebär att behärska tre kognitiva domäner"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV247"
+question = "Vilka tre kognitiva domäner ingår i TIMSS?"
+answer = "Den första domänen, veta (knowing)... Den andra domänen, tillämpa (applying)... Den tredje domänen, resonera (reasoning).."
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV248"
+question = "Vilken kognitiv domän presterade svenska elever bäst i enligt TIMSS 2019?"
+answer = "Resultaten från TIMSS 2019 visar att svenska elevers starkaste kognitiva domän, både i årskurs 4 och årskurs 8, är resonera"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV249"
+question = "Vilken poängskillnad hade Sverige i årskurs 4 mellan delskalan resonera och genomsnittet?"
+answer = "I årskurs 4 har Sverige 15 poäng högre resultat på delskalan resonera än vårt genomsnittliga resultat"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV250"
+question = "Vilket land hade högre relativ positiv skillnad än Sverige i årskurs 4?"
+answer = "Det enda land som har en högre relativ positiv skillnad än Sverige i årskurs 4 är Pakistan med 27 poäng högre resultat på delskalan resonera än deras genomsnittliga matematikresultat"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV251"
+question = "Har Sverige samma kunskapsprofil som grannländerna i årskurs 8?"
+answer = "Grannländerna Finland och Norge har i årskurs 8 resultat på delskalan resonera som är lägre än deras genomsnittsresultat i matematik"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PAV252"
+question = "Vilken unik kunskapsprofil har Sverige enligt TIMSS 2019?"
+answer = "Sverige har en tydlig kunskapsprofil med höga relativa resultat endast på delskalan resonera och är det enda landet i TIMSS 2019 som har den kunskapsprofilen i både årskurs 4 och årskurs 8"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PAV253"
+question = "Hur har Sveriges kunskapsprofil utvecklats över tid enligt TIMSS?"
+answer = "Sverige har dessutom haft denna kunskapsprofil under tidigare TIMSS-mätningar i årskurs 4 samt under de senaste TIMSS-mätningarna i årskurs 8"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PAV254"
+question = "Vad visar spridningen av resultat inom domänen resonera för årskurs 4?"
+answer = "Figur 4 visar att spridningen av resultat är högre inom domänen resonera än i de övriga två kognitiva domänerna"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "PAV255"
+question = "Vilken percentil representerar högpresterande elever inom domänen resonera?"
+answer = "Värdet för den 90:e percentilen, som för resonera var 636 poäng, kan ses som ett mått på de mest högpresterande elevernas resultat i Sverige"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "PAV256"
+question = "I vilken kognitiv domän var spridningen störst i årskurs 8 enligt TIMSS 2019?"
+answer = "I årskurs 8 är det den kognitiva domänen veta som har störst spridning av resultat"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "pdf7662.pdf"
+page_numbers = [15]
+
+
+[[questions]]
+id = "PAV258"
+question = "Vilken andel av elever med annat modersmål än svenska var inte godkända på ämnesproven i matematik i årskurs 9 år 1999?"
+answer = "1999 var det 28 procent av eleverna med annat modersmål än svenska och 11 procent av eleverna med svenska som modersmål som inte var godkända"
+difficulty = "Easy"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV259"
+question = "Vad framhålls i regeringens uppdrag till NCM om utbildningsinsatser för undervisning i matematik?"
+answer = "I regeringens uppdrag till NCM om utbildningsinsatser för undervisning i matematik, framhålls behovet av att studera undervisningsmiljöers påverkan på den matematiska begreppsbildningen hos barn som har en sämre läs- och skrivförmåga på undervisningsspråket än sina studiekamrater"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV260"
+question = "Vad har karaktäriserat matematikundervisningen i många förberedelsegrupper/klasser i Sverige?"
+answer = "Detta har också karakteriserat matematikundervisningen i många förberedelsegrupper/klasser i Sverige"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV261"
+question = "Vad innebär att elever får fortsätta eller påbörja sin formella matematiska utveckling i en undervisning på modersmålet?"
+answer = "Att elever får fortsätta eller påbörja sin formella matematiska utveckling i en undervisning på modersmålet tills de har utvecklat undervisningsspråket är mindre vanligt"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV262"
+question = "Vad lyfter Chamot och O'Malley fram som svårigheter för andraspråkselever i matematikundervisningen?"
+answer = "Där refereras till Chamot och O'Malley (1987) och Ron (1999) vilka lyfter fram de svårigheter andraspråkselever har med det språk som förekommer i matematikundervisningen, i synnerhet de svårigheter som i text formulerade matematikuppgifter utgör"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV263"
+question = "Vad är en förutsättning för att kunna delta på ett framgångsrikt sätt i matematikundervisningen?"
+answer = "Färdigheter i att hantera dekontextualiserat språk, vilket undervisningen i svenska och svenska som andraspråk bl a ska leda till under grundskoletiden, är i många fall en förutsättning för att kunna delta på ett framgångsrikt sätt i matematikundervisningen"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV264"
+question = "Vilka förändringar har genomförts i de studerade undervisningsmiljöerna?"
+answer = "I de studerade miljöerna har man genomfört en eller flera av följande förändringar:– man arbetar i större utsträckning än tidigare utan lärobok och mer talspråksbaserat, – eleverna får konkreta upplevelser av begrepp innan de arbetar med uppgifter i läroböcker, – man arbetar med matematik i samband med aktiviteter som att sy och laga mat,– man utgår från barns lust att leka och fantisera,– de uppgifter eleverna arbetar med är mindre formella till sin karaktär än vad som är vanligt i en traditionell undervisning,– undervisningen organiseras för att främja samtal och samarbete mellan elever,– man arbetar i större utsträckning än tidigare med reflekterande skrivande när det gäller de begrepp man studerar,– man synliggör hur olika elever tänker för att lösa problem och att man kan lösa uppgifter på olika sätt"
+difficulty = "Hard"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV265"
+question = "Hur kan matlagning och sömnad bidra till matematikundervisningen?"
+answer = "Matlagning och sömnad innebär att man arbetar med aktiviteter som skiljer sig från arbetet i en formell matematikundervisning. Det kan innebära att eleverna, i större utsträckning än i vad som är fallet i en läroboksbaserad undervisning, kan utgå från sina tidigare erfarenheter"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV266"
+question = "Vad behöver lärare mer kunskap om för att undervisa minoritetselever i matematik?"
+answer = "Lärare behöver mer kunskap om hur man organiserar undervisningen så att eleverna ges möjlighet att utveckla matematiska begrepp och sina språkliga färdigheter utifrån egna erfarenheter"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV267"
+question = "Vad bör kompetensutvecklingen för lärare som undervisar minoritetselever i matematik inkludera?"
+answer = "Förutom matematik och matematikdidaktik måste kunskaper om språkets betydelse för utvecklingen av matematiska begrepp, om andraspråksutveckling och vad som händer, eller kan hända, i möten mellan människor med olika kulturell bakgrund ingå"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV268"
+question = "Vad är viktigt att studera för att förbättra matematikundervisningen för minoritetselever?"
+answer = "De skolor som har en stor andel minoritetselever och som når goda resultat på NP i matematik borde studeras närmare genom klassrumsobservationer och djupintervjuer av lärare och elever för att ytterligare få exempel på vad som karakteriserar framgångsrika undervisningsmiljöer"
+difficulty = "Medium"
+category = "Mathematics"
+
+[[questions.files]]
+file = "Undervisningsmiljo.pdf"
+page_numbers = [3]

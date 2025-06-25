@@ -1,0 +1,553 @@
+# Question in physics
+# difficulty = "easy"
+
+[[questions]]
+id = "PAV001"
+question = "Vad kallas vetenskapen som handlar om naturkrafter och energi?"
+answer = "Fysik"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV002"
+question = "Vad är en hypotes?"
+answer = "Något som du tror eller som du tycker är troligt men som du inte ännu har bevisat"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV003"
+question = "Vilken vetenskap handlar om himlakropparna och universum?"
+answer = "Astronomi"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV004"
+question = "Vad är ett mätetal?"
+answer = "Ett tal som tillsammans med måttenheten anger en storhets storlek"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV005"
+question = "Vad är universum?"
+answer = "Solen, planeterna, stjärnorna, galaxerna och allt som finns mellan dem"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV006"
+question = "Vad kallas en mycket noggrann undersökning av någonting?"
+answer = "Analys"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV007"
+question = "Vad är en enhet?"
+answer = "Något som du kan mäta storheter i"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV008"
+question = "Vilken vetenskap studerar planeten jorden?"
+answer = "Geovetenskap"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV009"
+question = "Vad är en observation?"
+answer = "Något som du ser, hör, luktar eller känner"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV010"
+question = "Vad är en teori?"
+answer = "En förklaring som du tänkt igenom noga och som passar ihop med allt du vet om en fråga"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-1_1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV020"
+question = "Vad kallas med ett begrepp formerna ett ämne kan befinna sig i?"
+answer = "Aggregationstillstånd"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV021"
+question = "Vad är atmosfären?"
+answer = "Gashöljet som omger jorden"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV022"
+question = "Vilken typ av material leder värme dåligt?"
+answer = "Isolatorer"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV023"
+question = "Vad är frostsprängning?"
+answer = "När vatten som finns i till exempel en spricka i berget utvidgar sig då det fryser och spräcker berget"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV024"
+question = "Vad är skillnaden mellan förnybara och icke förnybara bränslen?"
+answer = "Förnybara bränslen förnyar sig hela tiden och tar inte slut inom en snar framtid, medan icke förnybara bränslen (fossila bränslen) består av rester av djur och växter som levde för länge sedan"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV025"
+question = "Vad kallas den temperatur där vatten övergår från flytande form till fast form?"
+answer = "Fryspunkt"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV026"
+question = "Vad händer när ånga avkyls till vätska?"
+answer = "Kondensation"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV027"
+question = "Vad är värmeenergi?"
+answer = "En sorts energi som finns i allt som är varmt. Ju varmare ämne, desto mera värmeenergi"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV028"
+question = "Vilken gas i atmosfären bidrar till att jorden värms upp?"
+answer = "Växthusgaser"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV029"
+question = "Vad kallas processen när ett ämne går direkt från fast form till gas, eller omvänt?"
+answer = "Sublimering"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV030"
+question = "Vad kallas den punkt där ljusstrålarna möts efter att de har gått genom en lins?"
+answer = "Brännpunkt"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV031"
+question = "Vilken enhet används för frekvens?"
+answer = "Hertz"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV032"
+question = "Vad är skillnaden mellan något som är konkavt och något som är konvext?"
+answer = "Konkavt buktar inåt på mitten, medan konvext buktar utåt på mitten"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [1, 2]
+
+[[questions]]
+id = "PAV033"
+question = "Vad händer med vitt ljus när det går genom ett prisma?"
+answer = "Vitt ljus som går genom prismat delas upp i regnbågens alla färger"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV034"
+question = "Vad betyder det att reflektera?"
+answer = "Att återspegla eller spegla tillbaka"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV035"
+question = "Vad är en transversell vågrörelse?"
+answer = "En mekanisk vågrörelse där punkterna rör sig vinkelrätt mot vågens rörelseriktning"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV036"
+question = "Vad är våglängden i en vågrörelse?"
+answer = "Avståndet mellan två vågtoppar eller två vågdalar i en vågrörelse"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV037"
+question = "Vad kallas den tänka linje som är vinkelrät mot underlaget och används för att mäta infallsvinkeln?"
+answer = "Normal"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV038"
+question = "Vad är totalreflexion?"
+answer = "När ljuset träffar en gräns mellan två material, till exempel vatten och luft, i en sådan vinkel att allt ljus reflekteras"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV039"
+question = "Vad är en vågrörelse?"
+answer = "Ljus och ljud rör sig i form av vågor som sprider sig. En våg är en vibration som transporterar energi"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Zooma-in-pa-fysik-7-9-del1-ordförklaringslista-3.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV040"
+question = "Vad kallas oönskat, störande ljud som saknar en bestämd frekvens?"
+answer = "Buller"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV041"
+question = "Vilket fenomen innebär att ljudets eller ljusets frekvens blir högre när något närmar sig och lägre när det rör sig bort?"
+answer = "Dopplereffekt"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV042"
+question = "Vad är infraljud?"
+answer = "Ljud med lägre frekvens än 20 Hz"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV043"
+question = "Hur används ett ekolod?"
+answer = "Ett sätt att använda ljudsignaler för att kontrollera botten och bedöma vad som finns under båten i vattnet. Ljudsignalerna studsar mot allt som finns under båten"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV044"
+question = "Vad kallas det ljudområde som människor kan höra?"
+answer = "Hörselområde"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV045"
+question = "Vad är ljudvågor?"
+answer = "Vibrationer till exempel i luften"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV046"
+question = "Vad är en longitudinell vågrörelse?"
+answer = "Partiklarna i en våg svänger i samma riktning som vågen rör sig. Till exempel ljudvågor är longitudinella"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV047"
+question = "Vad innebär resonans?"
+answer = "När ljudet förstärks genom att något vibrerar med samma ton eller frekvens"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV048"
+question = "Vad är ultraljud?"
+answer = "Ljud med högre frekvens än 20 000 Hz"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV049"
+question = "Vilken typ av vågrörelse är ljudvågor?"
+answer = "Longitudinell vågrörelse"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_4.pdf"
+page_numbers = [1]
+
+
+[[questions]]
+id = "PAV050"
+question = "Vilket gaslager omger jorden?"
+answer = "Atmosfär"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV051"
+question = "Vad är gravitation?"
+answer = "Tyngdkraft som gör så att vi inte trillar av jorden och ut i universum. Allting på jorden dras mot jordens mitt. Alla himlakroppar har en gravitation och ju större himlakroppen är desto större är gravitation"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV052"
+question = "När inträffar höstdagjämning?"
+answer = "Höstdagjämning infaller på hösten då dagen och natten är lika långa"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV053"
+question = "Vad är Kaamos ett annat namn för?"
+answer = "Polarnatt"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV054"
+question = "Vad kallas solens yttersta, tunna lager som bara syns vid solförmörkelse?"
+answer = "Koronan"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV055"
+question = "Vad är ett ljusår en enhet för?"
+answer = "Avstånd i rymden. Ett ljusår är den sträcka som ljuset färdas genom rymden på ett år"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV056"
+question = "Vad är protuberanser?"
+answer = "Stora moln av gasplasma som kastas ut från solens yta"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV057"
+question = "Vad markerar årets längsta dag på norra halvklotet?"
+answer = "Sommarsolstånd"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV058"
+question = "Vad är ett teleskop?"
+answer = "En stjärnkikare"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV059"
+question = "Vad är solfläckar?"
+answer = "Mörka fläckar på solen där temperaturen är något lägre"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "zooma_in_pa_fysik_7-9_del1_ordforklaringslista_5.pdf"
+page_numbers = [2]

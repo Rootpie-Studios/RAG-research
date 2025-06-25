@@ -1,0 +1,1501 @@
+#--------------------------------------------#
+#---------12_BERÄTTELSER_OM_SKAM.pdf---------#
+#--------------------------------------------#
+
+[[questions]]
+id = "DC121"
+question = "Vad är skam?"
+answer = "Definitionen av skam utgår från att skam är en av våra grundkänslor som främst uppstår i relation till andra (Tomkin, 1963). Skammens roll är att uppmärksamma och korrigera beteenden och reaktioner."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC122"
+question = "Vad är skamkompassen för något?"
+answer = "Skamkompassen beskriver fyra olika sätt för att försvara sig mot skammen 1) attackerar oss själva, 2) attackerar andra, 3) aktivt undviker eller 4) drar oss undan."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC123"
+question = "Vad kopplar Hahn skam till?"
+answer = "Hahn (2001) kopplar skam till känslor av otillräcklighet och fördömande."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC124"
+question = "Vad kan få en terapeut att känna skam?"
+answer = "I terapirummet är skam en intensiv och smärtsam känsla som kan uppstå när terapeuten upplever sig själv som bristfällig, exponerad eller misslyckad i sin yrkesroll, vilket kan leda till känslor av ovärdighet och en önskan att dölja eller undvika situationen."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC125"
+question = "Hur relaterar sig beroende till makt?"
+answer = "Makt och beroende betraktas som komplementära begrepp utifrån att när person A är beroende av person B så har B per definition också makt över A. Omvänt; B har makt över A endast om A i något avseende är beroende av B."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC126"
+question = "Vad är den terapeutiska alliansen?"
+answer = "Den terapeutiska alliansen kan beskrivas som överenskommelsen om samarbete, samarbetets villkor, innehåll, syfte och utformning av terapin mellan terapeut och klient."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC127"
+question = "Innehåller livet smärta?"
+answer = "Livet innehåller oundvikligen smärta, lidande och motgångar."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC128"
+question = "Hur kan skam påverka psykoterapin?"
+answer = "Resultaten visar tydligt att en hög nivå av skam ofta försvårar behandlingen, då skam kan hämma förmågan att vara öppen och ärlig."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC129"
+question = "Hur många deltog i Brown's studie om skam hos kvinnor?"
+answer = "Genom intervjuer med 215 kvinnor har Brown (2006) undersökt hur kvinnor upplever skam och vilka strategier de använder för att hantera den."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC130"
+question = "Hur bör terapeuter stödjas i svåra situationer?"
+answer = "Studien betonar behovet av adekvata stödåtgärder för terapeuter, såsom utbildning och handledning, för att främja kontinuerlig personlig utveckling och hantering av stress."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "12_BERÄTTELSER_OM_SKAM.pdf"
+page_numbers = [9]
+
+
+#---------------------------------------------------------------------#
+#-Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf-#
+#---------------------------------------------------------------------#
+
+[[questions]]
+id = "DC131"
+question = "Hur ska insatser anpassas för unga adhd patienter?"
+answer = "Insatser ska anpassas utifrån barnets behov, mognad och ålder."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC132"
+question = "Ska man invänta adhd-diagnosen innan man sätter in insatser?"
+answer = "Vänta inte på utredning och diagnos, sätt in insatser när behov identifieras och fortsätt enligt stegvis modell."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC133"
+question = "Hur visar sig adhd?"
+answer = "Adhd är en utvecklingsrelaterad funktionsavvikelse som yttrar sig genom bristande förmåga att reglera uppmärksamhet, aktivitetsnivå och impulsivitet med hänsyn tagen till ålder, utvecklingsnivå och miljö."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC134"
+question = "Vad skall göras vid misstanke om adhd?"
+answer = "Vid misstanke om adhd skall samsjuklighet och differentialdiagnostik bedömas."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC135"
+question = "När utförs en initial kartläggning vid adhd misstankar?"
+answer = "En initial kartläggning av barnets situation görs då svårigheter att reglera uppmärksamhet, aktivitetsnivå och impulsivitet uppmärksammats."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC136"
+question = "Vilka kompetenser krävs för enheter som utreder adhd hos barn och ungdomar?"
+answer = "Enheter som utreder adhd hos barn och ungdomar bör ha god kompetens inom barn- och ungdomspsykiatri, utvecklingspsykologi och neuropsykologisk testning."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC137"
+question = "Hur många kategorier av adhd kan en diagnos beskriva?"
+answer = "Vid diagnos beskrivs adhd i tre kategorier: huvudsakligen bristande uppmärksamhet, huvudsakligen hyperaktivitet/impulsivitet eller kombinerad form."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC138"
+question = "Vilka insatser rekommenderas vid adhd behandling av förskolebarn?"
+answer = "Rekommenderade insatser för barn i förskoleålder är psykoedukation och stöd till föräldrar samt miljöanpassning."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC139"
+question = "Varför är en medicinsk utredning nödvändig vid adhd utredning?"
+answer = "En medicinsk utredning syftar till att undersöka om de aktuella symtomen kan ha annan förklaring än adhd, och till att ta reda på eventuella bakomliggande orsaker."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC140"
+question = "Hur hanteras substansbruk vid adhd behandling?"
+answer = "Vid förekomst av substansbruk behöver en individuell bedömning göras, och medicinsk behandling bör övervägas även för ungdom med sådan samsjuklighet."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Adhd – upptäckt, utredning och behandling hos barn och ungdomar.pdf"
+page_numbers = [11]
+
+
+#-------------------------------------------#
+#-------ADHD-DIAGNOS_I_VARUKORGEN.pdf-------#
+#-------------------------------------------#
+
+[[questions]]
+id = "DC141"
+question = "Vad säger socialkonstruktionism om psykiatriska diagnoser?"
+answer = "Ur ett sociologiskt och särskilt socialkonstruktionistiskt perspektiv kan psykiatriska diagnoser i stället tolkas som sociala konstruktioner, då symptombeskrivningar bestäms genom sociala processer."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC142"
+question = "Kommer antalet adhd diagnoser att ändras i framtiden?"
+answer = "Prevalensen för ADHD blir alltmer utbredd i många delar av världen. Så även Sverige, där diagnostiseringen av ADHD och tillförskrivning av ADHD-läkemedel bland barn och vuxna har ökat stadigt (Socialstyrelsen, 2023:6). Prognosen tycks vara att diagnostiseringen fortsatt kommer öka."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC143"
+question = "Får man en adhd utredning snabbare om man söker privat vård?"
+answer = "Sett till neuropsykiatriska utredningar för vuxna personer kan väntetiden vara så lång som flera år. Den privata vården kan överskrida denna behovsprioritering eftersom de snarare vänder sig till privatpersoners plånböcker. Det kan med andra ord gå snabbare att få hjälp om du kan betala för den."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC144"
+question = "Vad var syftet med Carlstedt och Jönssons intervjustudie?"
+answer = "Carlstedt & Jönsson (2019) har genomfört en intervjustudie som avsåg att undersöka hur svensk kommunal äldrevård framställs på webbplatser och sociala medier, med betoning på att de representationer som publiceras på internet är avsiktliga och selektiva."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC145"
+question = "Finns det problem i medicinska diagnosmanualernas språk?"
+answer = "Freedman & Honkasilta (2017:578) lyfter i sin diskussion att det vaga, breda och värdeladdade språket i diagnosmanualerna DSM-5 och ICD-10 kan bidra till att fler inkluderas av diagnoskriterierna samt att synen på normalt kontra onormalt beteende påverkas."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "DC146"
+question = "Vad har medicin för roll i sociala normer?"
+answer = "Under de senaste 150 åren har medicin utvecklats till en institution för social kontroll, bland annat genom att definiera vad som anses vara normalt och avvikande i samhället (White, 2017:48)."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "DC147"
+question = "Vad innebär medikalisering?"
+answer = "Medikalisering är ett begrepp som används för att visa på hur den medicinska diskursen används för att förklara och hantera beteenden som nödvändigtvis inte är vare sig biologiska eller medicinska (White, 2017:47)."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [16]
+
+[[questions]]
+id = "DC148"
+question = "Måste privata vårdgivare redogöra för sina adhd diagnoser?"
+answer = "Med erbjudandet om ADHD-utredningar följer även att företagen behöver redogöra för ADHD-diagnosens orsaker och symptom."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [28]
+
+[[questions]]
+id = "DC149"
+question = "Vad gör privata vårdgivare för att skapa trovärdighet kring adhd diagnoser?"
+answer = "Genom att hänvisa till utredningarna som omfattande och evidensbaserade, samt betona att ingen utredning påbörjas såvida det inte finns misstanke om diagnos, avvisar man samtidigt uppfattningen om att en diagnos kan köpas eller ges lättvindigt."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [38]
+
+[[questions]]
+id = "DC150"
+question = "Hur framställs priserna på adhd utredningar av privata vårdgivare?"
+answer = "Man skriver ut pris på sina utredningar och framställer sig som mest prisvärda i jämförelse med andra vårdgivare."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "ADHD-DIAGNOS_I_VARUKORGEN.pdf"
+page_numbers = [38]
+
+
+#--------------------------------------------------#
+#-adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf-#
+#--------------------------------------------------#
+
+[[questions]]
+id = "DC151"
+question = "Vad beror adhd på?"
+answer = "Adhd har en biologisk grund och ärftlighet har visat sig ha störst betydelse för uppkomsten av adhd."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC152"
+question = "Vad är add?"
+answer = "Adhd, huvudsakligen ouppmärksam form som innebär ouppmärksamhet, men få eller inga symtom på hyperaktivitet och impulsivitet. I vardagligt tal används ofta förkortningen add (attention deficit disorder)."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC153"
+question = "Vad beskrev den Alexander Crichton gällande barn med adhd?"
+answer = "Redan år 1798 beskrev den skotske läkaren Alexander Crichton barn med svårigheter som motsvarar adhd, kombinerad form och adhd, huvudsakligen ouppmärksam form."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC154"
+question = "Vilka svårigheter med uppmärksamhet medför add?"
+answer = "När du har add är det svårt att med viljans hjälp styra din uppmärksamhet, fokusera på det som är viktigt och skifta fokus mellan olika saker när det behövs."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC155"
+question = "Varför kan föräldrar misstänka dålig hörsel hos barn med add?"
+answer = "Svårigheter med uppmärksamhet har ibland lett till att föräldrar misstänkt att deras barn har dålig hörsel."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC156"
+question = "Varför har personer med add ofta svårt för huvudräkning?"
+answer = "Många barn och vuxna med add har ett nedsatt arbetsminne. Det gör att uppgifter som ställer krav på arbetsminnet blir svåra, till exempel huvudräkning."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC157"
+question = "Varför har personer med add svårt att starta aktiviteter?"
+answer = "När du ska planera och handla målinriktat ställer det höga krav på både arbetsminne och uppmärksamhet. Det kan därför ta mycket energi att hitta ett sätt att ta sig an en uppgift och att starta."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC158"
+question = "Varför har personer med add svårt att passa tider?"
+answer = "Om det är svårt att beräkna hur lång tid det tar att göra sig i ordning och förflytta sig från en plats till en annan, kan det bli svårt att passa tider."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC159"
+question = "Är det vanligt med sömnbesvär hos personer med add?"
+answer = "Stora sömnsvårigheter och perioder av vakenhet under natten är vanligt vid add."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC160"
+question = "Har personer med add motoriska problem?"
+answer = "Vissa barn med add har motoriska svårigheter som kan märkas i både grov- och finmotoriken."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "adhd–huvudsakligen-ouppmarksam-form-add-2023.pdf"
+page_numbers = [7]
+
+
+#--------------------------------------------#
+#--Ambulanssjuksköterskans_erfarenheter.pdf--#
+#--------------------------------------------#
+
+[[questions]]
+id = "DC161"
+question = "Har ambulanssjukvården utvecklats snabbt?"
+answer = "Enligt Kight och Andersson (2023) har ambulanssjukvården sedan 1980 talet utvecklats snabbt och det var även då landstingen började driva ambulansverksamheten i egen regi."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC162"
+question = "Vad innebär IVPA uppdrag enligt Socialstyrelsen?"
+answer = "Socialstyrelsen (HSLF-FS 2018:38) innebär det att exempelvis räddningstjänst eller kommunsjuksköterska har, när det inkommer ett potentiellt livshotande larm till SOS i uppdrag att i väntan på ambulans utföra livräddande åtgärder."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC163"
+question = "Vad är den mest akuta medicinska nödsituationen utanför sjukhus?"
+answer = "Hjärtstopp utanför sjukhus är den mest akuta medicinska nödsituationen (Eng Hock Ong et al., 2018)."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC164"
+question = "Vilket läkemedel används primärt vid hjärtstopp?"
+answer = "Nolan och Perkins (2013) menar att adrenalin varit förstahandsläkemedel vid behandling av hjärtstopp sedan uppkomsten av modern HLR i början av 1960-talet."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC165"
+question = "Hur ofta uppdateras riktlinjer för HLR?"
+answer = "Nya riktlinjer publiceras var femte år av Europeiska HLR rådet (ERC)."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC166"
+question = "Vad är viktigt för närstående under HLR?"
+answer = "Det är viktigt att närstående informeras om vad som händer och att även personal finns tillgänglig för att stödja närstående (Svenska Läkarsällskapet, 2021)."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC167"
+question = "Vad ska sjuksköterskan göra enligt ICN?"
+answer = "Enligt ICN (2022) ska sjuksköterskan företräda patientens perspektiv och främja etiskt handlande."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [8,25]
+
+[[questions]]
+id = "DC168"
+question = "Hur upplever vårdpersonal allvarliga händelser?"
+answer = "Fernández-Aedo et al., (2017) menar att även om vårdpersonal frekvent ställs inför att hantera allvarliga händelser betraktas fortfarande upplevelsen chockerande och stressande för vårdpersonalen."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [10,25]
+
+[[questions]]
+id = "DC169"
+question = "Hur upplevs hjärtstoppssituationer av ambulanssjuksköterskor?"
+answer = "Trots att en hjärtstoppssituation är en allvarlig och en ofta kaotisk situation kan den upplevas som väldigt lugn."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [18]
+
+[[questions]]
+id = "DC170"
+question = "Vem har det medicinska ansvaret i ambulansen?"
+answer = "Ambulanssjuksköterskan är den som har det medicinska ansvaret och med det följer flertalet beslut att fatta."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Ambulanssjuksköterskans_erfarenheter.pdf"
+page_numbers = [20]
+
+
+#---------------------------------------------#
+#--Arbetsmiljo_och_psykisk_halsa_digital.pdf--#
+#---------------------------------------------#
+
+[[questions]]
+id = "DC171"
+question = "Är psykisk ohälsa och psykiskt välbefinnande motpolära begrepp?"
+answer = "Psykiskt välbefinnande och psykisk ohälsa är olika dimensioner och inte varandras motsatser."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "DC172"
+question = "Hur påverkar friskfaktorer arbetsmiljön?"
+answer = "Allmänt kan sägas att friskfaktorer påverkar arbetsmiljön på så sätt att de främjar hälsa och bidrar till att arbetstagare vidmakthåller sin hälsa och kan arbeta och uppfylla sina och arbetets mål över tid."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "DC173"
+question = "Påverkar den fysiska arbetsmiljön den psykiska hälsan?"
+answer = "I rapporterna bedöms underlagen för att beskriva sambandet mellan fysisk arbetsmiljö och psykisk hälsa som otillräckligt."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "DC174"
+question = "Hur definerar Arbetsmiljöverket långa arbetsdagar?"
+answer = "Långa arbetstider definieras i en rapport från Arbetsmiljöverket som arbetspass längre än 10 timmar eller arbetsveckor motsvarande mer än till exempel 40, 48 eller 60 timmar."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [16]
+
+[[questions]]
+id = "DC175"
+question = "Hur definerar Arbetsmiljöverket ledarskap?"
+answer = "Ledarskap kan, enligt en rapport från Arbetsmiljöverket, beskrivas som en påverkansprocess som syftar till att underlätta utförandet av en kollektiv uppgift även om det saknas en fastslagen definition."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [17]
+
+[[questions]]
+id = "DC176"
+question = "Hur definerar Arbetsmiljöverket spänt arbete?"
+answer = "Av en rapport från Arbetsmiljöverket motsvarar spänt arbete en arbetssituation som utmärks av höga krav kombinerat med låg kontroll."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [18]
+
+[[questions]]
+id = "DC177"
+question = "Kan depression kopplas till psykologisk belastning på arbetsplatsen?"
+answer = "Arbetsmiljöverket beskriver i en litteratursammanställning sambanden mellan psykologiska krav och psykisk hälsa och konstaterar att det finns en koppling mellan ökade psykologiska krav och symtom på depression."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [19]
+
+[[questions]]
+id = "DC178"
+question = "Påverkar hinder i arbetet den psykiska hälsan?"
+answer = "När det gäller hur hinder i arbetet påverkar psykisk hälsa visar systematiska översiktsstudier enligt Arbetsmiljöverket en koppling mellan sådana hinder och psykisk ohälsa i form av utbrändhet."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [21]
+
+[[questions]]
+id = "DC179"
+question = "Vad är anställningsotrygghet?"
+answer = "Anställningsotrygghet definieras, enligt en rapport från Arbetsmiljöverket, som en ”subjektiv upplevelse som speglar risken att förlora sitt nuvarande arbete”."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [22]
+
+[[questions]]
+id = "DC180"
+question = "Finns det samband mellan rollkonflikt och psykisk hälsa?"
+answer = "Arbetsmiljöverket beskriver i en rapport att när det gäller sambanden mellan rollkonflikt och olika aspekter av psykisk hälsa finns det samband med utbrändhet, inklusive olika dimensioner av utbrändhet som exempelvis känslomässig utmattning och depersonalisering/cynism."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Arbetsmiljo_och_psykisk_halsa_digital.pdf"
+page_numbers = [23]
+
+
+#-------------------------------------------#
+#---arbetsterapi_primarvarden_webb_v2.pdf---#
+#-------------------------------------------#
+
+[[questions]]
+id = "DC181"
+question = "Är tillgången till arbetsterapi likadan i hela Sverige?"
+answer = "Tillgången till arbetsterapeuter varierar stort över landet, vilket medfört att jämlik vård och rehabilitering inte kan säkerställas."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC182"
+question = "Vad anser Sveriges Arbetsteruter om medborgarnas rätt till arbetsterapi?"
+answer = "Oavsett modell för vårdval ska medborgarnas rätt till arbetsterapi säkerställas."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC183"
+question = "Vad är arbetsterapeutens fokus?"
+answer = "Arbetsterapeutens fokus är personens aktivitetsförmåga och delaktighet genom hela livet."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC184"
+question = "Hur utförs arbetsterapeutiska insatser?"
+answer = "Arbetsterapeutiska insatser är personcentrerade och utförs alltid i samverkan med personen och tillsammans med närstående eller vårdpersonal när så behövs."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC185"
+question = "Vad är arbetsterapeuts uppgifter?"
+answer = "Arbetsterapeutens uppgifter är att utreda och bedöma personers aktivitetsnedsättningar samt vid behov genomföra åtgärder för att minska aktivitetsnedsättningen."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC186"
+question = "Vad används arbetsterapeutens utredning och bedömning för?"
+answer = "Arbetsterapeutens utredning och bedömning är en grund för arbetsterapeutiska insatser, men har alltmer börjat användas för att ge underlag vid diagnostisering av sjukdom och andra beslut, exempelvis vid misstänkt demens, vid beslut om sjukskrivning, indragning av körkort eller vapenlicens."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC187"
+question = "Kan någon utöver den skadade personen be om en utredning från arbetsterapeuten?"
+answer = "Myndigheter, andra vårdgivare och försäkringsbolag begär ofta arbetsterapeutisk utredning och bedömning över en persons aktivitetsnedsättning som underlag för deras beslut."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC188"
+question = "Varför bör primärvården inneha kompetens i arbetsterapi?"
+answer = "Alltfler personer med flersjuklighet eller med komplexa vårdbehov, som till exempel personer med kronisk sjukdom, långtidssjukskrivna på grund av stress, depression eller annan fysisk, psykisk eller intellektuell funktionsnedsättning, behandlas inom primärvården."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC189"
+question = "Stör ekonomiska krav arbetsterapeutens förmåga att ge adekvat vård?"
+answer = "Ekonomiska krav har ibland medfört att man har svårt att fullfölja sina arbetsuppgifter utifrån sitt yrkesansvar och Sveriges Arbetsterapeuters etiska kod – Etisk kod för arbetsterapeuter (Sveriges Arbetsterapeuter, 2012)"
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC190"
+question = "Hur har vårdvalet påverkat arbetsterapeuters resurser?"
+answer = "Vårdvalet har generellt sett medfört minskade resurser för arbetsterapi."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "arbetsterapi_primarvarden_webb_v2.pdf"
+page_numbers = [10]
+
+#--------------------------------------------------------#
+#--Faktablad-om-arbetsmilijorisker-under-graviditet.pdf--#
+#--------------------------------------------------------#
+
+[[questions]]
+id = "DC191"
+question = "Hur stor är risken för missfall?"
+answer = "Man brukar räkna med att ca 15-30 % av konstaterade graviditeter leder till missfall."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "DC192"
+question = "Vilka sorts arbeten får inte gravida kvinnor utföra?"
+answer = "Gravida arbetstagare (Gravida och ammande arbetstagare: AFS 2007:5; AFS 2018:7) får inte sysselsättas i verksamhet som utförs under vatten (Dykeriarbete: AFS 2010:16; AFS 2014:6; AFS 2019:4), under förhöjt tryck eller vid rök- och kemdykning (AFS 2007:7; AFS 2014:14; AFS 2019:13), i verksamheter som innebär risk för exponering för rubella (röda hund), toxoplasma eller andra mikrobiologiska arbetsmiljörisker (AFS 2018:4; AFS 2020:3), i blyarbete (AFS 2005:6; AFS 2014:23; AFS 2019:3) eller gruvarbete under jord som är förknippat med särskilda risker (Berg- och gruvarbete: AFS 2010:1, AFS 2014:10)."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC193"
+question = "Vilka lösningsmedel bör gravida kvinnor undvika?"
+answer = "När det gäller enskilda lösningsmedel har toluen (djuptryckerier och skotillverkning) och tetra- och perkloretylen (kemtvättar) diskuterats som riskfaktorer."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC194"
+question = "Hur påverkar oorganiskt bly spermieproduktionen?"
+answer = "Exponering för oorganiskt bly kan leda till minskat spermieantal och ökat antal onormala spermier vid blodblynivåer omkring 2-2,5 μmol/L."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC195"
+question = "Hur exponeras de flesta för metylkvicksilver?"
+answer = "Den huvudsakliga exponeringen kommer vanligen via födan."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC196"
+question = "Påverkar kadmium mannens fertilitet?"
+answer = "Kadmium kan också påverka kärlcirkulationen i testiklarna, spermiebildningen samt spermiernas kvalitet och motilitet, vilket kan nedsätta mannens fertilitet (Kumar och Sharma 2019)."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC197"
+question = "Vad är gränsvärdet för etylenoxid i Sverige?"
+answer = "Etylenoxid har ett svenskt gränsvärde på 1,8 mg/m3"
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC198"
+question = "Vilken sill bör gravida kvinnor undvika?"
+answer = "På grund av förekomsten av dioxin och dioxinlika PCB:er rekommenderar Livsmedelsverket gravida och kvinnor i barnafödande åldrar samt barn att inte äta sill/strömming (även surströmming) från Östersjön, vildfångad lax och öring från Östersjön, Bottniska viken och älvarna, Vänern och Vättern, vildfångad sik från Vänern och Vättern samt vildfångad röding från Vättern mer än sammanlagt högst 2-3 gånger per år."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC199"
+question = "Hur mycket radon finns i svenska dricksvatten?"
+answer = "Medelvärdet för radonhalten i dricksvatten i Sverige uppskattas till ca 38 Bq/L (SOU 2001:7)."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "DC200"
+question = "Hur påverkar nattarbete graviditeten?"
+answer = "Nattarbete i samband med graviditet och under amningsperioden anses normalt inte innebära någon ökad risk. Nattarbete som kan innebära påtaglig fysisk och/eller psykisk belastning bör däremot undvikas under graviditet."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "Faktablad-om-arbetsmilijorisker-under-graviditet.pdf"
+page_numbers = [12]
+
+
+#----------------------------------------------------#
+#----FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf----#
+#----------------------------------------------------#
+
+[[questions]]
+id = "DC201"
+question = "Är graviditet en sjukdom?"
+answer = "Graviditet är vanligen ett tillstånd förknippat med god hälsa och i sig inte någon sjukdom."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "DC202"
+question = "Hur mycket ökar blodvolymen under graviditeten?"
+answer = "Blodvolymen ökar successivt under graviditeten med cirka 40–50 procent."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC203"
+question = "Får otränade gravida kvinnor fler komplikationer?"
+answer = "Vältränade kvinnor anpassar sig snabbare till de förändringar graviditeten innebär samt mår bättre och får färre komplikationer."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC204"
+question = "Måste professionella atleter sluta träna under graviditeten?"
+answer = "Det bör påpekas att många elitidrottare har fortsatt med hård träning utan komplikationer och att det anses att detta kan göras med rådgivning från obstetriker."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC205"
+question = "Vilka typer av träning rekommenderas under graviditet?"
+answer = "Alla aktiviteter som innehåller rytmiskt och dynamiskt arbete med stora muskelgrupper rekommenderas, exempelvis snabba promenader, stavgång, joggning, cykling, aerobics, step-up-träning, gymnastik och dans."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC206"
+question = "Vilka muskelgrupper bör gravida kvinnor träna?"
+answer = "Muskelstärkande fysisk aktivitet under graviditeten bör fokusera på bäckenbottenmuskler samt rygg- och magmuskler, men även träning av de nedre och övre extremiteterna kan med fördel läggas in."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC207"
+question = "Varför brukar gravida kvinnor få ont i ryggen?"
+answer = "Den förändrade kroppshållningen under graviditeten, med ökad lumbal lordos (svank) och thorakalkyfos (bakåtvälvning av bröstryggraden), anses vara en av orsakerna till att ryggbesvär kan uppstå."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC208"
+question = "Hur vanligt är nya fall av avföringsinkontinens efter förlossning?"
+answer = "Nya fall av avföringsinkontinens som uppstår efter förlossning varierar mellan 26–38 procent 6 veckor till 6 månader efter förlossning."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC209"
+question = "Hur många av Sveriges gravida kvinnor är överviktiga?"
+answer = "I Sverige är i dag närmare 40 procent av gravida kvinnor överviktiga (BMI > 25) varav cirka 12 procent är feta (BMI > 30) vid inskrivning på mödravårdscentralen."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC210"
+question = "Påverkar träning amning?"
+answer = "Fysisk aktivitet på måttlig nivå påverkar inte amningen eller barnets tillväxt. Under amningsperioden är även tillräcklig vätske- och näringstillförsel viktigt att beakta."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "FYSS-kapitel_FA_Graviditet_FINAL_2016-12.pdf"
+page_numbers = [9]
+
+
+#--------------------------------------------------------------------------------------------------#
+#----rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf----#
+#--------------------------------------------------------------------------------------------------#
+
+[[questions]]
+id = "DC211"
+question = "Vilket initiativ försöker minska lågvärdeinsatser inom vården?"
+answer = "Ett initiativ är Choosing Wisely som startade i USA och som syftar till att främja dialog mellan läkare och patienter kring vilka tester, undersökningar och behandlingar som är nödvändiga – och vilka som inte är det."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [7]
+
+
+[[questions]]
+id = "DC212"
+question = "Vem bestämmer vad som är icke-göra åtgärder?"
+answer = "I dagsläget är det Socialstyrelsen som, inom ramen för de nationella riktlinjerna, kategoriserar insatser som lågvärdeinsatser, så kallade icke-göra."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [7]
+
+
+[[questions]]
+id = "DC213"
+question = "Är det ibland patienten som frågar efter lågvärdeinsatser?"
+answer = "Studierna visar att patienter och deras anhöriga kan efterfråga lågvärdeinsatser och motsätta sig utmönstring av dessa."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [10]
+
+
+[[questions]]
+id = "DC214"
+question = "Vad är en vanlig taktik för att sänka antalet förekomster av lågvärdeinsatser?"
+answer = "En ofta använd åtgärd för att minska lågvärdeinsatser är att utforma och publicera riktlinjer och rekommendationer kopplade till vad som kan klassas som lågvärdeinsatser."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [11]
+
+
+[[questions]]
+id = "DC215"
+question = "Vilka är de fyra underkategorier för osäkerhet och oenighet kring vad som räknas som en lågvärdeinsats?"
+answer = "1) omedvetenhet om att en insats definieras som en lågvärdeinsats 2) att riktlinjer uppfattas motsäga varandra 3) att riktlinjerna inte upplevs som relevanta för deras patientgrupp 4) en brist på förtroende för källan bakom riktlinjerna."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [17]
+
+
+[[questions]]
+id = "DC216"
+question = "Hur kan det hjälpa att försvåra beställandet av vissa labbprover?"
+answer = "Detta tar bort aktiverare att för använda onödiga prover och gör det till en större ansträngning att beställa ett onödigt prov (dvs. påverkan av konsekvenser)."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [20]
+
+
+[[questions]]
+id = "DC217"
+question = "Finns det nog med data för att mäta förekomsten av lågvärdeinsatser?"
+answer = "I nuläget finns det en brist på data som gör det möjligt att på ett pålitligt sätt beräkna förekomsten av lågvärdeinsatser."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [24]
+
+
+[[questions]]
+id = "DC218"
+question = "Känner läkare att de får hjälp av systemet för att minska lågvärdesinsatser?"
+answer = "lågvärdeinsatser. Det framkommer att det finns en upplevelse att man som läkare är utlämnad till att själv försöka jobba med frågan."
+difficulty = "Hard"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [18]
+
+
+[[questions]]
+id = "DC219"
+question = "Vad handlar \"Röntga lätt och lagom\" om?"
+answer = "Ett exempel som deltagarna tar upp är “Röntga lätt och lagom” som specificerar när olika undersökningar ska göras och inte, samt vilka kostnader som finns kopplade till undersökningarna."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [21]
+
+
+[[questions]]
+id = "DC220"
+question = "Vad används styrkort till inom primärvården?"
+answer = "De flesta vårdcentralerna använder någon form av styrkort med indikatorer och aktivitetsplaner för att följa upp verksamhetens mål."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-2024.1-lagvardeinsatser-inom-primarvarden-i-region-stockholm_tga.pdf"
+page_numbers = [23]
+
+
+#---------------------------------------------#
+#----rapport-finansiellt-valbefinnande.pdf----#
+#---------------------------------------------#
+
+[[questions]]
+id = "DC221"
+question = "Varför har FI och folkhälsomyndigheten undersökt svenskars privatekonomi?"
+answer = "Finansiell folkbildning och folkhälsa är nära sammankopplat."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "DC222"
+question = "Hur stor andel av befolkningen i Sverige är inte nöjda med sin ekonomiska situation?"
+answer = "En av tre är inte nöjd med sin nuvarande ekonomiska situation."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC223"
+question = "Vem är mest nöjd med sitt månadssparande i Sverige?"
+answer = "De som är allra nöjdast med sitt månatliga sparbelopp återfinns till störst del bland män, de allra äldsta i åldrarna 75–79 år, och hushåll med högst månadsinkomst (över 100 000 kr)."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC224"
+question = "Hur många i Sverige anger att de inte har någon att tala med angående sin ekonomi?"
+answer = "En av fem saknar, eller är osäkra på, om de har personer i sin närhet de kan anförtro sig till om sina innersta känslor eller om sin ekonomi."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC225"
+question = "Vad säger majoriteten om att ha en sparbuffert?"
+answer = "Drygt hälften är intresserade av ekonomiska frågor och en stor majoritet tycker det är viktigt att spara till en buffert för oförutsedda händelser."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC226"
+question = "Vilken grupp har spekulerat mest i kryptovalutor på senare tid?"
+answer = "Det är vanligare att män har spekulerat i högrisksparande de senaste 12 månaderna och sett till åldersgrupper är högrisksparande vanligast bland de yngsta, 18–24 år."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC227"
+question = "Vilka grupper är överrepresenterade bland personer med riskabelt spelande?"
+answer = "Riskabelt spelande är överrepresenterat bland män, 18–34-åringar, ensamstående, studerande, personer med relativt god inkomst och storstadsbor."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC228"
+question = "Vilket kön är mest bekväm med att tala om sin ekonomi med sina nära?"
+answer = "Män har större tilltro till sina egna privatekonomiska kunskaper än vad kvinnor har och är mer bekväma med att prata om sin privatekonomiska situation med närstående."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC229"
+question = "Vilka har möjlighet att låna pengar med kort varsel?"
+answer = "Sett till ekonomiskt stöd är det främst 25–44 åringar som har möjlighet att kunna låna pengar av familj, släkt eller vänner med kort varsel."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC230"
+question = "Hur menar finansinspektionen att de lär befolkningen om ekonomi"
+answer = "Genom utbildningar, informationsmaterial och olika kommunikativa insatser som anpassats till olika målgruppers behov sprids kunskap om privatekonomi."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "rapport-finansiellt-valbefinnande.pdf"
+page_numbers = [6]
+
+
+#-----------------------------#
+#----REUPPSYSJUGRAVIDA.pdf----#
+#-----------------------------#
+
+[[questions]]
+id = "DC231"
+question = "När är risken störst för symtom för gravida kvinnor med psykiska hälsoproblem?"
+answer = "Efter förlossningen finns en ökad risk för symptom inom de närmaste två veckorna, även om man mått bra under graviditeten."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC232"
+question = "Delar BB sin information till BVC?"
+answer = "Från BB sker alltid en informationsöverföring till BVC, särskilt om det är något speciellt."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC233"
+question = "Vad är en barnmorska?"
+answer = "Barnmorskan (BM) är den vårdperson som kvinnan har en tidig och regelbunden kontakt med. BM har en samlad kunskap och historiken kring graviditeten och är den som har ansvaret för att sammanställa informationsöverföringen till förlossningen."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "DC234"
+question = "Vilka patienter bör Specialistmödravården ha teammöten om?"
+answer = "Teammöten bör planeras för kvinnor med känd psykiatrisk problematik såsom till exempel bipolär sjukdom och psykossjukdom."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC235"
+question = "Vilken typ av vård bör patienter med affektiva sjukdomar få?"
+answer = "Många av dessa kvinnor behöver inte vårdas inom specialistpsykiatrin, utan kan med fördel omhändertas via primärvård i samarbete med mödrahälsovården enligt överenskommelse mellan primärvård och psykiatrisk specialistvård kring handläggning av psykiatrisk sjukdom (2)."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC236"
+question = "Vad är depression med peripartumdebut?"
+answer = "Depression med peripartumdebut definieras, enligt DMS-5, som en egentlig depressionsepisod som startar under graviditet eller inom 4 veckor efter en förlossning."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "DC237"
+question = "Hur stor andel av svenska befolkningen har bipolär sjukdom?"
+answer = "Bipolär sjukdom förekommer hos 1–2 % av befolkningen, och många kvinnor insjuknar under sin fertila period."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "DC238"
+question = "Vad kännetecknar gravida kvinnor med bipolär sjukdom?"
+answer = "Patienter med bipolär sjukdom har ofta god funktionsnivå under långa perioder, men löper hög risk för återinsjuknande perinatalt."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "DC239"
+question = "Hur påverkar litiumbehandling amning?"
+answer = "Amning kan generellt inte rekommenderas då kvinnan behandlas med Lamotrigin eller litium."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "DC240"
+question = "Hur vanligt är schizofreni i Sverige?"
+answer = "Schizofreni förekommer hos cirka 0,5 % av befolkningen, schizoaffektiv sjukdom är mindre vanligt och vanföreställningssyndrom förekommer uppskattningsvis hos 0,03 %."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "REUPPSYSJUGRAVIDA.pdf"
+page_numbers = [15]
+
+
+#---------------------#
+#----SOCH02095.pdf----#
+#---------------------#
+
+[[questions]]
+id = "DC241"
+question = "Vad klassas alkoholism som?"
+answer = "Ur klassificerings synpunkt såväl internationellt, i svensk lagstiftning och i behandlingspraxis hävdas det att alkoholism är en kronisk sjukdom (Larsson 2002)."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "DC242"
+question = "Vad är mortifikationell stress?"
+answer = "Det vill säga att de upplever sig utsatta för omgivningens kritiska blickar, förödmjukelser och klander som attackerar självkänslan."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "DC243"
+question = "Hur kan den kristna hälsomodellen beskrivas?"
+answer = "I den judisk-kristna modellen var hälsa samma sak som att leva i harmoni med gud och hans lagar. Bakom varje olycka eller sjukdom fanns en yttersta orsak, en begången synd."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC244"
+question = "Hur särskiljer sig kinesisk dualism från västvärldens?"
+answer = "Skillnaden när det gäller denna dualism jämfört med västerläska modeller är att det inte föreligger någon konflikt utan att de bildar en harmoni."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC245"
+question = "Vaför bör alla vätskor vara i balans enligt Hippokrates?"
+answer = "När dessa var i balans var människan frisk."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "DC246"
+question = "Vad är målet med den psykosomatiska modellen?"
+answer = "I denna modell, som på olika sätt tillhör de medicinska modellerna, försöker man titta på vilken påverkan olika psykiska reaktioner har på kroppen."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "DC247"
+question = "Vad innebär hälsa i den utvecklingsekologiska modellen?"
+answer = "I denna modell tänker man sig att hälsa omfattar det tillstånd där positiv interaktion mellan individen och individens fysiska, psykiska och sociala omgivning råder."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "DC248"
+question = "Vem var först med att använda termen salutogenes?"
+answer = "Begreppet salutogenes myntades av den amerikansk-israeliske medicinske sociologen Aaron Antonovsky 1923-1994."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [20]
+
+[[questions]]
+id = "DC249"
+question = "Vad betyder hanterbarhet?"
+answer = "Syftar på till vilken grad en människa upplever att det står resurser till ens förfogande, med hjälp av vilka man kan möta de krav som ställs av stimuli som man bombarderas av."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [24]
+
+[[questions]]
+id = "DC250"
+question = "Kan man säga att ett test är reliabelt?"
+answer = "Om ett test kan man säga att det är reliabelt endast i förhållande till en given population."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "SOCH02095.pdf"
+page_numbers = [26]

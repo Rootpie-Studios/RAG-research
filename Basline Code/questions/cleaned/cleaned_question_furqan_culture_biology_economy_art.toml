@@ -1,0 +1,921 @@
+
+[[questions]]
+id = "PAVFR001"
+question = "Vilken fråga reflekterade författaren mest över under VFU-perioderna?"
+answer = "Mest reflekterade jag över frågan om lärarens konstsyn påverkar elevens smakriktning vid skapande arbete"
+difficulty = "Easy"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR002"
+question = "Vad kräver de nationella kursplanerna att undervisningen i bildämnet ska ge eleverna förutsättningar till?"
+answer = "Undervisningen i ämnet bild i grundskolan ska ge eleverna förutsättningar att utveckla sin förmåga att skapa bilder, såväl med digitala som med hantverksmässiga tekniker samt med olika verktyg och material"
+difficulty = "Easy"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR003"
+question = "Vilka tre centrala moment består ämnet bild av enligt Lgr 69?"
+answer = "Ämnet består av tre centrala moment, estetisk orientering (och miljögestaltning), bildkommunikation och bildframställning"
+difficulty = "Easy"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR004"
+question = "Vad är en prioritering i eftersträvandemålen i Lpo 94 enligt dokumentet?"
+answer = "Eleven ska utveckla sin förmåga att kommunicera med bilder"
+difficulty = "Easy"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR005"
+question = "Vilket krav ställer Lgr 11 på bildframställning?"
+answer = "Eleven ska utveckla sin förmåga att framställa bilder två- och tredimensionellt med olika material och genom olika medium, digitala som hantverksmässiga"
+difficulty = "Easy"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR006"
+question = "Vilken framtida kompetens lyfter Skolverkets rapport från 2003 fram?"
+answer = "Digital bildhantering som en ny och framtida medborgerlig kompetens"
+difficulty = "Medium"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR007"
+question = "Vilka tre utvecklingsfaser kopplar Ander Marner bildämnet till?"
+answer = "Auktoritär metodik, fritt skapande och nuvarande multimodal utvecklingsfas där interaktivitet och mottagare upptar en framträdande roll"
+difficulty = "Medium"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR008"
+question = "Vad innebär parafras i bildundervisningen enligt Marner?"
+answer = "En form av metasemiotisk bild som innebär bland annat att göra integrationer och oppositioner mellan bildelement, att kommunicera upplevelser genom bildtecken genom att till exempel ändra, låna en konststil eller lägga till ett penseldrag för att skapa en effekt"
+difficulty = "Hard"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR009"
+question = "Vilka fyra aspekter av digitala mediers implementering identifieras av Marner och Örtegren?"
+answer = "Motstånd, addering, inbäddning och dominans"
+difficulty = "Medium"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAVFR010"
+question = "Vilken slutsats drar forskarna om digitala mediers roll i bildundervisningen?"
+answer = "IKT ännu inte har tagit över och inte blivit ett ensidigt instrumentellt verktyg"
+difficulty = "Medium"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAVFR011"
+question = "Hur beskrivs ämnets utveckling från 1919 till idag i relation till arbetsmaterial?"
+answer = "Sedan1960-talet och ända fram till idag inbegriper ämnet all slags arbetsmaterial. Numera inriktas ämnet på keramik, skulptur, foto, film, video, trycktekniker som linoleum och tecknade serier med mera"
+difficulty = "Medium"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR012"
+question = "Vilken förändring i ämnesfokus har skett enligt genomgången av kursplaner och rapporter?"
+answer = "Ämnet har bytt skepnad och fokus flera gånger under tidens lopp, från ett estetiskt med fokus på skönhetssinnen och smakuppfostran, till ett praktiskt, kommunikationsinriktat och digitaliserat, ämne"
+difficulty = "Medium"
+category = "Culture"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_03.pdf"
+page_numbers = [6]
+
+
+[[questions]]
+id = "PAVFR013"
+question = "Vilka organisationer har inventerat flodpärlmusslor i Enningdalsälven, Kolarebäcken, Sollumsån, Verkälven, Tattarströmmarna och Önnarp under sommaren 2013?"
+answer = "Under sommaren 2013 har Melica, och Sportfiskarna, på uppdrag av Länsstyrelsen Västra Götalands län inventerat flodpärlmussla i Enningdalsälven, Kolarebäcken, Sollumsån, Verkälven, Tattarströmmarna och Önnarp enligt metoden enkel statusbeskrivning"
+difficulty = "Hard"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAVFR014"
+question = "Vilken metod har använts för inventering i Gärebäcken, Slereboån och Tidan?"
+answer = "I Gärebäcken, Slereboån och Tidan har metoden statusbeskrivning använts"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAVFR015"
+question = "Vad är syftet med övervakningen av flodpärlmusslor?"
+answer = "Syftet med övervakningen är att följa status och trender för de ingående vattendragen med avseende på flodpärlmussla och jämföra resultaten med tidigare inventeringar"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAVFR016"
+question = "Hur många av de inventerade vattendragen hade inventerats tidigare?"
+answer = "Ett av vattendragen har inventerats tidigare, Gärebäcken, de resterande 8 är nyinventeringar"
+difficulty = "Medium"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAVFR017"
+question = "Hur många levande musslor hittades i Enningdalsälven?"
+answer = "I Enningdalsälven fann vi endast 7 levande musslor, inventeringsområdet hade restaurerats tidigare i år"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR018"
+question = "När bedömdes Kolarebäcken och Sollumsån senast ha ett högt skyddsvärde?"
+answer = "Kolarebäcken och Sollumsån har tidigare inventerats med metoden statusbeskrivning, senast år 2010 då båda bedömdes ha ett högt skyddsvärde"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR019"
+question = "Hur många musslor hittades i Tattarströmmarna trots omfattande eftersök?"
+answer = "Tattarströmmarna trots omfattande eftersök för att inrätta en provlokal hittade vi endast tre musslor"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR020"
+question = "Finns det juvenila musslor i Verkälvens population?"
+answer = "Verkälvens population består sannolikt av fler än 500 individer men vi fann inga juveniler"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR021"
+question = "Är Ätrans population av flodpärlmusslor livskraftig?"
+answer = "Ätrans population består sannolikt av fler än 500 individer, dessutom fann vi juvenila musslor, beståndet bör undersökas med metoden statusbeskrivning"
+difficulty = "Medium"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR022"
+question = "Hur bedöms Gärebäcken gällande skyddsvärde?"
+answer = "Gärebäcken bedöms som skyddsvärd"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR023"
+question = "Hur många individer uppskattas Slereboåns population till?"
+answer = "Slereboån har en population uppskattad till c:a 11000 individer, dock inga juveniler"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR024"
+question = "Hur många individer finns i Tidans population av flodpärlmusslor?"
+answer = "Tidan med en population på c:a 60 000 individer är nu länets största bestånd av flodpärlmusslor och glädjande nog var 4 % juveniler"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR025"
+question = "Vad behöver flodpärlmusslorna i Tidan för att skyddas?"
+answer = "Flodpärlmusslorna i Tidan behöver ett områdesskydd, t.ex. ett naturreservat"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR026"
+question = "Hur många kända vattendrag i Västra Götalands län förekommer den utrotningshotade arten flodpärlmussla?"
+answer = "I Västra Götalands län förekommer den utrotningshotade arten flodpärlmussla i 51 kända vattendrag (Söderberg et.al 2008) och det bedrivs regional miljöövervakning i 13 av dessa (Tabell 2)"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR027"
+question = "Vilka är de senast tillkomna vattendragen i den regionala miljöövervakningen?"
+answer = "Nordån, Slereboån, Sörån och Tidan är de senast tillkomna vattendragen"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR028"
+question = "Vad är orsaken till att flodpärlmusselbestånden inte hamnar i en högre statusklass än ej livskraftig?"
+answer = "Orsaken till att bestånden inte hamnar i en högre statusklass än ej livskraftig beror på den låga andelen juvenila musslor (<50mm) i populationerna"
+difficulty = "Medium"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR029"
+question = "Vilka vattendrag ingår i uppdraget för inventering 2013 och 2014?"
+answer = "Uppdraget är uppdelat på två år och 13 vattendrag (Tabell 3) som skall inventeras enligt Havs- och vattenmyndighetens rekommenderade metod för övervakning av flodpärlmussla (Bergengren et.al 2010)"
+difficulty = "Medium"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR030"
+question = "Vilka är de två metoderna för övervakning av flodpärlmussla?"
+answer = "För flodpärlmussla finns det två metoder, enkel statusbeskrivning och statusbeskrivning och övervakning av flodpärlmussla"
+difficulty = "Easy"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR031"
+question = "Vad undersöks när man använder metoden enkel statusbeskrivning?"
+answer = "När man undersöker en population med metoden enkel statusbeskrivning undersöks endast beståndet i den del av vattendraget där det är som starkast, dvs. där det förekommer flest individer och där det förekommer eller kan misstänkas att det förekommer en föryngring"
+difficulty = "Medium"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR032"
+question = "Hur beräknas musseltätheten per provlokal?"
+answer = "Musseltätheten per provlokal beräknas enligt följande, provlokalens medelbredd multiplicerat med lokalens längd, antalet musslor divideras sedan med arean på lokalen"
+difficulty = "Medium"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR033"
+question = "Vilka kriterier baseras skyddsvärdesbedömningen av ett flodpärlmusselbestånd på?"
+answer = "Skyddsvärdesbedömningen av ett flodpärlmusselbestånd baseras på sex olika kriterier: 1. Populationens storlek 2. Medeltäthet 3. Utbredning 4. Minsta funna mussla (mm) 5. Andel musslor < 20 mm (%) 6. Andel musslor <50 mm (%)"
+difficulty = "Hard"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR034"
+question = "Vilken statusklass har ett livskraftigt bestånd enligt statusbeskrivningen?"
+answer = "Livskraftig. Fler än 20 % under 50mm och fler än 0 % under 20mm (population över 500 individer)"
+difficulty = "Medium"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAVFR035"
+question = "Vilken statistisk metod används för att följa utvecklingen av tätheten i ett bestånd i ett vattendrag?"
+answer = "För att följa utvecklingen av tätheten i ett bestånd i ett vattendrag används Wilcoxons parade test (Bergengren et.al 2010)"
+difficulty = "Medium"
+category = "Biology"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_002.pdf"
+page_numbers = [8]
+
+
+[[questions]]
+id = "PAVFR036"
+question = "När grundades det norska flygbolaget Norwegian?"
+answer = "Det norska flygbolaget Norwegian grundades år 1993 och började sin verksamhet i liten omfattning på Norges västkust"
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [5]
+
+
+[[questions]]
+id = "PAVFR038"
+question = "Hur många rutter lanserade Norwegian under 2009?"
+answer = "Ledningen tog under år 2009 beslutet att göra en storsatsning på fler rutter och lanserade därför 39 stycken nationella och internationella rutter"
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR039"
+question = "Hur stor var Norwegians vinst under 2009?"
+answer = "Detta år var Norwegians bästa år någonsin sett till årsvinst då de gjorde en vinst på runt 446 miljoner norska kronor samtidigt som passagerarantalet successivt ökade"
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR040"
+question = "Vilken var Norwegians största flygplansbeställning och när gjordes den?"
+answer = "Största beställningen gjordes år 2012 då bolaget gjorde en beställning på över 200 flygplan"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR041"
+question = "Vilka nya långdistansrutter etablerade Norwegian 2013?"
+answer = "I takt med nya beställningar på flygplan utökade de även sina långdistansrutter och 2013 etablerade de långdistansrutter bland annat till New York, Los Angeles och Bangkok"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR042"
+question = "Vilka priser mottog Norwegian under 2015?"
+answer = "Under 2015 fick bolaget även ta emot pris som det mest miljövänliga transatlantiska bolaget och priset som det bästa lågprisflygbolaget. Dessutom vann bolaget även priser som det mest miljövänliga flygbolaget samt bästa lågprisflygföretag"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR043"
+question = "Vad var Norwegians affärsidé enligt The Economist 2013?"
+answer = "Norwegians affärsidé var att konkurrera med marknadens lågprisbolag, och bolagets strategi för att bli konkurrenskraftiga var kortfattat genom att ha låga driftskostnader samt flygplansmodeller som förbrukade lite drivmedel"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR044"
+question = "Vilken påverkan hade höjd flygskatt sommaren 2018 på Norwegian?"
+answer = "Problemen började bland annat med höjd flygskatt sommaren år 2018 som ledde till att Norwegian fick större svårigheten med lönsamheten av sina flyglinjer"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR045"
+question = "Hur stor var Norwegians förlust under fjärde kvartalet 2018?"
+answer = "Utav den fjärde kvartalsrapporten för 2018 framgick det att Norwegian under sista delen av år 2018 gjorde en förlust på tre miljarder norska kronor"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR046"
+question = "Vad var syftet med Norwegians sparprogram 2019?"
+answer = "För att Norwegian skulle få ordning på ekonomin valde man att inleda år 2019 med att stort sparprogram där syftet var att spara minst två miljarder norska kronor"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR047"
+question = "Vilken påverkan hade flygkraschen i Etiopien 2019 på Norwegian?"
+answer = "Flygmodellen var en stor del av Norwegians flygplansflotta och eftersom bolaget valde att låta dessa plan vara på marken tappade de uppskattningsvis 500 miljoner norska kronor"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR048"
+question = "Vilken kritik riktades mot Norwegians utseendepolicy för kabinpersonal?"
+answer = "Exempelvis var kvinnor tvungna att bära högklackat och smink samtidigt som män endast i undantagsfall fick sminka sig"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR049"
+question = "Hur förändrades Norwegians aktiekurs från januari till april 2018?"
+answer = "Norwegians aktie kostade 1 januari 2018 228,2 NOK. Under året ökade aktiens pris till 299,9 NOK fram till 16 april då aktien rasade i värde under mer än ett år till 36 NOK"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR050"
+question = "Hur hanterade SAS sina finansiella kriser 2009 och 2012?"
+answer = "Flygbolaget SAS som genomgått två stora finansiella kriser under år 2009 och 2012 där ledningen båda gångerna har haft en avgörande betydelse för att bolaget ska lyckas vända situationen, bland annat genom god kommunikation och tydliga strategier från ledningens sida"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAVFR051"
+question = "Vad innebär informationsasymmetri mellan företag och analytiker?"
+answer = "Förhållandet karaktäriseras av informationsasymmetri som Connelly, Certo, Ireland och Reutzel (2011) förklarar som att företaget har informationsövertag gentemot analytikern"
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAVFR052"
+question = "Vad är syftet med uppsatsen enligt avsnitt 1.3?"
+answer = "Syftet med uppsatsen är att kartlägga hur analytikers reaktioner förändras till Norwegians pressmeddelanden i en kris jämfört med innan en kris"
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAVFR053"
+question = "Vad är den centrala frågeställningen i uppsatsen?"
+answer = "Skiljer sig analytikers reaktion till Norwegians pressmeddelanden före och under en kris?"
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAVFR054"
+question = "Vilka avgränsningar görs i studien enligt avsnitt 1.5?"
+answer = "Att undersöka hur stor del av avvikelserna i analytikers förändringar av riktkurser som förklaras av externa faktorer kommer inte eftersträvas eftersom analytiker inte alltid nämner om de sänker med anledning av externa faktorer respektive händelser i företaget vid varje tillfälle"
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PAVFR055"
+question = "Hur påverkar analytikers rapportering företagets relation till investerare?"
+answer = "Analytiker förmedlar information och hjälper marknaden att värdera företaget som oberoende intressent"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "FULLTEXT01_PAV_01.pdf"
+page_numbers = [8]
+
+ 
+[[questions]]
+id = "PAVFR056"
+question = "Vad är syftet med denna undersökning?"
+answer = "Det övergripande syftet med denna undersökning är att studera webbplatsernas presentationstexter, för att se vad som kännetecknar konstrelaterade verksamheter på internet i dag och hur de aktuella verksamheterna beskrivs på sina webbplatser"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR057"
+question = "Vilka webbplatser valdes ut för analys i studien?"
+answer = "Presentationstexterna valdes ut från följande webbplatser: TheArtsCircle.org, Bukowskis.com, Konstbolaget.se EmptyEasel.org, Foliotwist.com, WebNet Museum.com, Biennal3000saopaulo.org och Leonardos Olats.org"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR058"
+question = "Vilka frågeställningar besvarar studien?"
+answer = "1. Vilka argumentationstyper är mest dominerande i presentationstexterna? 2. Hur presenterar aktören sig och vilka normer och värdegrunder säger sig aktören stå för? 3. Till vilken målgrupp riktar sig avsändaren och hur framställs målgruppen? 4. Hur framställs aktörens strategiska kommunikation och relationen till målgruppen? 5. Hur framställs aktörens maktposition och hegemoniska förhållningssätt? 6. Hur framställs aktörens kapital, habitus och konstsmak?"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR059"
+question = "Vilket perspektiv tillämpas i studien för att undersöka konst på internet?"
+answer = "Med utgångspunkt i ett sådant perspektiv avser jag tillämpa en retorikanalys på ett antal presentationstexter för att besvara studiesyftet och frågeställningarna som följer"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAVFR060"
+question = "Vilket problem uppstår enligt texten i relation till informationsflödet på internet?"
+answer = "Collageeffekten bidrar till att internet fungerar som en laglös mark och att det tillskrivs två motsatta funktioner"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAVFR061"
+question = "Vad innebär begreppet 'den utjämnande effekten' enligt Mattus (2008)?"
+answer = "Ett viktigt begrepp i Mattus (2008) studie är 'den utjämnande effekten', som betyder att internet distribuerar makt till alla användare oavsett status, välstånd, kön och bakgrund"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR062"
+question = "Hur beskriver Mattus (2008) läsarens makt i förhållande till texten?"
+answer = "Mattus (2008) svar på denna fråga är att läsaren har möjlighet att förflytta sig mellan olika aktörers uppfattningar av verkligheten. Läsaren har därmed frihet att tolka innehållet och bestämma vilka av uppfattningarna som är trovärdiga"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR063"
+question = "Vad är en begränsning i Mattus (2008) studie enligt texten?"
+answer = "En begränsning i 'De länkade orden' är att Mattus (2008) fokuserar på kommunikationens effekter och mottagarens upplevelser, snarare än analysen av kommunikationens inre kontext"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR064"
+question = "Vad belyser Bugge (2009) i sin avhandling?"
+answer = "Han belyser hur internet har fullständigt förändrat reklamverksamheten och lett till att nya aktörer har etablerat sig utanför befintliga företag"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR065"
+question = "Hur beskriver Bugge (2009) den förändrade marknadskommunikationen?"
+answer = "Den typen av marknadskommunikation ger konsumenterna ett stort inflytande över produkter och produktion, skriver Bugge (2009)"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR066"
+question = "Vilken typ av analys använder Lindholm (2007)?"
+answer = "Lindholm (2007) utgår från en konstbakgrund och tillämpar en retorikanalys på företagens webbplatsers design, bild och text"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR067"
+question = "Hur använder gallerister etos och patos enligt Lindholm (2007)?"
+answer = "När de vill lyfta fram sina verksamheter tar de stöd av etos argument, men när de vill behaga sina kunder använder de patos för att ge kunderna upplevelsen av en avslappnad och behaglig miljö i gallerierna"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR068"
+question = "Hur påverkas galleristers val av konstprodukter enligt Lindholm (2007)?"
+answer = "Galleristernas personliga smak är avgörande när de gör urval av konstprodukter. De påverkas av rådande värderingar i samhället och styrs av kvantitetstänkande och social status"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR069"
+question = "Vilken kritik riktas mot Lindholm (2007)s studie?"
+answer = "En begränsning med studien är att slutsatserna ibland är ospecificerade"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR070"
+question = "Vad undersöker Mattus (2000) i sin retorikanalys?"
+answer = "Hennes syfte var att synliggöra dialogen och dynamiken som uppstår mellan två olika aktörer på två liknande webbplatser: Levande historia och Sann historia"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR071"
+question = "Vad är gemensamt för aktörerna i Mattus (2000)s studie?"
+answer = "Något gemensamt för aktörerna är att båda vill övertyga läsaren om något"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR072"
+question = "Vad blir konsekvensen av plagiat enligt Mattus (2000)?"
+answer = "Men att en aktör utövar plagiat innebär att den övertar den andres position. Det medför att informationen från båda webbplatserna blir så förvirrande att läsaren inte kan bedöma vad som är sant och trovärdigt"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR073"
+question = "Vad är slutsatsen i Mattus (2000)s studie?"
+answer = "Slutsatsen är att det är läsarens tolkning, erfarenheter och bakgrund som avgör innehållets sanningsgrad (Mattus 2000: 332- 345 )"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAVFR074"
+question = "Vad är en begränsning i \"De länkade orden\" gällande fokus?"
+answer = "En begränsning i ”De länkade orden” är att Mattus (2008) fokuserar på kommunikationens effekter och mottagarens upplevelser, snarare än analysen av kommunikationens inre kontext"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR075"
+question = "Vilken typ av analys har Markus M. Bugge (2009) tillämpat i sin avhandling \"The Digital Transformation of the Advertising Industry\"?"
+answer = "I sin avhandling ”The Digital Transformation of the Advertising Industry” har Bugge (2009) tillämpat kvantitativ och kvalitativ analys på ett urval av reklamföretag från Oslo"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR076"
+question = "Hur beskriver Bugge (2009) anpassningsprocessen för reklamverksamheten till högteknologi?"
+answer = "Bugge (2009) beskriver denna anpassningsprocess som ”omvandlande”"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR077"
+question = "Vad är titeln på Viktoria Lindholms (2007) studie om konsthallar och gallerier på internet?"
+answer = "Det första är ”Konsthallar och gallerier på internet, om konsten att övertyga om (samtids) konsten” av Viktoria Lindholm (2007: 14-72)"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAVFR078"
+question = "Hur använder galleristerna patos för att behaga sina kunder enligt Lindholms (2007) studie?"
+answer = "När de vill lyfta fram sina verksamheter tar de stöd av etos argument, men när de vill behaga sina kunder använder de patos för att ge kunderna upplevelsen av en avslappnad och behaglig miljö i gallerierna"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAVFR079"
+question = "Vad bedömer galleristerna konstprodukter efter enligt Lindholm (2007)?"
+answer = "Galleristerna bedömer konstprodukter efter kvantitet och konstnärer efter berömdhet"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [7]
+
+
+[[questions]]
+id = "PAVFR082"
+question = "Vad definierar Dickie konst som i sin institutionella konstteori?"
+answer = "I den definierar han konst som: ”en artefakt som tilldelats status som kandidat till värdering av någon eller några sociala institutioners vägnar, så kallad konstvärld” (Dickie 1997: 83 & Bydler 2004: 184)"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAVFR083"
+question = "Varför anser Bydler (2004) att \"konstvärldar\" har blivit instabila?"
+answer = "Skälet till att ”konstvärldar” har blivit instabila är att den avantgardistiska konstvärlden globalt försöker bryta med konstkonceptet och driva motståndet mot konstvärldens diskurs, samtidigt som konstvärlden regionalt ansluter sig till denna (Bydler 2004: 155, 265, 266)"
+difficulty = "Hard"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [8]
+
+
+[[questions]]
+id = "PAVFR085"
+question = "Vad rekommenderar Lindholm (2007) kommande forskning att se på konstfältet genom?"
+answer = "Med tanke på att konstfältet har en internationell karaktär rekommenderar Lindholm (2007) kommande forskning att se på fältet genom ett internationellt perspektiv (Lindholm 2007: 69, 72)"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAVFR086"
+question = "Vad problematiserar Karin Hansson (2010) i sitt konferenspapper \"Mediating Authenticity: Performing the Artist in Digital media\"?"
+answer = "I sitt konferenspapper ”Mediating Authenticity: Performing the Artist in Digital media” (Hansson 2010), problematiserar Hansson förhållandet mellan konstnärers identitet och digitala medier, samt samspelet mellan identiteters positioner, dominerande ideologier och diskursiv praxis på internet"
+difficulty = "Medium"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAVFR087"
+question = "Vad visar resultatet av Hanssons (2010) studie gällande konstnärers användning av digitala medier?"
+answer = "Resultatet av denna studie visar att när konstnärerna använder sig av digitala medier för att kommunicera och samarbeta med andra konstnärer, kan de lätt förflytta sig mellan olika konstarter"
+difficulty = "Easy"
+category = "Art"
+
+[[questions.files]]
+file = "FULLTEXT_PAV_04.pdf"
+page_numbers = [9]
+
+

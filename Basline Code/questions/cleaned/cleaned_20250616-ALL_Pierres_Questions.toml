@@ -1,0 +1,3007 @@
+[[questions]]
+id = "PMCCPPN002"
+question = "Vad är Visual Studio?"
+answer = "Visual Studio är ett kraftfullt utvecklarverktyg som du kan använda för att slutföra hela utvecklingscykeln på ett och samma ställe. Det är en omfattande integrerad utvecklingsmiljö (IDE) som du kan använda för att skriva, redigera, felsöka och skapa kod. Distribuera din app sedan. Visual Studio innehåller kompilatorer, verktyg för kodkomplettering, källkontroll, tillägg och många andra funktioner för att förbättra varje steg i programutvecklingsprocessen"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCCPPN003"
+question = "Vilka är de tre utgåvorna av Visual Studio?"
+answer = "Det finns tre utgåvor av Visual Studio: Community – kostnadsfri, fullständigt aktuell IDE för studenter, utvecklare med öppen källkod och enskilda utvecklare. Professional – ett prenumerationsbaserat alternativ för enskilda utvecklare eller små team. Enterprise"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCCPPN004"
+question = "Vad är syftet med Visual Studio?"
+answer = "Visual Studio ger utvecklare en funktionsrik utvecklingsmiljö för att utveckla kod av hög kvalitet på ett effektivt och samarbetsinriktat sätt"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCCPPN005"
+question = "Vilka operativsystem körs Visual Studio Code på?"
+answer = "Visual Studio Code är en enkel plattformsoberoende utvecklingsmiljö som körs på Windows-, Mac- och Linuxsystem"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCPPN006"
+question = "Vilket tillägg stöder IntelliSense, felsökning, kodformatering och automatisk komplettering för Visual Studio Code?"
+answer = "Tillägget Microsoft C/C++ för Visual Studio Code stöder IntelliSense, felsökning, kodformatering, automatisk komplettering"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCPPN007"
+question = "Hur kan du minska installationsavtrycket för Visual Studio på systemenheten?"
+answer = "Du kan minska installationsavtrycket för Visual Studio på systemenheten. Du kan välja att flytta nedladdningscachen, delade komponenter, SDK:er och verktyg till olika enheter och behålla Visual Studio på den enhet som kör den snabbast"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCCPPN008"
+question = "Vad är standardutgåvan av Visual Studio avsedd för?"
+answer = "Community-utgåvan är avsedd för enskilda utvecklare, klassrumsinlärning, akademisk forskning och utveckling med öppen källkod"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCPPN009"
+question = "Vad är ett av sätten att ändra standardspråket för installationsprogrammet för Visual Studio?"
+answer = "Ett annat sätt att ändra standardspråket är genom att köra installationsprogrammet från kommandoraden. Du kan till exempel tvinga installationsprogrammet att köras på engelska med hjälp av följande kommando: vs_installer.exe --locale en-US"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCCPPN011"
+question = "Hur skapar och kör du ett projekt i Visual Studio?"
+answer = "Skapa projektet genom att välja Build>Build Solutionpå huvudmenyn"
+difficulty = "Hard"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [15, 16]
+
+[[questions]]
+id = "PMCCPPN012"
+question = "Vilka är fördelarna med integrerade Git-funktioner i Visual Studio?"
+answer = "Med de integrerade Git-funktionerna i Visual Studio kan du klona, skapa eller öppna egna lagringsplatser. Git-verktygsfönstret innehåller allt du behöver för att checka in och skicka ändringar, hantera grenar och lösa sammanslagningskonflikter. Om du har ett GitHub-konto kan du hantera dessa lagringsplatser direkt i Visual Studio"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "cpp-get-started-msvc-170-001.pdf"
+page_numbers = [8, 9]
+
+[[questions]]
+id = "PMCASYNCN001"
+question = "Vad är syftet med asynkron aktivitetsprogrammering?"
+answer = "Målet med asynkron aktivitetsprogrammering är att aktivera kod som läser som en sekvens med instruktioner, men körs i en mer komplicerad ordning"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCASYNCN002"
+question = "Hur kan instruktionerna för att göra en frukost anges som en lista, enligt artikeln?"
+answer = "för att göra en frukost kan anges som en lista: 1. Häll en kopp kaffe. 2. Värm en panna och stek sedan två ägg. 3. Stek tre skivor bacon. 4. Rosta två brödbitar. 5. Sprid smör och sylt på rostat bröd. 6. Häll ett glas apelsinjuice"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCASYNCN003"
+question = "Var finns källan för innehållet i dokumentet?"
+answer = "GitHub"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [87]
+
+[[questions]]
+id = "PMCASYNCN004"
+question = "Vad returnerar anropet till MoveNextAsync när det gäller \"aldrig sinande strömmar\"?"
+answer = "Anropet till MoveNextAsync returnerar nästa objekt så snart det är tillgängligt"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [87]
+
+[[questions]]
+id = "PMCASYNCN005"
+question = "Vad kan hända om en angripare får åtkomst till github-åtkomsttoken?"
+answer = "Om en angripare får åtkomst till denna token kan de komma åt GitHub-API:er med dina autentiseringsuppgifter"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [86]
+
+[[questions]]
+id = "PMCASYNCN006"
+question = "Vad har asynkrona strömmar använts till i denna självstudie?"
+answer = "I den här självstudien använde du asynkrona strömmar för att läsa enskilda objekt från ett nätverks-API som returnerar datasidor"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [86]
+
+[[questions]]
+id = "PMCASYNCN007"
+question = "Vad ger modellen Task asynkron programmering (TAP) för abstraktionslager?"
+answer = "Modellen Task asynkron programmering (TAP) ger ett abstraktionslager över typisk asynkron kodning"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCASYNCN008"
+question = "Vad är skillnaden i hur man skriver kod i TAP-modellen jämfört med vanligt?"
+answer = "I den här modellen skriver du kod som en sekvens med instruktioner, samma som vanligt. Skillnaden är att du kan läsa din uppgiftsbaserade kod när kompilatorn bearbetar varje -instruktion och innan den börjar bearbeta nästa instruktion"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCASYNCN009"
+question = "Vad måste kompilatorn lösa för att åstadkomma TAP-modellen?"
+answer = "För att åstadkomma den här modellen utför kompilatorn många transformeringar för att slutföra varje uppgift. Vissa instruktioner kan initiera arbete och returnera ett Task objekt som representerar det pågående arbetet och kompilatorn måste lösa dessa transformeringar"
+difficulty = "Hard"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCASYNCN010"
+question = "Hur kan man se skillnaderna mellan implementeringarna av startprogram och färdiga program?"
+answer = "Kör både startprogram och färdiga program och du kan se skillnaderna mellan implementeringarna själv"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [86]
+
+[[questions]]
+id = "PMCASYNCN011"
+question = "När kan github-åtkomsttoken tas bort?"
+answer = "Du kan ta bort github-åtkomsttoken som du skapade när du startade den här självstudien när du är klar"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [86]
+
+[[questions]]
+id = "PMCASYNCN012"
+question = "Vad används asynkrona strömmar till förutom att läsa enskilda objekt från ett nätverks-API?"
+answer = "Asynkrona strömmar kan också läsas från \"aldrig sinande strömmar\" som en aktie ticker eller sensorenhet"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "Asynkron_programmering-002.pdf"
+page_numbers = [86, 87]
+
+
+[[questions]]
+id = "PMCREFLEKTION001"
+question = "Vilka är attributens egenskaper?"
+answer = "Attribut har följande egenskaper: Attribut lägger till metadata i ditt program. metadata är information om de typer som definierats i ett program. Alla .NET-sammansättningar innehåller en angiven uppsättning metadata som beskriver de typer och typmedlemmar som definierats i sammansättningen. Du kan lägga till anpassade attribut för att ange annan nödvändig information. Attribut kan tillämpas på hela sammansättningar, moduler eller mindre programelement, till exempel klasser och egenskaper. Attribut kan acceptera argument på samma sätt som metoder och egenskaper. Med attribut kan ett program undersöka sina egna metadata eller metadata i andra program med hjälp av reflektion"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCREFLEKTION002"
+question = "Vilka är de motsvarande termerna i IL för C#-nyckelorden protected och internal?"
+answer = "Motsvarande termer i IL är Family och Assembly"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCREFLEKTION003"
+question = "Hur anger du ett attribut i C#?"
+answer = "I C# anger du ett attribut genom att placera namnet på attributet inom hakparenteser ( [] ) ovanför deklarationen för den entitet som det gäller för"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [2, 3]
+
+[[questions]]
+id = "PMCREFLEKTION004"
+question = "Vad är målobjektet för ett attribut?"
+answer = "målobjektet för ett attribut är den entitet som attributet gäller för"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCREFLEKTION005"
+question = "Vad är namngivna parametrar i attribut?"
+answer = "Namngivna parametrar Egenskaper eller fält för attributet"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCREFLEKTION006"
+question = "Hur skapar du anpassade attribut?"
+answer = "Du kan skapa egna anpassade attribut genom att definiera en attributklass, en klass som direkt eller indirekt härleds från Attribute, vilket gör det snabbt och enkelt att identifiera attributdefinitioner i metadata"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCREFLEKTION007"
+question = "Vilken metod används för att hämta information som har definierats med anpassade attribut?"
+answer = "Nyckelmetoden är GetCustomAttributes , som returnerar en matris med objekt som är körningsekvivalenter för källkodsattributen"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PMCREFLEKTION008"
+question = "Vilka attribut används för att skapa en union i C/C++ med hjälp av attribut i C#?"
+answer = "Du kan till exempel skapa det som kallas en union i C/C++ med hjälp av attributen StructLayout(LayoutKind.Explicit) och FieldOffset"
+difficulty = "Hard"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMCREFLEKTION009"
+question = "Vilka typer av generiska typer kan attribut tillämpas på?"
+answer = "Du kan dock endast tillämpa attribut på öppna generiska typer och stängda konstruerade generiska typer, inte på delvis konstruerade generiska typer"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [16]
+
+[[questions]]
+id = "PMCREFLEKTION010"
+question = "Vilken metod används för att returnera en matris med Type-objekt som representerar de typargument som anges för en konstruerad typ eller typparametrarna för en allmän typdefinition?"
+answer = "GetGenericArguments: Returnerar en matris med Type objekt som representerar de typargument som anges för en konstruerad typ eller typparametrarna för en allmän typdefinition"
+difficulty = "Medium"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [19]
+
+[[questions]]
+id = "PMCREFLEKTION011"
+question = "Hur definieras attribut i C#?"
+answer = "I C# är attribut klasser som ärver från basklassen Attribute"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [22]
+
+[[questions]]
+id = "PMCREFLEKTION012"
+question = "Vilka är några vanliga attribut som är inbyggda i .NET Core-basklassbiblioteken?"
+answer = "Här är några viktiga attribut som är inbyggda i .NET Core-basklassbiblioteken: [Obsolete]"
+difficulty = "Easy"
+category = "Programming"
+
+[[questions.files]]
+file = "Reflektion_och_attribut-001.pdf"
+page_numbers = [26]
+
+[[questions]]
+id = "PMCEMB101"
+question = "Vad är en CPU?"
+answer = "CPU:n är den enhet som styr och utför det mesta av datorns arbete"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB102"
+question = "Vad lagrar minnet?"
+answer = "minne är där man lagrar data och program"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB103"
+question = "Vad hanterar CP0 för MIPS?"
+answer = "CP0 för MIPS hanterar minne och avbrott från omvärlden"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB104"
+question = "Vad hanterar FPU:n?"
+answer = "FPU:n hanterar alla ﬂyttalsberäkningar"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB105"
+question = "Hur arbetar en CPU?"
+answer = "En CPU arbetar genom att man hämtar in en instruktion från minnet, avkodar och utför denna, sedan hämtar man nästa etc"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB106"
+question = "Hur ser man skillnad på ett heltal, ett flyttal, en sträng och en instruktion i minnet?"
+answer = "Innehållet i minnet är “bitmönster” som sedan kan betraktas som instruktioner, heltal, texter mm"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB107"
+question = "Vad är ett register i en dator?"
+answer = "Ett register är som ett snabbt minne, ofta med en kapacitet om 32 bitar"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB108"
+question = "Hur många generella register har MIPS?"
+answer = "MIPS har 32 generella register"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB109"
+question = "Vad är Programräknaren (PC)?"
+answer = "PC är ett register som innehåller adressen till den instruktion som ska utföras"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB110"
+question = "Vilken begränsning finns för register 0 i MIPS?"
+answer = "register 0 alltid innehåller en nolla. Detta betyder att register 0 som operand medför att operanden är 0, och som mottagare av resultat betyder det att man struntar i resultatet"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB111"
+question = "Vad är en 'pipe' i MIPS?"
+answer = "För MIPS sker detta i en sk. pipe, eller vilket jag tycker är bättre på ett “löpande band”"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB112"
+question = "Hur många stationer har det 'löpande bandet' i MIPS?"
+answer = "“Bandet” har fem stationer"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB113"
+question = "Vilka är de fem stegen i instruktionsexekveringen för MIPS?"
+answer = "IF Beräknar fysisk adress som sänds till minnet för att hämta instruktion (TLB) RD Läser in instruktionen och börjar avkodning. Läser operander från registren (RF) ALU Här sker “beräkningarna” MEM För instruktioner som refererar minnet sänds fysisk adress till minnet samt överförs data WB Skriver tillbaks läst data till registren"
+difficulty = "Hard"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [1, 2]
+
+[[questions]]
+id = "PMCEMB114"
+question = "Vad händer om instruktion eller data inte finns i 'cache'?"
+answer = "Om instruktion eller data inte ﬁnns i “cache” måste man referera det verkliga minnet, som är långsammare varför “det löpande bandet” måste stoppas"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCEMB115"
+question = "Hur långa är instruktionsbitmönstren för MIPS?"
+answer = "MIPS är det 32 bitar"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCEMB116"
+question = "Vad används de generella registren till?"
+answer = "De generella registren används för lagring av data"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB201"
+question = "Vad är ett program i sammanhanget maskininstruktioner?"
+answer = "Maskinen styrs ju av ett antal instruktioner som är 32 bitars bitmönster. Ett program är en sekvens av sådana"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB202"
+question = "Vad är syftet med en assembler?"
+answer = "För att kunna göra detta har man ett program, “assemblern”, som översätter textformat till riktig maskinkod"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB204"
+question = "Vilka är de tre specialregistren som man inte explicit anger i sina instruktioner?"
+answer = "Detta är PC - programräknaren, HI - “högsta” ordet i multiplikation och division, LO - “lägsta” ordet i multiplikation och division"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB205"
+question = "Vilka är de primära användningsområdena för minnesadresser?"
+answer = "Minnesadresser används främst för två saker, dels att adressera minnet för dataöverföring till eller från minnet, dels för att ange instruktionsadresser, dv. hopp"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB206"
+question = "Hur anges en adress i maskininstruktioner när den inte får plats i en instruktion?"
+answer = "En adress anges då som innehållet i ett register (bas) plus ett tillägg (k, med tecken, 16 bitar)"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEMB207"
+question = "Vilken instruktion används för att ladda en byte från minnet?"
+answer = "Load Byte"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCEMB208"
+question = "Vad innebär en \"#\" framför en instruktion i assemblyspråket?"
+answer = "# anger att instruktionen ej finns som maskininstruktion"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCEMB209"
+question = "Vilka instruktioner används för att överföra data från register till minne?"
+answer = "Store Byte sb src,adress Store Halfword sh Store Word sw Store Word Left swl Store Word Right swr"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCEMB210"
+question = "Vad händer med resultatet av en divisionsoperation i MIPS?"
+answer = "Divisionen är en heltalsdivision och kvoten hamnar i specialregister LO och resten i specialregister HI"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCEMB211"
+question = "Vad används instruktionen `lui` till?"
+answer = "Denna instruktion används speciellt för att ladda in en adress till ett register som ju behövs för att adressera minnet för dataöverföringar"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PMCEMB212"
+question = "Vad är syftet med `mfhi` instruktionen?"
+answer = "Här överförs innehållet i specialregister HI till det generella registret rd"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PMCEMB213"
+question = "Vad gör instruktionen `syscall`?"
+answer = "Denna instruktion ger ett omedelbart avbrott och man hamnar i avbrottshanteraren, med ett systemanropsavbrott"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMCEMB214"
+question = "Vad är skillnaden mellan `sub` och `subu` instruktionerna?"
+answer = "Denna instruktion gör samma som sub, men betraktar talen som utan tecken. Skillnaden blir att subu aldrig signalerar overﬂow"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMCEMB215"
+question = "Vilka typer av bitmönster används för att beskriva instruktionerna till CPU:n?"
+answer = "Här ges bitmönster med hänvisning till typerna I, J och R och vad de olika fälten har för betydelse eller bitmönster då detta ﬁxt ingår i instruktionen"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap2.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB301"
+question = "Vad beskrivs i Kapitel 3?"
+answer = "I detta kapitel beskrivs SPARC arkitekturen, delvis med utgångspunkt från MIPS"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB302"
+question = "Är SPARC en maskin?"
+answer = "SPARC är egentligen inte en maskin, utan snarare en beskrivning av hur en maskin minst ska fungera"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB303"
+question = "Hur detaljerat beskrivs SPARC arkitekturen jämfört med MIPS?"
+answer = "Denna arkitektur beskrivs inte lika noggrannt som MIPS, då den har samma principiella uppbyggnad men skiljer sig i många detaljer"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB304"
+question = "Vilka delar av CPU:n beskrivs i kapitlet?"
+answer = "Kapitlet ger en beskrivning av CPU:n, en kort beskrivning av assemblyspråket, samt en något fullständigare beskrivning av maskinkoden inklusive koder och bitmönster"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB305"
+question = "Varför inkluderas en fullständigare beskrivning av maskinkoden?"
+answer = "Detta senare är med dels för att få en förståelse för maskinen på denna nivå, dels för att ge underlag om man vill tex. generera maskinkod i något sammanhang, tex. för kompilatorkonstruktörer"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB306"
+question = "Vad är den principiella uppbyggnaden av CPU:n i SPARC?"
+answer = "Denna har samma principiella uppbygnad som MIPS och är en RISC-processor som arbetar med en “pipe” i fem steg"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB307"
+question = "Finns det en koprocessor 0 för att hantera avbrott och minne i SPARC CPU:n?"
+answer = "Vi har dock inte någon koprocessor 0 för att hantera avbrott och minne"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB308"
+question = "Hur många bitar är instruktionerna i SPARC?"
+answer = "Instruktionerna är som hos MIPS 32 bitar och med ett fåtal format"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB309"
+question = "Hur hanteras fördröjningen vid överföring från minne till register i SPARC?"
+answer = "medan överföringen från minne till register visserligen är fördröjd men processorn hanterar detta själv, dvs. bandet stoppas vid behov"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEMB310"
+question = "Vad gör instruktionen 'fnegs'?"
+answer = "fnegs 000000101 ändrar tecken på och ﬂyttar ett single"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [22]
+
+[[questions]]
+id = "PMCEMB311"
+question = "Vilken instruktion beräknar kvadratroten ur ett double?"
+answer = "fsqrtd 000101010 beräknar kvadratroten ur ett double"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [22]
+
+[[questions]]
+id = "PMCEMB312"
+question = "Vilka registerfält används i flyttalsinstruktionerna?"
+answer = "men alla tre registerfälten används, rs1,rs2 och rd"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PMCEMB313"
+question = "Finns det blandad aritmetik i flyttalsinstruktionerna?"
+answer = "Observera att det inte finns någon"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PMCEMB314"
+question = "Hur utförs jämförelser med flyttalsinstruktioner?"
+answer = "Av de vanliga ﬂyttalsinstruktionerna återstår nu jämförelser som sätter villkorsbitar i ett statusregister för FPU:n"
+difficulty = "Medium"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PMCEMB315"
+question = "Vad gör instruktionen 'fadds'?"
+answer = "fadds 001000001 addera single"
+difficulty = "Easy"
+category = "Computer architecture"
+
+[[questions.files]]
+file = "Kap3.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "PMCAI001"
+question = "Vilka AI-verktyg eller liknande verktyg har du använt i uppsatsprocessen och hur använde du dem? Ge gärna några exempel"
+answer = "Vi använde oss av AI-verktyget Klang.AI för transkribering av de fysiska intervjuerna"
+difficulty = "Easy"
+category = "Technology"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [84]
+
+[[questions]]
+id = "PMCAI002"
+question = "Hur nöjd är Du med genomförandet och resultatet av examensarbetet? Varför?"
+answer = "-Jag är nöjd med genomförandet och resultatet, hade jag fått göra om hade datainsamling, och analys utförts tidigare. I vårt fall genomförde vi intervjuer fysiskt vilket hade underlättat om vi hade satt igång med den processen tidigare för att dels få mer tid över till att intervjua fler människor för att på så sätt få in bra information och få fler värdefulla insikter angående vår studie och valda ämne. Samt även skicka ut vår enkät tidigare så vi hade kunnat få in tillräckligt många svar för statistisk signifikans, det hade varit kul att även få till ett sådant resultat, vilket hade stärkt vår slutsats och tillförlitlighet för studien"
+difficulty = "Medium"
+category = "AI"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [83, 84]
+
+[[questions]]
+id = "PMCAI003"
+question = "Vad är Generativ AI?"
+answer = "Generativ AI, term för datorstyrda processer som skapar, manipulerar eller syntetiserar data, ofta i form av bilder eller text"
+difficulty = "Easy"
+category = "Technology"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCAI004"
+question = "Vad är syftet med studien?"
+answer = "Studien syftar till att undersöka vilka åtgärder som kan vara relevanta för institutionen av data- och systemvetenskap vid Stockholms universitet att införa för att bevara den akademiska integriteten och förhindra fusk"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCAI005"
+question = "Vem är handledare för examensarbetet?"
+answer = "handledare Lena Norberg"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCAI006"
+question = "Vilken institution tillhör Nora Björk och Tara Bigzadeh?"
+answer = "Institutionen för data- och systemvetenskap"
+difficulty = "Medium"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCAI007"
+question = "Vilken kurs är examensarbetet för?"
+answer = "institutionen för data- och systemvetenskap vid Stockholms universitet"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCAI009"
+question = "Vilken termin genomfördes examensarbetet?"
+answer = "Vårterminen 2024"
+difficulty = "Medium"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCAI010"
+question = "Vilka deltog i studien?"
+answer = "Genom en kombinerad metod med både kvalitativ och kvantitativ inslag, deltog både lärare och studenter från institutionen för data- och systemvetenskap vid Stockholms universitet i denna studie genom fysiska intervjuer och enkäter"
+difficulty = "Medium"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCAI011"
+question = "Vilka universitet har publicerat detta examensarbete?"
+answer = "Stockholms universitet"
+difficulty = "Easy"
+category = "AI"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCAI012"
+question = "Vad är en av de viktigaste resultaten som framkommit i studien angående etiska riktlinjer för AI-användning inom akademiska institutioner?"
+answer = "Resultateten kunde påvisa vikten av inkludering och engagemang av studenter i beslut, tydliga etiska riktlinjer och utmaningar som kan kopplas till dessa för att säkerställa att de utvecklas och kvarvaras över tid"
+difficulty = "Medium"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCAI013"
+question = "Vilken typ av datainsamlingsmetoder användes i studien?"
+answer = "Genom en kombinerad metod med både kvalitativ och kvantitativ inslag, deltog både lärare och studenter från institutionen för data- och systemvetenskap vid Stockholms universitet i denna studie genom fysiska intervjuer och enkäter"
+difficulty = "Medium"
+category = "Research_methods"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCAI014"
+question = "Vad är titeln på examensarbetet?"
+answer = "Mellan etik och AI"
+difficulty = "Easy"
+category = "AI"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCAI015"
+question = "Vilket problem har ökat markant inom utbildningssektorn bland studenter?"
+answer = "Användandet av generativ AI har ökat markant inom utbildningssektorn bland studenter vilket har lagt ansvar på institutioner att ta fram nya riktlinjer för att utbildningen ska hålla en viss standard"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCAI017"
+question = "Vilka är de tre temana som studien identifierade för de fysiska intervjuerna?"
+answer = "Studien identifierade tre teman för de fysiska intervjuerna: Riktlinjernas tydlighet och efterlevnadsutmaning, studentinvolvering i beslutsprocesser, övervakning och upprätthållning av riktlinjer"
+difficulty = "Easy"
+category = "Research_methodology"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCAI018"
+question = "Vilka var de tre temana som enkäterna visade?"
+answer = "Enkäterna visade även tre teman, vilka var, användning av generativ AI, tydliga riktlinjer och individuellt ansvar"
+difficulty = "Easy"
+category = "Research_methodology"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCAI019"
+question = "Vad är definitionen av etik enligt Oxfords ordbok?"
+answer = "Definitionen av etik lyder: \"Moralprinciper som styr en persons beteende eller utförandet av en aktivitet.\""
+difficulty = "Easy"
+category = "Ethics"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PMCAI020"
+question = "Vad är definitionen av moral enligt Oxfords ordbok?"
+answer = "Moral definieras som: \"Angår principerna för rätt och fel beteende.\""
+difficulty = "Easy"
+category = "Ethics"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PMCAI021"
+question = "Vilka tre delar delas utvecklingen av AI i utbildning (AIEd) upp i enligt en studie publicerad av Ouyang och Jiao (2021)?"
+answer = "I en studie publicerad av Ouyang och Jiao (2021) delas utvecklingen av AI i utbildning (AIEd) upp i tre delar: AI-styrt (lärande som mottagare), AI-stött (lärande som samarbetspartner) och AI-förstärkt (lärande som ledare)"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PMCAI022"
+question = "Vilka etiska svårigheter med AI inom utbildning diskuteras av Spruijt (2024)?"
+answer = "Spruijt (2024) diskuterar etiska svårigheter med AI inom utbildning och menar på att den tillför både möjligheter och utmaningar. De etiska följderna kretsar kring frågor om akademisk integritet, rättvisa, datasäkerhet och påverkan på läranderesultat"
+difficulty = "Medium"
+category = "Ethics"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PMCAI023"
+question = "Vilka traditionella examinationsmetoder föreslås av Spruijy (2024) att förstärkas eller utvecklas för att hantera etiska bekymmer och upprätthålla akademisk integritet?"
+answer = "Spruijy (2024) menar på att traditionella examinationsmetoder som exempelvis salstentor och handskrivna uppgifter bör förstärkas eller utvecklas för att hantera etiska bekymmer och upprätthålla en akademisk integritet. I stället borde examinationsmomenten bestå av exempelvis muntliga presentationer och grupparbeten"
+difficulty = "Medium"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMCAI024"
+question = "Vad visade slutsatsen i Liu et al. (2022) undersökning angående AI-generativa hjälpmedel och studenters inlärningsprocesser?"
+answer = "Slutsatsen för undersökningen visade på att generativa AI-hjälpmedel kan användas för att främja utbildning på så sätt att det kan hjälpa studenternas inlärningsprocesser, samt även vilja till inlärning"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMCAI025"
+question = "Vad konstaterar Al Ka'bi (2023) i sin studie angående generativ AI och studenternas kognitiva förmåga?"
+answer = "Al Ka'bi (2023) konstaterar i sin studie att generativ AI kan förbättra studenternas kognitiva förmåga, såsom exempelvis att lära sig läsa, lokalisera och ta till sig text inom stora datamängder (Al Ka'bi, 2023)"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMCAI026"
+question = "På vilket sätt påverkar AI studenters kreativitet inom högre utbildning enligt Habib (2024)?"
+answer = "I studien visar hon på att AI kan vara både till hjälp och en utmaning för utvecklandet av kreativt tänkande"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMCAI027"
+question = "Vilka utmaningar med implementering av generativ AI för utbildningssyfte uppdagades i Zhai et al. (2021) studie?"
+answer = "I studien uppdagades det att det finns stora utmaningar med implementering av generativ AI för utbildningssyfte såsom exempelvis otillåten användning i form av fusk, plagiering eller annan olämplig användning"
+difficulty = "Easy"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "PMCAI028"
+question = "Vad diskuterar Tanveer et al. (2020) angående problematiken med implementering av generativ AI?"
+answer = "Tanveer et al. (2020) diskuterar vidare angående problematiken med implementering av generativ AI och menar att tekniken kan strida mot konventionella tillvägagångssätt och att diskussion angående studenters svårigheter inom utbildning inte ägnas tillräcklig tid"
+difficulty = "Medium"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "PMCAI029"
+question = "Vad menar Dingum (2021) att etiken inom generativ AI snarare handlar om?"
+answer = "Dingum (2021) diskuterar sambandet mellan etik och generativ AI, författaren nämner att etiken inom generativ AI inte riktigt handlar om att generativa AI-verktyg ska ta ansvar för sina handlingar som fråntar människor samt organisationens ansvar. Det handlar snarare om ett ökat ansvar hos människorna som är inblandade"
+difficulty = "Medium"
+category = "Ethics"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "PMCAI030"
+question = "Vad pekar studien från Stanford Graduate School of Education (2023) på angående oron för fusk med hjälp av AI generativa hjälpmedel bland amerikanska gymnasieelever?"
+answer = "Studien pekar på att oron för fusk är missriktad och att andelen fusk med hjälp av AI generativa hjälpmedel inte ökat utan snarare förändrat de verktyg som existerar idag"
+difficulty = "Medium"
+category = "Research"
+
+[[questions.files]]
+file = "Mellan etik och AI.pdf"
+page_numbers = [16]
+
+[[questions]]
+id = "PMCK001"
+question = "Hur länge gäller garantin för en ny Ninja-produkt?"
+answer = "garanti på sammanlagt två år"
+difficulty = "Easy"
+category = "Usage"
+
+[[questions.files]]
+file = "COMBI_ALL_IN_ONE_se-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCK002"
+question = "Vad täcks av den medföljande Ninja-garantin?"
+answer = "Reparation eller byte av din Ninja-apparat"
+difficulty = "Medium"
+category = "Usage"
+
+[[questions.files]]
+file = "COMBI_ALL_IN_ONE_se-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCK003"
+question = "Vad täcks inte av den medföljande Ninja-garantin?"
+answer = "1 Normalt slitage på bärbara delar (t.ex. tillbehör). Ninja®-garanti Reservdelar finns att köpa på ninjakitchen.eu. Din Ninja-enhet utgör en stor investering. Din nya 2 Skada orsakad av felaktig eller olämplig produkt behöver fungera korrekt under en så lång användning, försumlig hantering, underlåtenhet att tid som möjligt. Den medföljande garantin utföra nödvändigt underhåll eller skada orsakad av återspeglar tillverkarens förtroende för sin felaktig hantering under transport. produkt- och tillverkningskvalitet. 3 Skada orsakad av underhåll som inte är godkänd"
+difficulty = "Hard"
+category = "Usage"
+
+[[questions.files]]
+file = "COMBI_ALL_IN_ONE_se-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCK004"
+question = "Var kan jag köpa Ninjas originalreservdelar och tillbehör?"
+answer = "på ninjakitchen.eu"
+difficulty = "Easy"
+category = "Spare parts"
+
+[[questions.files]]
+file = "COMBI_ALL_IN_ONE_se-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCK005"
+question = "Vad är modellnumret för Ninja Combi All-in-One Multi-Cooker, Oven and Air Fryer?"
+answer = "SFP700EU"
+difficulty = "Easy"
+category = "Usage"
+
+[[questions.files]]
+file = "COMBI_ALL_IN_ONE_se-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCK006"
+question = "Är Ninja Food Processor med Auto-IQ® avsedd för hushållsbruk?"
+answer = "ENBART FÖR HUSHÅLLSBRUK"
+difficulty = "Easy"
+category = "Usage"
+
+[[questions.files]]
+file = "FOOD_PROCESSOR_se-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCK007"
+question = "Vad ska man inte använda Ninja Food Processor till?"
+answer = "Använd inte den här apparaten till någonting annat än det den är avsedd för"
+difficulty = "Easy"
+category = "Usage"
+
+[[questions.files]]
+file = "FOOD_PROCESSOR_se-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCK008"
+question = "Vilka är konsekvenserna av att använda andra reservdelar än originaldelar från Ninja?"
+answer = "Kom ihåg att användning av andra reservdelar än Ninja-originaldelar kan innebära att fabriksgarantin ogiltigförklaras"
+difficulty = "Medium"
+category = "Usage"
+
+[[questions.files]]
+file = "SPEEDI_se-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCK009"
+question = "Var hittar man modell- och serienummer på Ninja Foodi Max Tender Crisp™ Pressure Cooker?"
+answer = "Modell- och serienummer anges på QR-kodetiketten som sitter på baksidan intill strömkabeln"
+difficulty = "Hard"
+category = "Usage"
+
+[[questions.files]]
+file = "FOODI_MAX__se-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCK010"
+question = "Hur lång är garantin för Ninja Foodi Max Tender Crisp™ Pressure Cooker?"
+answer = "Garantin täcker din produkt under två år från och med datumet för köpet"
+difficulty = "Easy"
+category = "Usage"
+
+[[questions.files]]
+file = "FOODI_MAX__se-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCK011"
+question = "Måste man spara kvittot för att garantin ska gälla?"
+answer = "Spara alltid kvittot. Skulle du behöva använda din garanti behöver vi kvittot"
+difficulty = "Hard"
+category = "Usage"
+
+[[questions.files]]
+file = "FOODI_NEW_se-001.pdf"
+page_numbers = [17]
+
+[[questions.files]]
+file = "FOOD_PROCESSOR_se-001.pdf"
+page_numbers = [11]
+
+[[questions.files]]
+file = "SPEEDI_se-001.pdf"
+page_numbers = [9]
+
+[[questions.files]]
+file = "FOODI_MAX__se-001.pdf"
+page_numbers = [15]
+
+[[questions.files]]
+file = "COMBI_ALL_IN_ONE_se-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCK012"
+question = "Vilka uppgifter behöver man för att registrera sin garanti online?"
+answer = "• Modellnr. • Serienummer (endast i förekommande fall). • Datum för produktens inköp (kvitto eller leveranskvitto)"
+difficulty = "Hard"
+category = "Usage"
+
+[[questions.files]]
+file = "FOODI_NEW_se-001.pdf"
+page_numbers = [17]
+
+[[questions.files]]
+file = "FOOD_PROCESSOR_se-001.pdf"
+page_numbers = [11]
+
+[[questions.files]]
+file = "SPEEDI_se-001.pdf"
+page_numbers = [9]
+
+[[questions.files]]
+file = "FOODI_MAX__se-001.pdf"
+page_numbers = [15]
+
+[[questions.files]]
+file = "COMBI_ALL_IN_ONE_se-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCK013"
+question = "Var kan man registrera sin garanti online?"
+answer = "www.ninjakitchen.eu"
+difficulty = "Hard"
+category = "Usage"
+[[questions.files]]
+file = "FOODI_NEW_se-001.pdf"
+page_numbers = [17]
+
+[[questions.files]]
+file = "FOOD_PROCESSOR_se-001.pdf"
+page_numbers = [11]
+
+[[questions.files]]
+file = "SPEEDI_se-001.pdf"
+page_numbers = [9]
+
+[[questions.files]]
+file = "FOODI_MAX__se-001.pdf"
+page_numbers = [15]
+
+[[questions.files]]
+file = "COMBI_ALL_IN_ONE_se-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCK014"
+question = "Vilka är fördelarna med att registrera sin garanti?"
+answer = "När du registrerar din garanti kan du välja att få vårt nyhetsbrev med tips, råd och tävlingar. Få senaste nytt om Ninja"
+difficulty = "Medium"
+category = "Usage"
+
+[[questions.files]]
+file = "FOODI_NEW_se-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCK015"
+question = "Vad är det för modellnummer på Ninja Food Processor med Auto-IQ®?"
+answer = "BN800EU"
+difficulty = "Easy"
+category = "Usage"
+
+[[questions.files]]
+file = "FOOD_PROCESSOR_se-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCK020"
+question = "Hur kan jag kontakta Ninja om jag har problem efter att garantin har gått ut?"
+answer = "I sådant fall du kan hitta online-stöd på www.ninjakitchen.eu"
+difficulty = "Easy"
+category = "Customer support"
+
+[[questions.files]]
+file = "FOOD_PROCESSOR_se-001.pdf"
+page_numbers = [2]
+
+[[questions.files]]
+file = "FOODI_MAX__se-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0001"
+question = "Vilka hanteringsuppgifter är nära kopplade till incidenttriage i Microsoft Defender?"
+answer = "Följande hanteringsuppgifter är nära kopplade till incidenttriage, även om de kan utföras när som helst. Tilldela incidenten till en ägare. Tilldela eller ändra allvarlighetsgrad. Lägg till incidenttaggar. Ändra incidentstatus"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0002"
+question = "Hur kan du manuellt tilldela en ny ägare till en incident?"
+answer = "Utför följande steg för att manuellt tilldela en ny ägare till en incident: 1. Följ anvisningarna i det inledande avsnittet för att komma åt fönstret Hantera incident. 2. Välj rutan Tilldela till. En listruta med föreslagna tilldelningar visas. 3. Om du ser det användar- eller gruppkonto som du vill tilldela incidenten till väljer du det. Annars börjar du skriva namnet eller konto-ID:t för den önskade användaren eller gruppen i textrutan överst i listan. Listan uppdateras dynamiskt och filtreras efter vad du skriver. När du ser den användare eller grupp som du vill använda väljer du den. 4. Om du vill ta bort en befintlig tilldelning, inklusive alla som du just har lagt till, väljer du X bredvid kontonamnet. Välj sedan rutan Tilldela till om du vill lägga till en annan tilldelning. Endast ett användar- eller gruppkonto kan tilldelas till en incident. 5. Välj Spara. När du tilldelar ägarskap för en incident tilldelas samma ägarskap till alla aviseringar som är associerade med den"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [3, 4]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0003"
+question = "Hur bestäms allvarlighetsgraden för en incident i Microsoft Defender?"
+answer = "Allvarlighetsgraden för en incident bestäms av den högsta allvarlighetsgraden för de aviseringar som är associerade med den"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0004"
+question = "Vad är syftet med anpassade taggar i incidenthantering?"
+answer = "Anpassade taggar lägger till information för att låna ut kontext till en incident. En tagg kan till exempel märka en grupp incidenter med en gemensam egenskap. Taggar är ett villkor för filtrering, så du kan senare filtrera incidentkön för alla incidenter som innehåller en specifik tagg"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0005"
+question = "Vilken status har nya incidenter som standard?"
+answer = "Incidenter börjar livet med statusen Aktiv"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0006"
+question = "Vilken information ingår i exporterade incidentdata till PDF?"
+answer = "Incidentdata som exporteras innehåller följande information: En översikt som innehåller incidentinformationen Diagram över angreppsberättelser och hotkategorier De påverkade tillgångarna täcker upp till 10 tillgångar för varje tillgångstyp Bevislistan omfattar upp till 100 punkter Stöddata, inklusive alla relaterade aviseringar och aktiviteter som registrerats i aktivitetsloggen"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [17]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0007"
+question = "Hur kan säkerhetsteam finjustera Microsoft Defender för bättre identifieringsbestämning över tid?"
+answer = "Genom att klassificera incidenter och ange deras status och typ kan du finjustera Microsoft Defender för att ge bättre identifieringsbestämning över tid"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0008"
+question = "Vad händer när en incident tilldelas en ägare i Microsoft Defender?"
+answer = "När du tilldelar ägarskap för en incident tilldelas samma ägarskap till alla aviseringar som är associerade med den"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0009"
+question = "Vad är syftet med att lägga till kommentarer till en incident?"
+answer = "Under utredning och incident lägger du till kommentarer för att registrera aktiviteter, insikter och slutsatser"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0010"
+question = "Var kan du hitta aktivitetsloggen för en incident?"
+answer = "På incidentsidan, eller i panelen incidentinformation på sidan incidentkö, väljer du de tre punkterna i det övre högra hörnet och väljer Aktivitetslogg på den resulterande menyn"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0011"
+question = "Vad händer om en annan incident slås samman till en omdöpt incident?"
+answer = "Om en annan incident slås samman till en omdöpt incident ger Defender incidenten ett nytt namn och skriver över alla anpassade namn som du gav den i förväg"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0012"
+question = "Vilka typer av incidenter kan klassificeras som 'Information, förväntad aktivitet'?"
+answer = "Använd alternativen i den här kategorin för att klassificera incidenter för säkerhetstester, red team-aktivitet och förväntat ovanligt beteende från betrodda appar och användare"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0013"
+question = "Vad är det maximala antalet tecken som en kommentar i aktivitetsloggen kan ha?"
+answer = "Varje kommentar är begränsad till 30 000 tecken"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0014"
+question = "Vad är fördelen med att exportera incidentdata till PDF?"
+answer = "Med den här funktionen kan säkerhetsteam granska en incidentinformation offline vid en viss tidpunkt"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [17]
+
+[[questions]]
+id = "PMC-HANTERA-INCIDENTER-0015"
+question = "Hur kan du generera en nyare version av en exporterad PDF-fil om den är cachelagrad?"
+answer = "Om du vill generera en nyare version av PDF-filen väntar du några minuter tills cacheminnet upphör att gälla"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantera-incidenter-i-Microsoft-Defender-001.pdf"
+page_numbers = [20]
+
+
+[[questions]]
+id = "PMCMDFEAT0001"
+question = "Vad är Hantering av hot och säkerhetsrisker för Microsoft Defender?"
+answer = "Att minska cyberrisken kräver omfattande riskbaserad sårbarhetshantering för att identifiera, utvärdera, åtgärda och spåra alla dina största sårbarheter i dina mest kritiska tillgångar, allt i en enda lösning"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCMDFEAT0002"
+question = "Vilka operativsystem och plattformar stöds av Microsoft Defender – hantering av säkerhetsrisker?"
+answer = "Defender – hantering av säkerhetsrisker ger tillgångssynlighet, intelligenta utvärderingar och inbyggda reparationsverktyg för Windows-, macOS-, Linux-, Android-, iOS- och nätverksenheter"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCMDFEAT0003"
+question = "Är Microsoft Defender - hantering av säkerhetsrisker tillgängligt för Microsoft Defender för företag kunder?"
+answer = "Microsoft Defender – hantering av säkerhetsrisker är för närvarande inte tillgängligt för Microsoft Defender för företag kunder"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCMDFEAT0005"
+question = "Vilka funktioner ingår i riskbaserad intelligent prioritering?"
+answer = "Riskbaserad intelligent prioritering: Fokuserar på nya hot – justerar dynamiskt prioriteringen av säkerhetsrekommendationer med sårbarheter som för närvarande utnyttjas i vilda och framväxande hot som utgör den högsta risken. Identifierar aktiva överträdelser – Korrelerar sårbarhetshantering och EDR-insikter för att prioritera sårbarheter som utnyttjas i ett aktivt intrång i organisationen. Skyddar tillgångar med högt värde – Identifierar exponerade enheter med affärskritiska program, konfidentiella data eller högt värderade användare"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCMDFEAT0006"
+question = "Vilka reparations- och spårningsfunktioner finns tillgängliga?"
+answer = "Reparationsbegäranden som skickas till IT – Skapa en åtgärdsuppgift i Microsoft Intune från en specifik säkerhetsrekommendation. Blockera sårbara program – Minska risken med möjligheten att blockera sårbara program för specifika enhetsgrupper. Alternativa åtgärder – Få insikter om andra åtgärder, till exempel konfigurationsändringar som kan minska risken för sårbarheter i programvara. Reparationsstatus i realtid – Realtidsövervakning av status och förlopp för reparationsaktiviteter i hela organisationen"
+difficulty = "Hard"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [3, 4]
+
+[[questions]]
+id = "PMCMDFEAT0007"
+question = "Vad visas på instrumentpanelen?"
+answer = "Få en översikt över organisationens exponeringspoäng, hotmedvetenhet, Microsoft Secure Score for Devices, utgångna certifikat, distribution av enhetsexponering, de främsta säkerhetsrekommendationerna, mest sårbara programvara, de främsta reparationsaktiviteterna och de vanligaste exponerade enhetsdata"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCMDFEAT0008"
+question = "Vad hittar man under 'Rekommendationer'?"
+answer = "Se listan över säkerhetsrekommendationer och relaterad hotinformation. När du väljer ett objekt i listan öppnas en utfälld panel med sårbarhetsinformation, en länk för att öppna programsidan samt alternativ för reparation och undantag. Du kan också öppna ett ärende i Intune om dina enheter är anslutna via Microsoft Entra ID och du har aktiverat dina Intune-anslutningar i Defender för Endpoint"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCMDFEAT0009"
+question = "Hur kan man automatisera arbetsflöden för sårbarhetshantering?"
+answer = "Kör relaterade API-anrop för sårbarhetshantering för att automatisera arbetsflöden för sårbarhetshantering"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCMDFEAT0011"
+question = "Gäller samma metoder för datasäkerhet och sekretess för Microsoft Defender för Endpoint för Microsoft Defender - hantering av säkerhetsrisker?"
+answer = "Samma metoder för datasäkerhet och sekretess för Microsoft Defender för Endpoint gäller för Microsoft Defender – hantering av säkerhetsrisker finns i Microsoft Defender för Endpoint datalagring och sekretess"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCMDFEAT0012"
+question = "Vad bör man tänka på angående den Windows-autentiserade genomsökningen?"
+answer = "Funktionen för windows-autentiserad genomsökning kommer att vara inaktuell i slutet av november 2025 och stöds inte efter det datumet. Mer information om den här ändringen finns i vanliga frågor och svar om windows-autentiserad avskrivning av skanning"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PMCMDFEAT0013"
+question = "Var kan man hitta mer detaljerad information om licensiering för Microsoft 365 för säkerhet och efterlevnad?"
+answer = "Mer detaljerad information finns i följande resurser: Microsoft 365-licensieringsvägledning för säkerhet & efterlevnad Microsoft 365 Education"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCMDFEAT0014"
+question = "Hur kan nya kunder eller befintliga Defender för Endpoint P1 eller Microsoft 365 E3 kunder prova Microsoft Defender - hantering av säkerhetsrisker fristående?"
+answer = "För nya kunder eller befintliga Defender för Endpoint P1 eller Microsoft 365 E3 kunder är Microsoft Defender – hantering av säkerhetsrisker fristående"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Hantering-av-hot-featurest-001.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PMCEVALT0001"
+question = "Vad är målet med organisationens exponeringspoäng?"
+answer = "Målet är att sänka exponeringspoängen för din organisation för att bli säkrare"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCEVALT0002"
+question = "Vad återspeglar exponeringspoängen?"
+answer = "Den återspeglar hur sårbar din organisation är för cybersäkerhetshot"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCEVALT0003"
+question = "Vad betyder en låg exponeringspoäng?"
+answer = "Låg exponeringspoäng innebär att dina enheter är mindre sårbara för exploatering"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCEVALT0004"
+question = "Vad är nivåerna för exponeringspoängen?"
+answer = "0-29: låg exponeringspoäng 30-69: medelexponeringspoäng 70-100: hög exponeringspoäng"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCEVALT0005"
+question = "Hur kan du minska din totala sårbarhetsexponering?"
+answer = "Genom att åtgärda sårbarheter med säkerhetsrekommendationer som prioriterats för att minska exponeringspoängen kan du minska den totala sårbarhetsexponeringen"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCEVALT0006"
+question = "Vad innebär en högre Microsoft Secure Score för enheter?"
+answer = "En högre Microsoft Secure Score för enheter innebär att dina slutpunkter är mer motståndskraftiga mot cybersäkerhetshotattacker"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCEVALT0007"
+question = "Vilka kategorier återspeglar Microsoft Secure Score för enheter?"
+answer = "Program Operativsystem Nätverk Konton Säkerhetskontroller"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCEVALT0008"
+question = "Hur kan du förbättra säkerhetskonfigurationen?"
+answer = "Förbättra säkerhetskonfigurationen genom att åtgärda problem från listan över säkerhetsrekommendationer"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCEVALT0010"
+question = "Hur kan du öka frekvensen för identifiering av sårbarhetsbedömningar?"
+answer = "Om du vill öka frekvensen för identifiering av sårbarhetsbedömningar laddar du ned följande obligatoriska säkerhetsuppdateringar och distribuerar dem i nätverket: 19H1-kunder | KB 4512941 RS5-kunder | KB-4516077 RS4-kunder | KB-4516045 RS3-kunder | KB-4516071"
+difficulty = "Hard"
+category = "Software"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PMCEVALT0011"
+question = "Vad är syftet med utvärdering av säkerhetsbaslinjer?"
+answer = "I stället för att köra oändliga efterlevnadsgenomsökningar hjälper utvärderingen av säkerhetsbaslinjer dig att kontinuerligt och enkelt övervaka organisationens efterlevnad av säkerhetsbaslinjer och identifiera ändringar i realtid"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PMCEVALT0012"
+question = "Vad representerar en säkerhetsbaslinjeprofil?"
+answer = "En säkerhetsbaslinjeprofil är en anpassad profil som du kan skapa för att utvärdera och övervaka slutpunkter i din organisation mot branschsäkerhetsmått. När du skapar en säkerhetsbaslinjeprofil skapar du en mall som består av flera inställningar för enhetskonfiguration och ett basmått att jämföra med"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PMCEVALT0013"
+question = "Stöds utvärdering av säkerhetsbaslinje på nationella inställningar för Windows-system som inte är engelska?"
+answer = "Utvärdering av säkerhetsbaslinje stöds inte på nationella inställningar för Windowssystem som inte är engelska"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PMCEVALT0014"
+question = "Vad händer när du anpassar en konfiguration i en säkerhetsbaslinjeprofil?"
+answer = "När du anpassar en konfiguration visas en ikon bredvid den för att indikera att den har anpassats och inte längre använder det rekommenderade värdet"
+difficulty = "Medium"
+category = "Configuration"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "PMCEVALT0015"
+question = "Vilken information kan du visa på översiktssidan för utvärdering av säkerhetsbaslinjer?"
+answer = "På översiktssidan för utvärdering av säkerhetsbaslinjer kan du visa enhetsefterlevnad, profilefterlevnad, enheter med högst fel och de vanligaste felkonfigurerade enheterna"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Identifiera-och-utvärdera-hot-001.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "PMCJAKTVERKTYG001"
+question = "Vad är grunden för jaktfrågor i Defender-portalen?"
+answer = "Grunden för jaktfrågor i Defender-portalen ligger på Kusto-frågespråk (KQL). KQL är ett kraftfullt och flexibelt språk som är optimerat för sökning i stordatalager i molnmiljöer"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCJAKTVERKTYG002"
+question = "Vilka jaktverktyg och resurser finns i Defender-portalen för att underlätta hotjakt?"
+answer = "Security Copilot i avancerad jakt genererar KQL från frågor på naturligt språk. Guidad jakt använder en frågebyggare för att skapa meningsfulla jaktfrågor utan att känna till KQL eller dataschemat. Få hjälp när du skriver frågor med funktioner som automatiska förslag, schematräd och exempelfrågor. Innehållshubben tillhandahåller expertfrågor för att matcha färdiga lösningar i Microsoft Sentinel. Microsoft Defender jaktexperter berömmer även de bästa hotjägare som vill ha hjälp"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCJAKTVERKTYG003"
+question = "Hur kan avancerad jakt användas för att hitta tidiga attacker eller hot som inte har aviseringar?"
+answer = "Använd avancerad jakt för att hitta tidiga attacker eller hot som inte har aviseringar"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCJAKTVERKTYG004"
+question = "Vad är syftet med bokmärken i jaktverktygen?"
+answer = "Bevara frågor och deras resultat, lägga till anteckningar och kontextuella observationer"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCJAKTVERKTYG005"
+question = "Vad är en avancerad jakt och vad kan den utforska?"
+answer = "Avancerad jakt är ett frågebaserat verktyg för hotjakt där du kan utforska upp till 30 dagars rådata"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCJAKTVERKTYG006"
+question = "Vilka typer av data kan avancerad jakt stödja frågor från?"
+answer = " Avancerad jakt stöder frågor som kontrollerar en bredare datauppsättning som kommer från: Microsoft Defender för Endpoint Microsoft Defender för Office 365 Microsoft Defender for Cloud Apps Microsoft Defender for Identity Microsoft Sentinel"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCJAKTVERKTYG007"
+question = "Vad är Live stream i jaktverktygen?"
+answer = "Starta en interaktiv jaktsession och använd alla Log Analytics-frågor"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCJAKTVERKTYG009"
+question = "Vilka är de tre faserna av hotjakt där Microsofts plattform för enhetliga säkerhetsåtgärder (SecOps) är effektiv?"
+answer = "Jakt på säkerhetshot är en mycket anpassningsbar aktivitet som är mest effektiv när den utförs i alla faser av hotjakt: proaktiv, reaktiv och efter incident"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCJAKTVERKTYG010"
+question = "Vilken typ av data fyller tabeller om användare och enheter?"
+answer = "Entitetsdata fyller tabeller med information om användare och enheter"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCJAKTVERKTYG011"
+question = "Hur ofta uppdateras tabellerna med entitetsdata med ny information?"
+answer = "För att tillhandahålla nya data uppdateras tabellerna med ny information var 15:e minut och lägger till rader som kanske inte är helt ifyllda"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCJAKTVERKTYG012"
+question = "Hur kan man använda MITRE ATT&CK-kartan i den proaktiva jaktfasen?"
+answer = "Använd MITRE ATT-&CK-kartan för att identifiera identifieringsluckor och kör sedan fördefinierade jaktfrågor för markerade tekniker"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCJAKTVERKTYG013"
+question = "Vad innebär Infrastrukturlänkning som jaktverktyg?"
+answer = "Jaga nya anslutningar mellan hotaktörer, gruppera liknande attackaktivitet och underbygga antaganden"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCJAKTVERKTYG014"
+question = "Vad är Hotutforskaren för specialiserad jakt?"
+answer = "Jaga specialiserade hot som rör e-post"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCJAKTVERKTYG015"
+question = "Vilka har nytta av jaktverktygsfunktioner som gör att de kan dela sina tekniker, frågor och resultat med sitt team?"
+answer = "Hotjägare på alla nivåer drar nytta av jaktverktygsfunktioner som gör att de kan dela sina tekniker, frågor och resultat med sitt team på vägen"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Jaktverktyg-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEXPERTS001"
+question = "Vad är Microsoft Defender jaktexperter?"
+answer = "Microsoft Defender jaktexperter har skapats för kunder som har ett robust säkerhetsåtgärdscenter men vill att Microsoft ska hjälpa dem att proaktivt jaga hot med hjälp av Microsoft Defender data"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCEXPERTS002"
+question = "Vad ingår i Microsoft Defender jaktexperter-tjänsten?"
+answer = "Följande funktioner som ingår i den här hanterade hotjakttjänsten kan också hjälpa dig med ditt dagliga SecOps-arbete: Hotjakt och analys – Defender jaktexperter titta djupare för att exponera avancerade hot och identifiera omfattningen och effekten av skadlig aktivitet som är associerad med mänskliga angripare eller praktiska attacker på tangentbordet. Defender Experts-meddelanden – Meddelanden visas som incidenter i Microsoft Defender XDR, vilket hjälper till att förbättra din säkerhetsåtgärds incidenthantering med specifik information om omfattningen, metoden för inmatning och reparationsinstruktioner. Fråga Defender-experter – Välj Fråga Defender-experter i Microsoft Defenderportalen för att få expertråd om hot som din organisation står inför. Du kan be om hjälp med en specifik incident, nation-state actor eller attackvektorrelaterade meddelanden. Hunter-tränad AI – Vår Defender jaktexperter dela sin utbildning tillbaka till de automatiserade verktyg som de använder för att förbättra hotidentifiering och prioritering. Rapporter – en interaktiv rapport som sammanfattar vad vi jagade och vad vi hittade"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [1, 2]
+
+[[questions]]
+id = "PMCEXPERTS003"
+question = "Hur många Ask Defender Experts-krediter tilldelas Defender jaktexperter-kunder?"
+answer = "Defender jaktexperter kunder tilldelas 10 Ask Defender Experts-krediter, som du kan använda för att skicka frågor, i början av varje kalenderkvartal"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCEXPERTS004"
+question = "Vilka licenskrav finns för hotjakttjänsten?"
+answer = "Vi kräver följande licenskrav för att vi ska kunna komma igång med den här hotjakttjänsten: Microsoft Defender för Endpoint P2 måste vara licensierad och aktiverad på berättigade enheter Microsoft Defender Antivirus måste vara licensierat och aktiverat i aktivt läge på enheter som registrerats i Defender för Endpoint (krävs för slutpunktsidentifiering)"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCEXPERTS005"
+question = "Vilka produkter är berättigade att få Defender jaktexperter-täckning?"
+answer = "Följande produkter är också berättigade att få Defender jaktexperter täckning, och du måste ha deras lämpliga produktlicenser för att komma igång med tjänsten: Microsoft Defender för Office 365 P2 Microsoft Defender for Identity Microsoft Defender for Cloud Apps"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [3, 4]
+
+[[questions]]
+id = "PMCEXPERTS006"
+question = "Vad täcker inte Defender jaktexperter-tjänsten?"
+answer = "Följande produkt omfattas inte av den här tjänsten: Microsoft Defender för IoT Andra Microsoft-tjänster som inte nämns i föregående listor"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCEXPERTS007"
+question = "Hur kan man ansöka om Microsoft Defender jaktexperter-tjänsten?"
+answer = "Du kan ansöka om Defender jaktexperter genom att utföra följande steg: 1. Fyll i formuläret för kundintresse. 2. Ange ditt namn, företagsnamn och företagets e-post-ID. 3. Välj Skicka. Någon från vårt säljteam kommer att kontakta oss inom fem arbetsdagar"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCEXPERTS008"
+question = "Var kan man hitta Defender-experters meddelanden?"
+answer = "Du kan ta emot Defender-experters meddelanden från Defender-experter via följande medier: Sidan incidenter i Microsoft Defender-portalen Aviseringssidan för Microsoft Defender-portalen API för OData-aviseringar ochREST API DeviceAlertEvents-tabell i Avancerad jakt Din e-post om du konfigurerar en regel för e-postaviseringar"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCEXPERTS009"
+question = "Hur filtrerar man för att bara visa Defender-experternas meddelanden?"
+answer = "1. På navigeringsmenyn går du till Incidenter & aviseringar>Incidenter> och väljer. 2. Rulla ned till Tjänst-/identifieringskällor och markera sedan kryssrutorna Microsoft Defender Experter under Microsoft Defender för Endpoint och Microsoft Defender XDR. 3. Välj Använd"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCEXPERTS010"
+question = "Hur konfigurerar man e-postaviseringar för Defender-experter?"
+answer = "1. I navigeringsfönstret Microsoft Defender XDR väljer du Inställningar>Microsoft Defender XDR>Email meddelanden>Incidenter. 2. Uppdatera dina befintliga e-postaviseringsregler eller skapa en ny. Mer information finns i Granskning. 3. På sidan Meddelandeinställningar för regeln ser du till att konfigurera följande: Källa – Välj Microsoft Defender experter under Microsoft Defender XDR och Microsoft Defender för Endpoint. Allvarlighetsgrad för avisering – Välj de allvarlighetsgrad för aviseringar som utlöser ett incidentmeddelande. Om du till exempel bara vill få information om incidenter med hög allvarlighetsgrad väljer du Hög"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCEXPERTS011"
+question = "Hur genererar man ett exempelmeddelande från Defender-experter?"
+answer = "1. I navigeringsfönstret Microsoft Defender XDR går du till Inställningar>Defenderexperter och väljer sedan Exempelmeddelanden. 2. Välj Generera ett exempelmeddelande. Ett grönt statusmeddelande visas som bekräftar att exempelmeddelandet är klart för granskning. 3. Under Meddelande om nyligen genererade Defender-experter väljer du en länk i listan för att visa motsvarande genererade exempelmeddelande. Det senaste exemplet visas överst i listan. Om du väljer en länk omdirigeras du till sidan Incidenter"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PMCEXPERTS012"
+question = "Vilka data använder Microsoft-experterna för jakt?"
+answer = "Microsoft-experter jagar avancerade jaktloggar i Microsoft Defender XDR avancerade jakttabeller. Data i dessa tabeller beror på vilken uppsättning Defender-tjänster som kunden är aktiverad för (till exempel Microsoft Defender för Endpoint, Microsoft Defender för Office 365, Microsoft Defender for Identity, Microsoft Defender for Cloud Apps och Microsoft Entra ID). Experter använder också en stor uppsättning interna hotinformationsdata för att informera om jakt och automatisering"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCEXPERTS013"
+question = "Var lagras Defender jaktexperter driftdata?"
+answer = "Defender jaktexperter driftdata, till exempel ärendeärenden och analytikeranteckningar, genereras och lagras i ett Microsoft-datacenter i EU-regionen för kunder vars Defender XDR data omfattas av EU:s datagräns och i usa-regionen för andra kunder, för tjänstens längd, oavsett om det gäller Microsoft Defender XDR tjänstlagringsplats"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCEXPERTS014"
+question = "Hur länge behålls rapporteringsdata och driftdata efter att en kunds prenumeration upphör att gälla?"
+answer = "Rapporteringsdata och driftdata behålls under en respitperiod på högst 90 dagar efter att en kunds prenumeration upphör att gälla"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCEXPERTS015"
+question = "Är tjänsten tillgänglig för kunder i myndighetsmoln och nationella moln?"
+answer = "Den är för närvarande inte tillgänglig för kunder i myndighetsmoln och nationella moln"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "Microsoft-Defender-jaktexperter-001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCSECOPS001"
+question = "Vad är Microsofts enhetliga plattform för säkerhetsåtgärder?"
+answer = "Microsofts enhetliga säkerhetsåtgärdsplattform tillhandahåller en enda plattform för säkerhetsåtgärder från slutpunkt till slutpunkt (SecOps). Den integrerar säkerhetsinformation och händelsehantering (SIEM), säkerhetsorkestrering, automatisering och svar (SOAR), utökad identifiering och svar (XDR), hantering av hållning och exponering, molnsäkerhet, hotinformation och generativa AI-lösningar"
+difficulty = "Easy"
+category = "SecOps"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCSECOPS002"
+question = "Vilka tjänster kombinerar Microsofts enhetliga SecOps-plattform för att täcka alla funktioner?"
+answer = "För att täcka alla dessa funktioner kombinerar Microsofts enhetliga SecOps-plattform tjänster som Microsoft Defender XDR, Microsoft Sentinel, Microsoft Security Exposure Management och Microsoft Security Copilot i Microsoft Defender portalen"
+difficulty = "Easy"
+category = "SecOps"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCSECOPS003"
+question = "Vilken är Microsoft Defender för identitetens funktion?"
+answer = "Identifiera, identifiera och undersöka Microsoft Entra ID hot"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCSECOPS004"
+question = "Vad är syftet med Microsoft Defender för Office 365?"
+answer = "Skydda mot hot från e-postmeddelanden, URL-länkar och Office 365 samarbetsverktyg"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCSECOPS005"
+question = "Vilka tillgångsskyddsfunktioner omfattar Microsoft Defender XDR-tjänster?"
+answer = "Identifiera, identifiera och undersöka Microsoft Entra ID hot. Skydda mot hot från e-postmeddelanden, URL-länkar och Office 365 samarbetsverktyg. Övervaka och skydda slutpunktsenheter. Övervaka, identifiera och undersöka enhetsöverträdelser och svara automatiskt på säkerhetshot. Identifiera och skydda driftteknik (OT) och IT-resurser genom att utöka Defender XDR skydd till OT-miljöer. Identifiera tillgångar och programvaruinventering och utvärdera enhetens hållning för att hitta säkerhetsrisker. Skydda och kontrollera åtkomsten till SaaS-molnappar"
+difficulty = "Hard"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCSECOPS006"
+question = "Vilken information grupperar Defender-portalen i den kombinerade incidentkön?"
+answer = "Den tillhandahåller en kombinerad incidentkö som grupperar information om säkerhetsrisker och överträdelser"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCSECOPS007"
+question = "Hur bidrar Microsofts enhetliga SecOps-plattform till att minska säkerhetsrisken?"
+answer = "Microsofts enhetliga SecOps-plattform erbjuder omfattande funktioner för exponeringshantering och molnskydd. Med Microsoft Security Exposure Management och Microsoft Defender för molnet: Upptäck kontinuerligt organisationens tillgångar och utvärdera deras säkerhetsstatus. Skydda molnarbetsbelastningar från kod till körning. Aggregera data och hotinformation för att identifiera säkerhetsluckor och svagheter, inklusive analys av potentiella attackvägar. Undersök och fråga för att få insikter om säkerhetsstatus. Prioritera tillgångsreparation, med fokus på kritiska resurser, för att minska säkerhetsluckor och angreppsytor"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCSECOPS008"
+question = "Vad mäter tid att identifiera (TTD) inom cybersäkerhet?"
+answer = "Tid att identifiera (TTD) mäter hur lång tid det tar för säkerhetsteam att identifiera en incident"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCSECOPS009"
+question = "Vad mäter tid att svara (TTR) inom cybersäkerhet?"
+answer = "Tid att svara (TTR) mäter hur lång tid det tar att svara när ett hot har identifierats"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCSECOPS010"
+question = "Hur bidrar automatiska attackstörningar till att minska kostnaderna?"
+answer = "Automatiska angreppsstörningar bidrar till att minska kostnaderna i samband med produktivitetsförlust, ger kontroll till SecOps-teamets kontroll för att undersöka och åtgärda komprometterade tillgångar"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCSECOPS011"
+question = "Vad är syftet med Microsoft Security Copilot?"
+answer = "Microsoft Security Copilot sammanför kraften i AI och mänsklig expertis för att hjälpa socteamet att reagera på attacker snabbare och mer effektivt"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCSECOPS012"
+question = "Hur är Security Copilot inbäddat i Defender-portalen?"
+answer = "Security Copilot är inbäddat i Defender-portalen för att säkerhetsteam effektivt ska kunna sammanfatta incidenter, analysera skript och koder, analysera filer, sammanfatta enhetsinformation, använda guidade svar för att lösa incidenter, generera KQL-frågor och skapa incidentrapporter"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCSECOPS013"
+question = "Hur hjälper Security Copilot till att minska exponeringen och förbättra hållningen?"
+answer = "Minska exponeringen och förbättra hållningen. Förhindra intrång med insikter för att upptäcka kritiska exponeringsrisker och rekommendationer för riskminskning"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCSECOPS014"
+question = "Hur hjälper Security Copilot analytiker med intelligent hjälp?"
+answer = "Ge intelligent hjälp med skräddarsydda frågor baserat på metodtips som analyserar skadliga skript och filer och föreslår KQL-frågor"
+difficulty = "Medium"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCSECOPS015"
+question = "Vilka andra Microsoft Defender-tjänster kan integreras för att öka säkerheten?"
+answer = "Integrera fler Microsoft Defender tjänster för att öka säkerheten och ge integrerat skydd mot avancerade attacker"
+difficulty = "Easy"
+category = "Security"
+
+[[questions.files]]
+file = "what-is-unified-secops-platform-001.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCSKOLVERKET001"
+question = "Vilka typer av stödinsatser samlar Skolverket in uppgifter om gällande särskilt stöd?"
+answer = "Skolverket samlar in uppgifter om de stödformer som regleras i skollagen. Det betyder att det inte samlas in uppgifter om de extra anpassningar som eleven kan få inom ramen för den ordinarie undervisningen, innan särskilt stöd sätts in. I statistiken finns uppgifter om fem typer av stödinsatser som kan användas som särskilt stöd: • enskild undervisning • särskild undervisningsgrupp • anpassad studiegång • distansundervisning • annan undervisning"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCSKOLVERKET002"
+question = "Hur många elever i grundskolan omfattas av ett åtgärdsprogram läsåret 2024/25?"
+answer = "Läsåret 2024/25 omfattas 6,7 procent av eleverna i grundskolan av ett åtgärdsprogram, vilket motsvarar knappt 73 200 elever"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [4, 10]
+
+[[questions]]
+id = "PMCSKOLVERKET003"
+question = "Vad innebär anpassad studiegång?"
+answer = "Anpassad studiegång innebär att skolan gör avvikelser från den ordinarie timplanen för en enskild elev och sådant beslut får fattas om det särskilda stödet för eleven inte i rimlig grad kan anpassas efter elevens behov och förutsättningar"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCSKOLVERKET004"
+question = "Hur många elever får studiehandledning på modersmålet läsåret 2024/25?"
+answer = "Totalt 2,4 procent av eleverna i grundskolan har läsåret 2024/25 studiehandledning på sitt modersmål, vilket motsvarar knappt 26 900 elever"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [17]
+
+[[questions]]
+id = "PMCSKOLVERKET005"
+question = "Vilken andel av pojkarna respektive flickorna har ett åtgärdsprogram läsåret 2024/25?"
+answer = "Åtgärdsprogram är vanligare bland pojkar än bland flickor, 8,1 procent av pojkarna har ett åtgärdsprogram jämfört med 5,1 procent av flickorna"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PMCSKOLVERKET006"
+question = "Hur stor andel av eleverna i grundskolan får särskilt stöd genom enskild undervisning läsåret 2024/25?"
+answer = "Läsåret 2024/25 får 0,8 procent av eleverna i grundskolan särskilt stöd genom enskild undervisning, vilket motsvarar drygt 8 700 elever"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PMCSKOLVERKET007"
+question = "Hur stor andel av eleverna i grundskolan får stöd i form av särskild undervisningsgrupp läsåret 2024/25?"
+answer = "Totalt 1,4 procent av eleverna i grundskolan får läsåret 2024/25 stöd i form av särskild undervisningsgrupp, vilket motsvarar drygt 15 800 elever"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [4, 14]
+
+[[questions]]
+id = "PMCSKOLVERKET008"
+question = "Vilken årskurs har högst andel elever med åtgärdsprogram läsåret 2024/25?"
+answer = "Årskurs 9 har högst andel elever med åtgärdsprogram, där knappt 11 procent av eleverna (drygt 13 400 elever) har ett åtgärdsprogram"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PMCSKOLVERKET009"
+question = "Hur definieras områdestyp 1 i statistiken?"
+answer = "Områdestyp 1 – områden med stora socioekonomiska utmaningar"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCSKOLVERKET010"
+question = "Vad är skillnaden i andel elever med åtgärdsprogram mellan kommunala och fristående skolor läsåret 2024/25?"
+answer = "I diagrammet framgår att det är något vanligare att elever som går i kommunala skolor har åtgärdsprogram jämfört med fristående skolor, 6,7 jämfört med 6,3 procent"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [18]
+
+[[questions]]
+id = "PMCSKOLVERKET011"
+question = "När började Skolverket publicera statistik om särskilt stöd i grundskolan?"
+answer = "Sedan hösten 2012 publicerar Skolverket statistik om särskilt stöd i grundskolan"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCSKOLVERKET012"
+question = "Vilken andel av eleverna i årskurs 9 har anpassad studiegång läsåret 2024/25?"
+answer = "årskurs 9 har 5,1 procent av eleverna anpassad studiegång, vilket är en högre andel än de övriga stödformerna"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [16]
+
+[[questions]]
+id = "PMCSKOLVERKET013"
+question = "Hur många elever går i grundskolan läsåret 2024/25?"
+answer = "Läsåret 2024/25 går knappt 1 100 000 elever i grundskolan"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCSKOLVERKET014"
+question = "Vad är syftet med studiehandledning på modersmålet?"
+answer = "Det ligger i skolans uppdrag att organisera undervisningen för elever med ett annat modersmål än svenska så att eleverna ges förutsättningar att utveckla kunskaper i skolans alla ämnen samtidigt som de lär sig det svenska språket. Ett sätt att tillgodose det behovet kan vara att ge eleven studiehandledning på modersmålet"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PMCSKOLVERKET015"
+question = "Var kan man hitta kvalitetsdeklarationer för den officiella statistiken från Skolverket?"
+answer = "Där finns dessutom kvalitetsdeklarationer för den officiella statistiken"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PMCCHEM001"
+question = "Vilken är aktören som har ansökt om produktgodkännande?"
+answer = "Globachem N.V"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM002"
+question = "Vilket växtskyddsmedel har Globachem N.V. ansökt om produktgodkännande för?"
+answer = "växtskyddsmedlet Pro-Opti XL"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM003"
+question = "Vilket är registreringsnumret för Pro-Opti XL?"
+answer = "6026"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM004"
+question = "Vad är giltighetstiden för produktgodkännandet för Pro-Opti XL?"
+answer = "Godkännande gäller fr o m 2025-02-13 Godkännandet gäller t o m 2028-01-31"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM005"
+question = "Vilken var avgiften för prövning av ansökan?"
+answer = "20 000 svenska kronor"
+difficulty = "Easy"
+category = "Economics"
+
+[[questions.files]]
+file = "6026_Beslut_2025-00-13.pdf"
+page_numbers = [1, 3]
+
+[[questions]]
+id = "PMCCHEM006"
+question = "När tog Kemikalieinspektionen emot ansökan om produktgodkännande?"
+answer = "Vi tog emot er ansökan om produktgodkännande den 9 december 2024"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM007"
+question = "På vilken referensprodukt bygger ansökan om produktgodkännande?"
+answer = "Referensprodukt, namn Roxy XL Referensprodukt, regnr 6017"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM008"
+question = "Vilket är registreringsnumret för referensprodukten Roxy XL?"
+answer = "6017"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM009"
+question = "Vilken funktion har produkten Pro-Opti XL?"
+answer = "Herbicid"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [2]
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM010"
+question = "Vilka är de verksamma ämnena i Pro-Opti XL och deras koncentration?"
+answer = "Prosulfokarb 900 g/l"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM011"
+question = "Vilka användningsområden är angivna för Pro-Opti XL?"
+answer = "Mot ogräs i odlingar av höstvete, höstråg, höstrågvete och höstkorn. Mot ogräs i odlingar av potatis"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM012"
+question = "Vad är den högsta dosen av Pro-Opti XL vid en enskild behandling i höstvete, höstkorn, höstråg och höstrågvete vid BBCH 00-09?"
+answer = "BBCH 00-09 1 gång per år 3,5 L/ha 3,15 kg prosulfokarb"
+difficulty = "Hard"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_för_användning_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM013"
+question = "Vad är den högsta dosen av Pro-Opti XL vid en enskild behandling i höstvete, höstkorn, höstråg och höstrågvete vid BBCH 10-21?"
+answer = "BBCH 10-21 1 gång per år 3,35 L/ha 3,02 kg prosulfokarb"
+difficulty = "Hard"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_för_användning_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM014"
+question = "Vad är den högsta dosen av Pro-Opti XL vid en enskild behandling i potatis vid BBCH 00-09?"
+answer = "Potatis Fält Mot ogräs Bomspruta BBCH 00-09 1 gång per år 3,5 L/ha 3,15 kg prosulfokarb"
+difficulty = "Hard"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_för_användning_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM015"
+question = "Hur många gånger per år får Pro-Opti XL användas i höstvete, höstkorn, höstråg och höstrågvete?"
+answer = "1 gång per år"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_för_användning_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM016"
+question = "Hur många gånger per år får Pro-Opti XL användas i potatis?"
+answer = "1 gång per år"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_för_användning_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM017"
+question = "Vilken typ av bekämpningsmedel är Pro-Opti XL?"
+answer = "Växtskyddsmedel"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM018"
+question = "Vilken behörighetsklass har Pro-Opti XL?"
+answer = "Behörighetsklass 2 L"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM019"
+question = "Vilken beredningsform har Pro-Opti XL?"
+answer = "EC-Emulgerbart koncentrat"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM020"
+question = "Vilka är förpackningsvillkoren för Pro-Opti XL?"
+answer = "HDPE, F-HDPE, HDPE-EVOH eller HDPE/PA förpackningar upp till 20L"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM021"
+question = "Vilka märkningskrav gäller för Pro-Opti XL?"
+answer = "Av märkningen ska framgå att hållbarheten är begränsad och att sista användningsdag efter tillverkning är 3 år SP1 Förorena inte vatten med produkten eller dess behållare"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM022"
+question = "Vilka är faroklasserna och farokategorierna för Pro-Opti XL enligt CLP-förordningen?"
+answer = "3.1 Akut toxicitet - Kategori 4 3.3 Allvarlig ögonskada eller ögonirritation - Kategori 2 4.1 Farligt för vattenmiljön, akut fara - Kategori: Akut 1 4.1 Farligt för vattenmiljön, fara för skadliga långtidseffekter - Kategori: Kronisk 2 3.4 Hudsensibilisering - Kategori 1"
+difficulty = "Medium"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM023"
+question = "Vilka faroangivelser gäller för Pro-Opti XL?"
+answer = "H317 Kan orsaka allergisk hudreaktion H319 Orsakar allvarlig ögonirritation H302 Skadligt vid förtäring H410 Mycket giftigt för vattenlevande organismer med långtidseffekter 7 procent av blandningen utgörs av beståndsdelar med okänd akut inhalationstoxicitet. EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen"
+difficulty = "Hard"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM024"
+question = "Vilka skyddsangivelser gäller för Pro-Opti XL?"
+answer = "P280 Använd skyddshandskar och ögonskydd. P261 Undvik att inandas sprej. P333 +P313 Vid hudirritation eller utslag: Sök läkarhjälp. P337 + P313 Vid bestående ögonirritation: Sök läkarhjälp. P391 Samla upp spill. P501 Innehållet och behållaren lämnas till godkänd avfallsmottagare"
+difficulty = "Hard"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM025"
+question = "Vilka piktogram och signalord används för Pro-Opti XL?"
+answer = "Varning GHS07 GHS09"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_2025-02-13-1.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PMCCHEM026"
+question = "Vilka personliga skyddsåtgärder krävs vid hantering av Pro-Opti XL?"
+answer = "Skyddshandskar och ögonskydd ska användas vid hantering av produkten samt vid arbetsmoment som innebär risk för kontakt med brukslösning"
+difficulty = "Medium"
+category = "Usage"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_för_användning_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM027"
+question = "Vilka villkor gäller för återinträde i behandlade områden efter behandling med Pro-Opti XL?"
+answer = "Arbetskläder (som täcker armar, ben och bål) ska användas vid återinträde i behandlade områden under de första 55 dygnen efter behandling"
+difficulty = "Hard"
+category = "Usage"
+
+[[questions.files]]
+file = "6026_Bilaga_Villkor_för_användning_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM029"
+question = "Vad heter växtskyddsmedlet som godkändes i beslutet?"
+answer = "Pro-Opti XL"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCCHEM032"
+question = "Vilka grödor får Pro-Opti XL användas på enligt ansökan?"
+answer = "Sökt användningsområde Mot ogräs i odlingar av höstvete, höstråg, höstrågvete och höstkorn. Mot ogräs i odlingar av potatis"
+difficulty = "Easy"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM037"
+question = "Vilken lagstiftning ligger till grund för produktgodkännandet?"
+answer = "förordning (EG) nr 1107/2009"
+difficulty = "Medium"
+category = "Legal"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PMCCHEM038"
+question = "Vilken myndighet har fattat beslutet om produktgodkännande?"
+answer = "Kemikalieinspektionen"
+difficulty = "Medium"
+category = "Chemical"
+
+[[questions.files]]
+file = "6026_Beslut_2025-02-13.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCWSL001"
+question = "Vad är Windows-undersystem för Linux (WSL)?"
+answer = "Med Windows-undersystem för Linux (WSL) kan utvecklare köra en GNU/Linux-miljö – inklusive de flesta kommandoradsverktyg, verktyg och program – direkt i Windows, oförändrade, utan att behöva använda en traditionell virtuell dator eller installation med dubbel start"
+difficulty = "Easy"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCWSL003"
+question = "Hur installerar man WSL?"
+answer = "wsl --install"
+difficulty = "Easy"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [153]
+
+[[questions]]
+id = "PMCWSL004"
+question = "Vilka kanaler kan man välja mellan för att ta emot förhandsversioner av WSL via Windows Insiders Program?"
+answer = "Du kan välja mellan: Dev-kanal: De senaste uppdateringarna, men låg stabilitet. Betakanal: Perfekt för tidiga användare, mer tillförlitliga versioner än Dev-kanalen. Förhandsversionskanal: Förhandsversionskorrigeringar och viktiga funktioner i nästa version av"
+difficulty = "Easy"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [1, 2]
+
+[[questions]]
+id = "PMCWSL008"
+question = "När släpptes den officiella Github-versionen av WSL-kärnan 5.10.60.1?"
+answer = "2021/11/02 ( Prerelease 2021/10/05 )"
+difficulty = "Easy"
+category = "Wsl"
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [311]
+
+[[questions]]
+id = "PMCWSL009"
+question = "Vilken kernelversion lade till stöd för LUKS-krypterade diskar med wsl --mount?"
+answer = "5.10.16.3"
+difficulty = "Hard"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [311, 312]
+
+[[questions]]
+id = "PMCWSL010"
+question = "När släpptes förhandsversionen av WSL-kärnan 5.10.43.3?"
+answer = "Prerelease 2021/07/12"
+difficulty = "Easy"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [311]
+
+[[questions]]
+id = "PMCWSL012"
+question = "När släpptes versionden stabila versionen av WSL-kärnan 5.4.51?"
+answer = "2020/10/22"
+difficulty = "Easy"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [312]
+
+[[questions]]
+id = "PMCWSL013"
+question = "Vilken kernelversion inkluderar en fix för dxgkrnl-drivrutins IOCTL-minneskorruption?"
+answer = "4.19.128"
+difficulty = "Medium"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [312]
+
+[[questions]]
+id = "PMCWSL014"
+question = "När lades stöd för GPU Compute till i WSL?"
+answer = "2020/09/15"
+difficulty = "Hard"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [312]
+
+[[questions]]
+id = "PMCWSL015"
+question = "Vilken drivrutin hooks up dxgkrnl i WSL-kärnan?"
+answer = "hv: vmbus"
+difficulty = "Medium"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [313]
+
+[[questions]]
+id = "PMCWSL024"
+question = "Hur får man de senaste funktionerna eller uppdateringarna av WSL?"
+answer = "Om du vill prova de senaste funktionerna eller uppdateringarna av WSL ansluter du till Windows Insiders Program"
+difficulty = "Easy"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [24]
+
+[[questions]]
+id = "PMCWSL025"
+question = "Vilken typ av miljö kan utvecklare köra med WSL?"
+answer = "GNU/Linux-miljö – inklusive de flesta kommandoradsverktyg, verktyg och program – direkt i Windows, oförändrade, utan att behöva använda en traditionell virtuell dator eller installation med dubbel start"
+difficulty = "Easy"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCWSL026"
+question = "Nämn en fördel med att använda WSL jämfört med en traditionell virtuell dator"
+answer = "utan att behöva använda en traditionell virtuell dator eller installation med dubbel start"
+difficulty = "Medium"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PMCWSL028"
+question = "Vilket datum nämns som artikeldatum för dokumentationen om Windows-undersystem för Linux?"
+answer = "2025-03-28"
+difficulty = "Easy"
+category = "Wsl"
+
+[[questions.files]]
+file = "windows-wsl.pdf"
+page_numbers = [239]

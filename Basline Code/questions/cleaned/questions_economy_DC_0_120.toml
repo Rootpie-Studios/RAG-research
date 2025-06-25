@@ -1,0 +1,1378 @@
+#--------------------------------------------#
+#-------2016-25-bilaga-7-e-handel.pdf--------#
+#--------------------------------------------#
+[[questions]]
+id = "DC001"
+question = "Vilka kostnader påför MFDs förslag om tillgänglighetsanpassning?"
+answer = "På grund av otydligheter i tillgänglighetsdirektivets krav kan inte MFD bedöma vilka kostnader tillgänglighetsdirektivet skulle innebära för de aktörer som berörs."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC002"
+question = "Hur många nivåer av tillgänglighet finns det enligt WCAG 2.0?"
+answer = "Det finns även tre nivåer av tillgänglighet – A, AA och AAA, där AAA är den högsta nivån."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC003"
+question = "Vad innebär det om en webbplats följer riktlinjerna i WCAG 2.0?"
+answer = "Om en webbplats följer riktlinjerna är innehållet tillgängligt för en bredare skara människor med olika typer av funktionsnedsättningar såsom synnedsättningar, hörselnedsättning, inlärningssvårigheter, kognitiva funktionsnedsättningar, begränsad rörlighet, talsvårigheter, ljuskänslighet och kombinationer av dessa."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC004"
+question = "Hur vanligt är det för svenska konsumenter att göra inköp från utlandet online?"
+answer = "Under 2015 e-handlade 26 procent av svenskarna från utlandet."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "DC005"
+question = "Finns det något befintligt regelverk kring tillgänglighet inom e-handel?"
+answer = "Det finns i dag ingen reglering avseende tillgänglighet i e-handel."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC006"
+question = "Vad säger Lag (2002:562) om elektronisk handel?"
+answer = "E-handelslagen reglerar konsumenters rätt att få viss information, att priset ska vara tydligt, att konsumenten ska få bekräftelse av köp med mera."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "DC007"
+question = "Vad innehåller Lag (2005:59)?"
+answer = "Lagen innehåller bestämmelser om konsumentskydd vid distansavtal och avtal utanför affärslokaler."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC008"
+question = "Vad är standarden SS-EN 301 549?"
+answer = "Standarden anger krav på IKT-produkters och tjänsters funktion och användargränssnitt."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC009"
+question = "Vad kommer e-handelsaktörer att behöva göra om tillgänglighetsdirektivets krav tillämpas?"
+answer = "Om tillgänglighetsdirektivets krav tillämpas kommer e-handelsaktörer att behöva säkra att deras webbplatser är tillgängliga."
+difficulty = "Easy"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [16]
+
+[[questions]]
+id = "DC010"
+question = "Vad innebär det att uppfylla WCAG 2.0 nivå AAA?"
+answer = "Om däremot WCAG 2.0 nivå AAA (den högsta) ska gälla innebär det att det ska vara möjligt att få förkortningar förtydligade, att ord och begrepp som används på ovanliga sätt ska definieras, att det finns en metod eller funktion som anger hur ord ska uttalas om betydelsen av ordet i sitt sammanhang är tvetydigt samt att det ska finnas kompletterande eller alternativt innehåll för texter som kräver högre läsförmåga än högstadienivå."
+difficulty = "Medium"
+category = "Health"
+
+[[questions.files]]
+file = "2016-25-bilaga-7-e-handel.pdf"
+page_numbers = [19]
+
+
+#--------------------------------------------#
+#-------------AgriFood_WP20112.pdf-----------#
+#--------------------------------------------#
+
+[[questions]]
+id = "DC011"
+question = "Vilken amerikansk kjedja skrivs ofta om i litteraturen on dagligvarumarknaden?"
+answer = "Det stora fokuset på Wal-Mart i litteraturen har till och med medfört att denna litteratur benämns som ”Wal-Mart litteraturen”."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC012"
+question = "Varför forskas det mycket om dagligvaruhandeln?"
+answer = "Ett skäl till det stora intresset från forskarvärlden är att dagligvaruhandeln alltmer framstår som en nyckelaktör i ekonomin både ur ett nationellt och internationellt perspektiv."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [6]
+
+
+[[questions]]
+id = "DC013"
+question = "Hur påverkas dagligvaruhandeln utav teknologiska framsteg?"
+answer = "Varje större teknologisk innovation i dagligvaruhandeln de senaste 100 åren har inneburit stora investeringar och på så sätt gynnat storskalighet (Ellickson, 2007). Detta har inneburit att kedjor och butiker har blivit allt större."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC014"
+question = "Vad är en konsekvens i branschen av de stora kedjornas expansion?"
+answer = "En konsekvens är att de stora kedjorna slår ut mindre aktörer."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC015"
+question = "Hur påverkar Skalfördelarna dagligvaruindustrin?"
+answer = "Skalfördelarna har ett stort genomslag för hur dagligvaruindustrin utvecklas och vilket sortiment och vilka priser konsumenten möter. Stordriftsfördelarna gagnar inte bara produktiviteten inom industrin utan kan också främja konsumenterna med ett utökat sortiment och lägre priser."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "DC016"
+question = "Varför expanderar de stora kedjorna långsamt geografiskt?"
+answer = "Den huvudsakliga förklaringen till trögheten i kedjors expansion geografiskt är att det finns stora kostnader med att etablera sig längre bort."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "DC017"
+question = "Vad bör man ha i åtanke om man vill analysera konkurrensen i dagligvaruhandeln?"
+answer = "För att förstå en lokal marknad måste man naturligtvis förstå var dess spatiala begränsningar finns. Ofta utgår man i litteraturen från redan identifierade enheter som kommunen eller postnummer."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "DC018"
+question = "Hur påverkar avståndet mellan butiker deras konkurrenskraft?"
+answer = "Små butiker förlorar intäkter om butiken befinner sig inom en radie om 1,5 till 9 kilometer från en stor butik, men förlusten är bara knappt en tredjedel jämfört med om butikerna hade varit belägna högst 1,5 kilometer från varandra."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [13,14]
+
+[[questions]]
+id = "DC019"
+question = "Vad innebär en högre koncentration av aktörer på den lokala dagligvarumarknaden?"
+answer = "Koncentrationen, det vill säga ett fåtal aktörer, på den lokala dagligvarumarknaden har i de flesta studier visat sig höja priset."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [19]
+
+[[questions]]
+id = "DC020"
+question = "Varför har utländska dagligvarukedjor svårt att etablera sig i Sverige?"
+answer = "Ett skäl kan vara att de svenska nationella regleringarna i ett europeiskt perspektiv försvårar etableringen och konkurrensen från utländska kedjor (Konkurrensverket, 2009)."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "AgriFood_WP20112.pdf"
+page_numbers = [21]
+
+
+#--------------------------------------------#
+#------------------CH-1096.pdf---------------#
+#--------------------------------------------#
+
+[[questions]]
+id = "DC021"
+question = "Hur ser en konsument på värde kontra utbud i en lågprisbutik?"
+answer = "Aktuella studier hävdar att lågprisbutiker ur konsumentens synvinkel uppfattas ge ”mycket värde för pengarna” i relation till välsorterade kvalitetsbutiker."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC022"
+question = "Hur har synen på konsumtion i förhållande till identitet förändrats över tid?"
+answer = "Identiteten grundar sig i vad man producerade och tillförde samhället genom sitt yrke. När sedan dessa faktorer fick mindre vikt ökade konsumtionen som en viktigare arena att skapa sin identitet på. Eftersom identiteten är kopplad till konsumtionen är den därmed mer flexibel än tidigare."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [17]
+
+[[questions]]
+id = "DC023"
+question = "Hur kan varumärkens betydelse ökas i framtiden?"
+answer = "Vi menar dessutom att ytterligare en aspekt är att då tid uppfattas som en bristvara blir varumärket en katalysator i valsituationen. Vi kan därför mot stöd av våra intervjuer och litteraturstudier vara benägna att stödja Kotlers och Pfoertsch uttalande om ”att i framtiden kommer varumärken förmodligen vara den enda riktigt hållbara konkurrensfördelen hos företag”."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [33]
+
+[[questions]]
+id = "DC024"
+question = "Vad har ryktet för betydelse för konsumenter?"
+answer = "Rykte är viktigt eftersom dess funktion är bland annat att minska osäkerhetskänslor och därmed underlätta eller rättfärdiga svåra beslut vilket respondenterna belyser med exempelvis fallet ICA men även i flera andra dimensioner."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [33,34]
+
+[[questions]]
+id = "DC025"
+question = "Hur värderar kunder ett varumärkes image?"
+answer = "Eftersom image är en marknads eller en persons totala bild och uppfattning av ett företag eller en produkt är det förvånade att det förefaller vara oviktigt för våra respondenter. Detta tror vi bottnar i okunskap om ordets innebörd, eftersom ovanstående resonemang om ICA starkt visar hur bilden av företaget har blivit påverkat."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [35]
+
+[[questions]]
+id = "DC026"
+question = "Vad kan vara avgörande för kundens uppfattning av ett daglivaruföretag?"
+answer = "Våra konsumentrespondenter anser specifikt att de färska varorna, ett konstant och stort sortiment och personalens kunniga bemötande är viktigt för bilden av ett dagligvaruföretag."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [36]
+
+[[questions]]
+id = "DC027"
+question = "Hur definerar konsumenter kvalitet?"
+answer = "Våra respondenter menar att kvalitet är det som överträffar den lägsta nivån av förväntningar, medan en studie har visar på att framgång nås inte genom att överträffa förväntningar, utan genom att hålla en jämn nivå, som för konsumenterna minskar upplevd risk, vilket är viktigt för respondenterna."
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [41]
+
+[[questions]]
+id = "DC028"
+question = "Hur upplevs ett erbjudande utan etiketti en butik?"
+answer = "Däremot är ett erbjudande utan en etikett (pris) tandlöst, då de övriga aspekternas värdesätts tillsammans med priset."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [43]
+
+[[questions]]
+id = "DC029"
+question = "Vad påverkar konsumenters val av butik, utöver värde?"
+answer = "Därefter är det varumärke, image, rykte och kvalitet som påverkar vid val av butik."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [46]
+
+[[questions]]
+id = "DC030"
+question = "Vad innebär det nya brandingparadigmet?"
+answer = "Denna förändring av vad som konsumenter tar i beaktande i samband med ett inköp har fött ett nytt brandingparadigm som innebär att emotionella motivationsfaktorer har större vikt vid inköp."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "CH-1096.pdf"
+page_numbers = [48]
+
+#--------------------------------------------#
+#-----------Examensarbete150510.pdf----------#
+#--------------------------------------------#
+
+[[questions]]
+id = "DC031"
+question = "Varför förekommer omfattningsvillkor ofta i försäkringar?"
+answer = "Omfattningsvillkor är allmänt förekommande i alla försäkringsvillkor av den enkla anledningen att försäkringsbolagen av ekonomiska skäl måste begränsa de situationer och skador som försäkringen skall täcka."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC032"
+question = "När trädde den nya Försäkringsavtalslagen i kraft?"
+answer = "Den 1 januari 2006 trädde den nya Försäkringsavtalslagen i kraft och övertog den gamla FALs roll, men även innan dessa två lagars tillkomst fanns det lagregler och föreskrifter inom försäkringsområdet som, utöver försäkringsvillkor, styrde utformningen av försäkringar och dess följder."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC033"
+question = "Hur påminner försäkringsrätt om de gamla landskapslagarna?"
+answer = "Redan i de gamla landskapslagarna fanns det en viss reglering som påminde om försäkringsrätt, framför allt gällde det systemet med brandstod där byborna var skyldiga att samla in pengar för att kunna hjälpa till om det uppstod oförvållad brand i någon invånares egendom."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC034"
+question = "Vad var den största andledningen till försäkringsväsendets genombrott?"
+answer = "Den stora anledningen till försäkringsväsendets genombrott under mitten av 1800-talet och början av 1900-talet var industrialismen och dess inverkan på samhället."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC035"
+question = "Vilket år infördes det en försäkringsbalk i Sverige i sjölagen?"
+answer = "I Sverige infördes det en försäkringsbalk i 1667 års sjölag och i 1891 års sjölag togs privaträttsliga sjöförsäkringsregler in."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC036"
+question = "Vad ledde till behovet av reformer av GFAL?"
+answer = "Samhället förändras med tiden och därmed även förutsättningarna för försäkringar."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "DC037"
+question = "När trädde Konsumentförsäkringslagen (KFL) i kraft?"
+answer = "1974 gavs den s.k. Försäkringsrättskommittén, med Jan Hellner i spetsen, i uppgift att reformera den svenska försäkringsrätten, ett arbete som fortskred under hela 1970-talet och som bland annat resulterade i Konsumentförsäkringslagen som trädde i kraft 1980."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "DC038"
+question = "Vad var målet med att ta fram en ny Försäkringsavtalslag?"
+answer = "Sammanfattningsvis har reformarbetet haft ett par huvudsakliga syften, nämligen att införa ett konsekvent konsumentskydd också inom personförsäkringarnas område, att anpassa lagreglerna till nya försäkringsformer, en allmän modernisering av lagstiftningen och att ge ett förstärkt skydd för försäkringstagaren som ett näst intill nödvändigt komplement till avregleringen av försäkringsverksamheten."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [13,14]
+
+[[questions]]
+id = "DC039"
+question = "Vad är kärnan i ett försäkringsavtal?"
+answer = "Försäkringsbolaget åtar sig att utge ersättning till försäkringstagaren om en viss händelse, det vill säga det avtalade försäkringsfallet, inträffar."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [16]
+
+[[questions]]
+id = "DC040"
+question = "Vilka myndigheter har tillsyn över försäkringsbolagens verksamhet?"
+answer = "I dag finns det inte någon myndighet eller instans som har till uppgift att granska villkoren, något som tidigare föll inom Finansinspektionens verksamhetsområde. 43 Försäkringsbolagens verksamhet faller dock i vissa hänseenden under Finansinspektionens, Konsumentverkets och Konkurrensverkets tillsynsområde."
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "Examensarbete150510.pdf"
+page_numbers = [18]
+
+
+
+#--------------------------------------------------------------#
+#-Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf-#
+#--------------------------------------------------------------#
+
+[[questions]]
+id = "DC041"
+question = "Vad är Bitcoin?"
+answer = "Bitcoin är en kryptovaluta vilken är en digital valuta vars infrastruktur är säkrad genom kryptografi (Investopedia 2022)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC042"
+question = "Vem skapade den första Bitcoinen?"
+answer = "Den första bitcoinen skapades i början på 2009. Skaparen är pseudonymen Satoshi Nakamoto, det är inte allmänt känt vem eller vilka det är."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC043"
+question = "Existerar bitcoin fysiskt?"
+answer = "Bitcoins existerar inte fysiskt, de lagras elektroniskt i en öppen huvudbok som alla användare har åtkomst till men varje post är krypterad (Investopedia 2022)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC044"
+question = "Är bitcoin en valuta?"
+answer = "Bitcoin har liknande egenskaper som en traditionell valuta, men flera empiriska studier klassificerar kryptovalutan som en investering snarare än en valuta på grund av dess höga volatilitet (Baur & Dimp, 2021)."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "DC045"
+question = "Vad saknas i Bitcoins konstruktion?"
+answer = "Det saknas en styrning av underliggande programvara och det genererar flera olika konsekvenser för kryptovalutans funktion."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "DC046"
+question = "Vad är ett problem med Bitcoin-transaktioner?"
+answer = "Det uppstår problem kopplat till konsumentskydd som följd av att bitcointransaktioner är oåterkalleliga (Böhme et al. 2015)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "DC047"
+question = "Vad kan orsaka hype runt en ny teknik?"
+answer = "När en ny innovation upptäcks och den är implementerbar samt önskvärd för förbättringar i samhället kan det uppstå en hype runt den enligt Hype Cykel-teorin (Chandler & Munday, 2016)."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [15]
+
+[[questions]]
+id = "DC048"
+question = "Var Bitcoin välkänt direkt inom finansbranschen?"
+answer = "Under de första åren efter det att den första bitcoinen mineades var det ett relativt okänt ämne inom finansbranschen."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [19]
+
+[[questions]]
+id = "DC049"
+question = "Hur har tillgängligheten för Bitcoin förändrats över tid?"
+answer = "Under de första åren efter att Bitcoin skapats behövde man mer eller mindre ha tillgång till dark web för att kunna göra transaktioner, men idag har det blivit mycket mer mainstream och tillgängligt."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [22]
+
+[[questions]]
+id = "DC050"
+question = "Vad är orsakerna till att storbanker tar avstånd från tjänster kopplade till kryptovalutor?"
+answer = "Resultatet från de intervjuer som genomförts visar på att bankernas avståndstagande primärt grundar sig i en avsaknad av reglerad marknad, och därmed finns inget konsumentskydd för de som investerar i kryptovalutor."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Kandidatuppsats Linnéa Joabson Lundborg & Simon Westlund.pdf"
+page_numbers = [38]
+
+
+#--------------------------------------------#
+#-----------konsumentperspektiv.pdf----------#
+#--------------------------------------------#
+
+[[questions]]
+id = "DC051"
+question = "Vilken typ av e-handelsmodell beskriver företag som säljer till privatpersoner?"
+answer = "Till att börja med så beskriver vi business-to-consumer (B2C) som är en e-handelsmodell där företag eller organisationer säljer produkter eller tjänster till privatpersoner och denna typ av handel kallas också för e-tailing (online retailing)(Turban et al., 2004)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [19]
+
+[[questions]]
+id = "DC052"
+question = "Vad kallas den e-handelsmodell som involverar ett företag, ett klientföretag och dess kunder?"
+answer = "En annan typ av handel där konsumenten är inblandad i är business-to-business-to-consumer (B2B2C)."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [19]
+
+[[questions]]
+id = "DC053"
+question = "Vad innebär C2C handel?"
+answer = "Consumer-to-consumer (C2C) är handel direkt mellan privatpersoner och kan innefatta försäljning av bilar, hus och så vidare via annonser online. Även också reklam för personliga tjänster över Internet (Turban et al., 2004)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [20]
+
+[[questions]]
+id = "DC054"
+question = "Vad är de största hindren för konsumenter att använda e-handel?"
+answer = "Användarna ser inte fördelarna med att handla över Internet och tycker att det är för kostsamt, dessa är de största hindren enligt Chaffey."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [21]
+
+[[questions]]
+id = "DC055"
+question = "Vad krävs för att e-handeln ska vara attraktivt?"
+answer = "Enligt Post & telestyrelsen (2001) så måste man som kund ha tillgång till en hög överföringskapacitet där nedladdningarna går fort för att det ska vara attraktivt att handla via Internet, detta gäller främst vid användandet av sidor som kräver större informationsinhämtningar som till exempel sidor med mycket bilder."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [21]
+
+[[questions]]
+id = "DC056"
+question = "Vad kan sägas om köpfrekvensen för konsumenter som inte har bredband?"
+answer = "Vidare så menar Post & telestyrelsen (2001) att för kunder som inte har en fast uppkoppling utan använder sig av uppkoppling per tidsenhet kan benägenheten att fönstershoppa för nöjets skull antas vara mindre. Vilket i sin tur leder till att en kund med uppkoppling per tidsenhet förmodas göra färre inköp än om kunden haft en fast uppkoppling enligt Post & Telestyrelsen."
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [21]
+
+[[questions]]
+id = "DC057"
+question = "Vem står för risken för bedrägeri vid e-handel?"
+answer = "Vidare så menar Post & Telestyrelsen att när det gäller säkerheten med betalning så är det ställningstagande och att idag står kontokortsföretagen för risken om ett kontokort skulle användas för bedrägeri på nätet, med en lösning som bygger på smarta kort och certifikat blir kunden den ansvarige."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [21]
+
+[[questions]]
+id = "DC058"
+question = "Vad får en kund att tveka på att lämna ut sitt kontonummer?"
+answer = "Okrypterade förbindelser är en orsak till varför konsumenter tvekar inför att lämna ut sitt kontonummer."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [22]
+
+[[questions]]
+id = "DC059"
+question = "Vilken oro har konsumenter kring e-handel?"
+answer = "Konsumenterna känner en allmän oro över säkerheten kring e-handel eftersom många anser att Internet är anonymt på många sätt och är en plats där det är lätt att bli lurad."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [44]
+
+[[questions]]
+id = "DC060"
+question = "Behöver konsumenter fysiskt se produkten innan köp?"
+answer = "En slutsats som vi har kommit fram till är att konsumenterna helst skulle vilja kunna klämma, känna och se på varan innan köpet och det är svårt vid e-handel och detta medför att konsumenten inte riktigt vet vad som beställs."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "konsumentperspektiv.pdf"
+page_numbers = [44]
+
+
+#----------------------------------------------------------------------------------------------------------------------------------------#
+#-----------kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf----------#
+#----------------------------------------------------------------------------------------------------------------------------------------#
+
+[[questions]]
+id = "DC061"
+question = "Hur många kryptotillgångar finns det i världen?"
+answer = "Det finns cirka 10 000 olika kryptotillgångar och det samlade marknadsvärdet på dem var omkring 12 700 miljarder kronor (knappt 1 300 miljarder dollar) i mitten av maj 2022."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "DC062"
+question = "Vilka är kryptotillgångarna med störst marknadsvärde?"
+answer = "De största kryptotillgångarna, baserat på marknadsvärde, är Bitcoin och Ethereum (även kallad Ether)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "DC063"
+question = "Vad är stablecoins?"
+answer = "Det finns dock kryptotillgångar som generellt sett har underliggande säkerheter och en central utgivare. Dessa kallas för stablecoins och är tänkta att behålla ett stabilt tillgångsvärde, ofta genom att följa priset på en vanlig valuta, som till exempel amerikanska dollar."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC064"
+question = "Varför har marknaden för kryptotillgångar ökat?"
+answer = "En viktig anledning till att värdet på marknaden för kryptotillgångar har ökat är att priset på kryptotillgångar utan underliggande säkerheter har ökat."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC065"
+question = "Hur kan man visa Bitcoins volatilitet?"
+answer = "En tydlig illustration av till exempel Bitcoins volatilitet är att priset per Bitcoin per den 17 maj 2022 var drygt 300 000 kronor medan det var så mycket som knappt 580 000 kronor så sent som i november 2021."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC066"
+question = "Varför förknippas kryptotillgångar med hög energikonsumtion?"
+answer = "Det beror på att den metod som de använder för att bekräfta transaktioner och utvinna nya kryptotillgångar (proof of work) kräver mycket datorkraft."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC067"
+question = "Är en bitcoin-transaktion snabbare än traditionella transaktioner?"
+answer = "Som en jämförelse tar en transaktion med till exempel Swish bara några sekunder, medan det i genomsnitt tar runt 10 minuter att genomföra en Bitcoin-transaktion."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC068"
+question = "Hur stor del av kryptotillgångar används för illegala aktiviteter?"
+answer = "Under 2021 uppskattas det totala värdet av kryptotillgångar som kan kopplas till kriminella aktiviteter till ungefär 14 miljarder dollar, eller 0,15 procent av den totala transaktionsvolymen för kryptotillgångar."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC069"
+question = "Vilken grupp riskerar mest vid prisfall för bitcoin?"
+answer = "Hittills tyder data på att det framför allt är privatpersoner som har exponerat sig mot kryptotillgångar, vilket innebär att eventuella prisfall främst skapar risker för den enskilde konsumenten."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC070"
+question = "Vad är ett exempel på regelarbitrage?"
+answer = "Eftersom kryptotillgångar ofta är oreglerade finns det en risk för att utgivare av kryptotillgångar och tjänsteleverantörer kringgår regleringen inom andra områden, genom att tillhandahålla liknande tjänster men med ny teknik. Det brukar kallas regelarbitrage."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "kryptotillgangar-och-deras-paverkan-pa-finansiell-stabilitet-fordjupning-i-finansiell-stabilitetsrapport-2022_1.pdf"
+page_numbers = [8]
+
+
+#----------------------------------------------#
+#-----------Lucas_RohrHansen_VT22.pdf----------#
+#----------------------------------------------#
+
+[[questions]]
+id = "DC071"
+question = "Kan kryptovalutor växlas till vanlig valuta?"
+answer = "De största kryptovalutorna är sk dubbelriktade valutasystem, innebärande att de kan växlas både in och tillbaka till en vanlig valuta såsom SEK."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC072"
+question = "Hur har konkurrensen inom kryptomarknaden utvecklats?"
+answer = "I takt med att priset på bitcoin har ökat har även konkurrensen på marknaden hårdnat, vilket gör att det krävs dyrare och mer avancerad utrustning."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "DC073"
+question = "Vad krävs för att kryptomining ska vara lönsamt?"
+answer = "Vidare kräver processen stora mängder energi och därmed tillgång till billig el för att det ska vara lönsamt."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "DC074"
+question = "Hur beskattas kryptomining i Sverige?"
+answer = "Därför kan mining, enligt Skatteverket, inte beskattas i inkomstslaget kapital, jfr 41 kap. 1-2 §§ IL. Följaktligen beskattas sådana verksamheter främst som hobby i inkomstslaget tjänst, se 10 kap. 1 § 2 st IL. Under förutsättning att den bedrivs yrkesmässigt och med vinstsyfte ska dock beskattning ske som näringsverksamhet enligt 13 kap."
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "DC075"
+question = "Vad är skillnaden mellan redovisningen i näringsverksamhet och tjänst?"
+answer = "I näringsverksamhet ska den ske på bokföringsmässiga grunder enligt 14 kap. 2 § IL, medan i tjänst sker redovisningen i enlighet med kontantprincipen i 10 kap. 8 och 13 §§ IL."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "DC076"
+question = "Vad är gränsdragningsproblematiken för en fysisk person som bedriver verksamhet?"
+answer = "Gränsdragningsproblematiken ligger i att utreda om det är en förvärvsverksamhet som bedrivs yrkesmässigt och självständigt enligt 13 kap. 1 § IL, eller om verksamheten förvisso bedrivs självständigt men brister vad gäller yrkesmässighet och/eller vinstsyfte, se 12 kap. 37 § IL."
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [12,13]
+
+[[questions]]
+id = "DC077"
+question = "Vad är kravet på yrkesmässighet för en näringsverksamhet?"
+answer = "Kravet på yrkesmässighet innebär att verksamheten inte ska bedrivas sporadiskt utan måste ha en särskild omfattning, regelbundenhet och varaktighet."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "DC078"
+question = "Vad är kravet på förvärvsverksamhet för en näringsverksamhet?"
+answer = "Rekvisitet förvärvsverksamhet innebär att det ska finnas ett vinstsyfte."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "DC079"
+question = "Vad är legalitetsprincipen inom skatterätten?"
+answer = "Legalitetsprincipen inom skatterätten har ingen klar definition, men anses inom doktrinen vara uttryckt i 1 kap. 1 § 3 st. regeringsformen, RF. Bestämmelsen anger att den offentliga makten ska utövas under lagarna."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [18]
+
+[[questions]]
+id = "DC080"
+question = "Vem ställer likhetsprincipen krav på?"
+answer = "Likhetsprincipen ställer krav både på lagstiftaren och på rättstillämparen."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "Lucas_RohrHansen_VT22.pdf"
+page_numbers = [19]
+
+
+#-----------------------------------------------------------------------------------#
+#-----------PM Förenklade regler för beskattningen av kryptotillgångar.pdf----------#
+#-----------------------------------------------------------------------------------#
+
+[[questions]]
+id = "DC081"
+question = "Varför vill man se över reglerna för beskattningen av kryptotillgångar?"
+answer = "Syftet med en sådan översyn är att undersöka hur dessa regler kan göras mindre komplicerade för att underlätta för den skattskyldige att redovisa sina transaktioner med kryptotillgångar på ett korrekt sätt och därmed minska den administrativa bördan för såväl den skattskyldige som Skatteverket."
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "DC082"
+question = "Vad är problemet med avyttringen av kryptotillgångar?"
+answer = "Vid avyttring av kryptotillgångar är det i dag i många fall komplicerat för den skattskyldige att genomföra en korrekt kapitalvinstberäkning och redovisning, eftersom tillämpliga regler inte är anpassade efter det stora antal transaktioner som ofta uppkommer vid exempelvis försäljning av kryptotillgångar."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "DC083"
+question = "Hur kan man minska på oavsiktliga fel vid beskattning?"
+answer = "Enkla och tydliga regler vid beskattningen underlättar för den skattskyldige att göra rätt och minskar oavsiktliga fel."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "DC084"
+question = "Vad kan vara kryptotillgångar?"
+answer = "Kryptotillgångar kan innefatta varierande rättigheter och ha olika användningsområden vilket innebär att transaktioner med kryptotillgångar kan få varierande skattemässiga effekter med beskattning i antingen inkomstslaget näringsverksamhet, kapital eller tjänst."
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC085"
+question = "Vad är regeln för avyttring av bitcoin och liknande kryptotillgångar?"
+answer = "Avyttring av bitcoin och liknande kryptotillgångar ska normalt kapitalvinstbeskattas enligt 52 kap. IL."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC086"
+question = "Vad är skillnaden mellan bitcoin och NFT?"
+answer = "NFT (non-fungible tokens), kan beroende på användningen behandlas som personliga tillgångar. För sådana tillgångar får omkostnadsbeloppet vid kapitalvinstberäkningen beräknas till 25 procent av erhållen ersättning. Bitcoin och liknande kryptotillgångar anses dock inte utgöra sådana personliga tillgångar och omfattas därför inte av den aktuella schablonregeln (se HFD 2018 ref. 72)."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC087"
+question = "Vad är tröskeln för att komma in på kryptomarknaden?"
+answer = "Tröskeln för att komma in på kryptomarknaden är låg och det går snabbt och enkelt att börja handla med kryptotillgångar, exempelvis genom automatiserade köp- och säljordrar, och därmed skapa ett stort antal redovisningspliktiga transaktioner."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC088"
+question = "Kan underlagen från krypto handelsplatser anvädas som grund för beskattning?"
+answer = "Underlagen är dock inte särskilt anpassade i förhållande till genomsnittsmetoden och den beräkning av ett genomsnittligt omkostnadsbelopp som måste ske efter varje transaktion för att uppnå en korrekt kapitalvinstbeskattning. De kan således inte läggas till grund för beskattning utan ett omräkningsförfarande."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC089"
+question = "Hur många deklarerar kryptotillgångar i Sverige?"
+answer = "Det aktuella året deklarerade drygt 8 000 personer kapitalvinst eller kapitalförlust avseende kryptotillgångar."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC090"
+question = "Hur stort var skattefelet för inkomståret 2021 gällande kryptotillgångar?"
+answer = "Enligt rapporten bedöms skattefelet vara 90 procent av den teoretiska beräknade skatten för överskott från försäljning av kryptovalutor, eller 1,5 miljarder kronor."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "PM Förenklade regler för beskattningen av kryptotillgångar.pdf"
+page_numbers = [5]
+
+
+#--------------------------------------------#
+#-----------skatteverket_krypto.pdf----------#
+#--------------------------------------------#
+
+[[questions]]
+id = "DC091"
+question = "Ingår e-pengar i begreppet fiatvaluta?"
+answer = "Av 4 kap. 4 § lag om inhämtande av vissa uppgifter på skatteområdet om kryptotillgångar (KOL) framgår att begreppet fiatvaluta även omfattar e-pengar hos kommersiella banker."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC092"
+question = "När anser Skatteverket att granskningsförfarandet ska vara genomfört?"
+answer = "Såsom texten i avsnitt III. B i bilaga VI till DAC och motsvarande skrivning i CARF har utformats anser Skatteverket att en rimlig tolkning är att granskningsförfarandet avseende personer med bestämmande inflytande ska vara genomfört i sin helhet innan någon rapporteringspliktig transaktion utförs av den rapporteringsskyldiga leverantören."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC093"
+question = "Vad innebär förslaget till ändring i 21 kap. 1 § SFL?"
+answer = "Förslaget till ändring i 21 kap. 1 § SFL innebär att kontrolluppgiftsskyldighet införs för avyttring av värdepapper som avser råvaror, kryptotillgångar eller index som omfattas av bestämmelserna i 52 kap. 3 § inkomstskattelagen."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC094"
+question = "Vad vill Skatteverket ändra rubriken till 21 kap. SFL till?"
+answer = "”Kontrolluppgift om avyttring av fordringsrätter, vissa delägarrätter och vissa värdepapper som beskattas enligt 52 kap. inkomstskattelagen”"
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC095"
+question = "Vad föreslår Skatteverket för ändringar i 21 kap. 1 § 4 SFL?"
+answer = "I 21 kap. 1 § 4 SFL föreslås en kontrolluppgiftsskyldighet avseende råvaror, kryptotillgångar eller index som omfattas av 52 kap. 3 § inkomstskattelagen."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC096"
+question = "Vilken information ska lämnas i en kontrolluppgift enligt 22 a kap. SFL?"
+answer = "En kontrolluppgift enligt 22 a kap. skatteförfarandelagen (2011:1244) ska även innehålla uppgift om amerikanskt skatteregistreringsnummer eller motsvarande för den som kontrolluppgiften lämnas för."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC097"
+question = "Vilken information ska lämnas i en kontrolluppgift enligt 22 b kap. SFL?"
+answer = "En kontrolluppgift enligt 22 b kap. skatteförfarandelagen ska även innehålla uppgifter om utländskt skatteregistreringsnummer eller motsvarande, födelsedatum och födelseort för den som kontrolluppgiften lämnas för."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC098"
+question = "Vad är fast driftställe enligt KOL?"
+answer = "Skatteverket instämmer i att begreppet fast driftställe ska användas i KOL med hänsyn till att begreppet fast driftställe används i 2 kap. 21 § lag (2015:911) om identifiering av rapporteringspliktiga konton vid automatiskt utbyte av upplysningar om finansiella konton (IDKAL)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC099"
+question = "Vad är inlämningstiden för kontrolluppgifter av kryptotillgångar?"
+answer = "I promemorian föreslås att kontrolluppgifter ska lämnas till Skatteverket senast den 1 april året närmast efter det kalenderår som uppgifterna avser."
+difficulty = "Hard"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC100"
+question = "Vad är syftet med att presentera kontrolluppgifter för skattebetalaren?"
+answer = "Syftet är att medvetandegöra den som ska redovisa avyttring av kryptotillgångar."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "skatteverket_krypto.pdf"
+page_numbers = [8]
+
+
+#-------------------------------------#
+#-----------tmptmprfscxr.pdf----------#
+#-------------------------------------#
+
+[[questions]]
+id = "DC101"
+question = "Vad är försäkring enligt K. Dickman?"
+answer = "”Försäkring är ett byte av en osäker tillgång mot en säkrare av samma art och av mindre objektivt, men större subjektivt värde”."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC102"
+question = "Vad är försäkring enligt moderna svenska författare?"
+answer = "Senare tiders författare har vänt på Dickmans definition och sagt att ”försäkring är ett byte av en stor osäker finansiell förlust mot en liten säker kostnad”."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "DC103"
+question = "Hur defineras försäkring i internationell litteratur?"
+answer = "”Försäkring är ett redskap för att reducera risk genom att förena ett tillräckligt antal riskenheter för att göra deras individuella skador kollektivt förutsägbara och därefter fördela de förutsägbara skadorna proportionellt på alla riskenheterna”."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "DC104"
+question = "Vad särskiljer försäkring från andra liknande företeelser?"
+answer = "Ur teknisk synvinkel brukar framhållas att något som särskiljer försäkring från andra, liknande företeelser, är att försäkringstagarens prestation - försäkringspremien - grundar sig på en beräkning av risken för skada som utförts med försäkringstekniska metoder."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC105"
+question = "Vad innebär ekvivalensprincipen i relation till försäkringspremien?"
+answer = "Innebörden av dessa metoder för premiesättningen är huvudsakligen att premien ska motsvara värdet av försäkringsgivarens åtagande, den s.k. ekvivalensprincipen."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "DC106"
+question = "Vad är försäkringsmatematik?"
+answer = "Försäkringsmatematik brukar vanligen beskrivas som läran om tillämpning av matematiska och statistiska metoder inom försäkring,18 dvs. den del av försäkringstekniken som främst syftar till att matematiskt beräkna risken för att ett försäkringsfall inträffar, göra premieberäkningar, beräkna storleken på reservsättningar och framställa underlag för utformning av återförsäkring."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC107"
+question = "Vad innebär stabilitetsprincipen i FRL?"
+answer = "Försäkringsrörelse skall drivas med en för rörelsens omfattning och art tillfredsställande soliditet, likviditet och god kontroll över försäkringsrisker, placeringsrisker och rörelserisker så att åtagandena mot försäkringstagarna och andra ersättningsberättigade på grund av försäkringar kan fullgöras."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "DC108"
+question = "Vad är skadeförsäkring?"
+answer = "Med skadeförsäkring avses försäkring mot ekonomisk förlust genom sakskada, ersättningsskyldighet eller ren förmögenhetsskada i övrigt som tecknas hos ett försäkringsbolag (1 kap. 1 § FAL)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC109"
+question = "Vad krävs för att en försäkringsersättning ska kunna betalas?"
+answer = "En grundläggande förutsättning för att försäkringsersättning ska kunna betalas är att betalningen avser ett lagligt intresse (6 kap. 1 § FAL)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "DC110"
+question = "Vad är personförsäkring?"
+answer = "Med personförsäkring menas livförsäkring, sjukförsäkring och olycksfallsförsäkring som tecknas hos ett försäkringsbolag (1 kap. 2 § 1 st. FAL)."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "tmptmprfscxr.pdf"
+page_numbers = [11]
+
+
+#-------------------------------------#
+#------UPPSALA_FULLTEXT_DC001.pdf-----#
+#-------------------------------------#
+
+[[questions]]
+id = "DC111"
+question = "Vad innebär innehållsmarknadsföring?"
+answer = "Innehållsmarknadsföring definieras som ett strategiskt sätt att marknadsföra värdefull, hjälpsam, relevant, attraktiv och målinriktad marknadsföring."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "DC112"
+question = "Hur stor andel av befolkningen i Sverige använder sociala medier?"
+answer = "Användningen av sociala medier växer varje år, enligt Svenskarna och Internet (2021) har 95 procent av internetanvändarna använt sociala medier och 89 procent av hela befolkningen 2021."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC113"
+question = "Kan enskilda företag påverka marknadens utveckling?"
+answer = "Dessutom formas marknaden beroende på hur enskilda företag agerar i förhållande till varandra eftersom fokus inte längre endast ligger på det enskilda tillfället när säljare och köpare möts. De enskilda företagen kan därmed påverka hur marknaden kommer utvecklas."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC114"
+question = "Hur mäter företag sin framgång i innehållsmarknadsföring?"
+answer = "Resultaten från denna studie visade att engagemang, medvetenhet och räckvidd var de värden som företagen prioriterade mest i sin utvärdering av hur väl de lyckats med sin digitala innehållsmarknadsföring."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "DC115"
+question = "Vad gör låneförmedlare?"
+answer = "Låneförmedlare arbetar med en rad olika banker för att förenkla låneprocessen för kunder och möjliggöra en jämförelse av olika erbjudanden från flera banker samtidigt."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [20]
+
+[[questions]]
+id = "DC116"
+question = "Vad är ett företagslån?"
+answer = "Företagslån upprättas när ett företag ingår ett avtal om att låna pengar från en långivare som erbjuder dessa pengar till vissa villkor."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC117"
+question = "Vad är Google Ads?"
+answer = "Google Ads är en marknadsföringslösning för annonsering online som företag kan använda sig av."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "DC118"
+question = "Vad innebär offensiva marknadsutformande intentioner?"
+answer = "Offensiva marknadsutformande intentioner, som denna uppsats berör, innefattar ett företags mål att ändra de grundläggande förutsättningarna på en redan existerande marknad."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "DC119"
+question = "Vad är målet med innehållsmarknadsföring?"
+answer = "Några av de viktigaste målen med innehållsmarknadsföring som identifierats är: varumärkeskännedom, kundkonvertering: kundservice, kundförsäljning och passionerade prenumeranter (Holliman & Rowley, 2014)."
+difficulty = "Medium"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "DC120"
+question = "Vad leder till autentiska relationer mellan kunder och företag?"
+answer = "Rätt utformad digital innehållsmarknadsföring blir ett tillvägagångssätt för att bygga autentiska relationer till sina kunder."
+difficulty = "Easy"
+category = "Economy"
+
+[[questions.files]]
+file = "UPPSALA_FULLTEXT_DC001.pdf"
+page_numbers = [10]

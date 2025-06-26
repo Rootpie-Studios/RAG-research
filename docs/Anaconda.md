@@ -68,13 +68,7 @@ This guide assumes you have Miniconda or Anaconda already installed on your Wind
 conda env export --from-history >  requirements.yaml
 ```
 
-## To export environment file
-``` bash
-conda env export > <environment-name>.yml
-```
-
-
 ## For other person to use the environment
 ``` bash
-conda env create -f <environment-name>.yml
+conda env create -p .venv -f requirements.yaml
 ```

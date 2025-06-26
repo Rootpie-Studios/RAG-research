@@ -63,10 +63,9 @@ This guide assumes you have Miniconda or Anaconda already installed on your Wind
     conda activate ./.venv
     ```
 
-# Create a requirements.txt file:
+# Create a requirements.yaml file:
 ``` bash
-conda list #Gives you list of packages used for the environment
-conda list -e > requirements.txt #Save all the info about packages to your folder
+conda env export --from-history >  requirements.yaml
 ```
 
 ## To export environment file

@@ -19,7 +19,7 @@ FILENAME = RESULTS_CSV_NAME
 OUTPUT = OUTPUT_DIRECTORY_RESULTS
 os.makedirs(OUTPUT, exist_ok=True)
 
-SAVE_PLOTS = False
+SAVE_PLOTS = True
 
 
 # -----------------------------------------------#
@@ -86,7 +86,7 @@ def plot_match_file_vs_page(df):
     plt.ylabel("Count")
     plt.tight_layout()
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_match_file_vs_page.png", dpi=300, bbox_inches='tight')
     plt.show()
     
 def plot_threshold_given_page_match(df):
@@ -102,7 +102,7 @@ def plot_threshold_given_page_match(df):
     # plt.xticks([0, 1], ["True", "False"])
     plt.tight_layout()
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_threshold_given_page_match.png", dpi=300, bbox_inches='tight')
     plt.show()
     
 def plot_best_result_by_text_match(df):
@@ -119,7 +119,7 @@ def plot_best_result_by_text_match(df):
     plt.ylabel("Number of Times Best")
     plt.tight_layout()
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_best_result_by_text_match.png", dpi=300, bbox_inches='tight')
     plt.show()
     
 def plot_matches_heatmap_split(df):
@@ -136,7 +136,7 @@ def plot_matches_heatmap_split(df):
     g.figure.subplots_adjust(top=0.85)
     g.figure.suptitle("Heatmap of Text Match Start vs End (%) by Threshold")
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_matches_heatmap_split.png", dpi=300, bbox_inches='tight')
     plt.show()
 
 def plot_accuracy_precision_recall(df):
@@ -189,7 +189,7 @@ def plot_accuracy_precision_recall(df):
     plt.title('Evaluation Metrics (Files)')
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_accuracy_precision_recall.png", dpi=300, bbox_inches='tight')
     plt.show()
 
 def plot_accuracy_precision_recall_pages(df):
@@ -244,7 +244,7 @@ def plot_accuracy_precision_recall_pages(df):
     plt.title('Evaluation Metrics  (Pages)')
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_accuracy_precision_recall_pages.png", dpi=300, bbox_inches='tight')
     plt.show()
     
 def plot_accuracy_precision_recall_chunks(df):
@@ -297,7 +297,7 @@ def plot_accuracy_precision_recall_chunks(df):
     plt.title('Evaluation Metrics (Chunks)')
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_accuracy_precision_recall_chunks.png", dpi=300, bbox_inches='tight')
     plt.show()
 
 def plot_match_file_vs_page_by_result(df):
@@ -323,7 +323,7 @@ def plot_match_file_vs_page_by_result(df):
     plt.legend(title="Result Number")
     plt.tight_layout()
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_match_file_vs_page_by_result.png", dpi=300, bbox_inches='tight')
     plt.show()
 
 def plot_stacked_matches_by_result3(df):
@@ -349,7 +349,7 @@ def plot_stacked_matches_by_result3(df):
     plt.legend(title="Match Combination", bbox_to_anchor=(1.05, 1), loc='upper left')
     plt.tight_layout()
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_stacked_matches_by_result3.png", dpi=300, bbox_inches='tight')
     plt.show()
     
 def plot_match_file_vs_page_by_result2(df):
@@ -375,7 +375,7 @@ def plot_match_file_vs_page_by_result2(df):
 
     plt.tight_layout()
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_match_file_vs_page_by_result2.png", dpi=300, bbox_inches='tight')
     plt.show()
     
 def plot_matches_heatmap_split_with_match_type(df):
@@ -440,7 +440,7 @@ def plot_matches_heatmap_split_with_match_type(df):
         borderpad=1
     )
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_matches_heatmap_split_with_match_type.png", dpi=300, bbox_inches='tight')
     plt.show()
     
 def plot_text_match_info(df):
@@ -472,7 +472,7 @@ def plot_text_match_info(df):
     plt.xticks(rotation=15)
     plt.tight_layout()
     if SAVE_PLOTS:
-        plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
+        plt.savefig(OUTPUT +"plot_text_match_info.png", dpi=300, bbox_inches='tight')
     plt.show()
     
 df = pd.read_csv(FILENAME, sep=",", encoding="utf-8")

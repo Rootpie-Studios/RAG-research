@@ -70,5 +70,7 @@ conda env export --from-history >  requirements.yaml
 
 ## For other person to use the environment
 ``` bash
-conda env create -p .venv -n RAG -f requirements.yaml
+conda env create .\.venv -f requirements.yaml
+# or
+conda env create -f requirements.yaml
 ```

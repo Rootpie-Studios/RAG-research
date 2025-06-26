@@ -12,7 +12,7 @@ This guide assumes you have Miniconda or Anaconda already installed on your Wind
 
 3.  **Create the Conda Environment:**</br>
     ```bash
-    conda env create .venv -f environment.yml    
+    conda env create -p .venv -f environment.yml
     ```
 
 4.  **Activate the Environment:**</br>

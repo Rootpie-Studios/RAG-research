@@ -23,7 +23,7 @@ This guide assumes you have Miniconda or Anaconda already installed on your Wind
 
 5.  **Run VSCODE:**
     ```bash
-    vscode .
+    code .
     ```
     
 ## **Select Your Conda Environment as the Python Interpreter in VSCODE:**

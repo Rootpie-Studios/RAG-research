@@ -19,4 +19,6 @@ dependencies:
   - tomli
   - tomlkit
   - tqdm
+  - pip:
+    - pymupdf
 prefix: ./.venv

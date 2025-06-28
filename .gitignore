@@ -4,8 +4,8 @@
 docs_*/
 doc_*/
 /compare_splits_sorted
-/questions
-/pdf_data
+questions/embedded/
+pdf_data/
 /results
 /findPDF.py
 /txt_data

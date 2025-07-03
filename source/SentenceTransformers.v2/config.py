@@ -1,10 +1,8 @@
 import os
-#import tiktoken
 from dotenv import load_dotenv
 from openai import OpenAI
 import chromadb
 from chromadb.utils import embedding_functions
-import re
 
 load_dotenv()
 

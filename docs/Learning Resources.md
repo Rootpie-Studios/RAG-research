@@ -6,4 +6,4 @@
 # Extra stuff
 maybe unrelated to RAG but still interesting
 * [Transformers (how LLMs work) explained visually](https://www.youtube.com/watch?v=wjZofJX0v4M)
-
+* [Introducing Contextual Retrieval] (https://www.anthropic.com/news/contextual-retrieval)

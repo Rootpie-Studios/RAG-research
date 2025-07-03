@@ -1,6 +1,7 @@
 import os
 import subprocess
 import re
+import sys 
 
 # ANSI escape codes for colors
 COLOR_RESET = "\033[0m"
@@ -83,15 +84,19 @@ def run_script(script_name):
     print(f"\n{COLOR_YELLOW}Running: {COLOR_RESET}{script_name}...{COLOR_RESET}")
     try:
         # Use sys.executable to ensure the script runs with the current Python interpreter
-        subprocess.run(["python", script_name], check=True)
+        subprocess.run([sys.executable, script_name], check=True)
         print(f"{COLOR_GREEN}{script_name} finished successfully.{COLOR_RESET}")
     except subprocess.CalledProcessError as e:
         print(f"{COLOR_RED}Error running {script_name}: {e}{COLOR_RESET}")
     except FileNotFoundError:
+        # This specific FileNotFoundError typically means sys.executable itself wasn't found,
+        # which is highly unlikely if your script is already running.
+        # More likely, if you *were* using "python", it would mean "python" wasn't in PATH.
         print(
-            f"{COLOR_RED}Error: python command not found. Make sure Python is in your PATH.{COLOR_RESET}"
+            f"{COLOR_RED}Error: Could not find the Python interpreter at {sys.executable}. This indicates a serious issue with your Python installation.{COLOR_RESET}"
         )
-
+    except Exception as e:
+        print(f"{COLOR_RED}An unexpected error occurred: {e}{COLOR_RESET}")
 
 def main():
     current_config = read_config_variables()

@@ -1,7 +1,7 @@
 import os
 import subprocess
 import re
-import sys 
+import sys
 
 # ANSI escape codes for colors
 COLOR_RESET = "\033[0m"
@@ -11,9 +11,14 @@ COLOR_YELLOW = "\033[93m"
 COLOR_RED = "\033[91m"
 COLOR_CYAN = "\033[96m"
 
+# Get the directory of the current script (main.py)
+current_script_dir = os.path.dirname(__file__)
+
 
 def read_config_variables():
-    config_path = "config.py"
+    # Construct the full path to config.py
+    config_path = os.path.join(current_script_dir, "config.py")
+
     config_vars = {}
     try:
         with open(config_path, "r") as f:
@@ -37,7 +42,9 @@ def read_config_variables():
 
 
 def update_config_file(variable_name, old_value, new_value):
-    config_path = "config.py"
+    # Construct the full path to config.py
+    config_path = os.path.join(current_script_dir, "config.py")
+
     try:
         with open(config_path, "r") as f:
             content = f.read()
@@ -62,15 +69,6 @@ def update_config_file(variable_name, old_value, new_value):
         print(f"{COLOR_RED}Error updating config.py: {e}{COLOR_RESET}")
 
 
-def get_python_files():
-    files = [
-        f
-        for f in os.listdir(".")
-        if f.endswith(".py") and f != "main2.py" and f != "config.py"
-    ]
-    return sorted(files)
-
-
 def display_menu(files):
     print(f"\n{COLOR_CYAN}--- Python Script ---{COLOR_RESET}")
     for key, value in files.items():
@@ -81,13 +79,19 @@ def display_menu(files):
 
 
 def run_script(script_name):
+    script_path = os.path.join(current_script_dir, script_name)
+
     print(f"\n{COLOR_YELLOW}Running: {COLOR_RESET}{script_name}...{COLOR_RESET}")
     try:
         # Use sys.executable to ensure the script runs with the current Python interpreter
-        subprocess.run([sys.executable, script_name], check=True)
+        subprocess.run(
+            [sys.executable, script_name],  # Command relative to 'cwd'
+            cwd=current_script_dir,  # This sets the working directory for the command
+            check=True,  # Raise CalledProcessError for non-zero exit codes
+        )
         print(f"{COLOR_GREEN}{script_name} finished successfully.{COLOR_RESET}")
     except subprocess.CalledProcessError as e:
-        print(f"{COLOR_RED}Error running {script_name}: {e}{COLOR_RESET}")
+        print(f"{COLOR_RED}Error running {script_path}: {e}{COLOR_RESET}")
     except FileNotFoundError:
         # This specific FileNotFoundError typically means sys.executable itself wasn't found,
         # which is highly unlikely if your script is already running.
@@ -97,7 +101,6 @@ def run_script(script_name):
         )
     except Exception as e:
         print(f"{COLOR_RED}An unexpected error occurred: {e}{COLOR_RESET}")
-
 
 
 def main():

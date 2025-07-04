@@ -24,8 +24,14 @@ Put your Questions toml files in "questions/cleaned" and your PDFs in "pdf_data"
 
 ## Automated BATCH_RUN
 
-I have created a batch_run.py script that goes through different MAX_TOKENS and OVERLAP and saves the results.
+You can run an automated batch script that goes through different MAX_TOKENS and OVERLAP and saves the results.
 
-```pwsh
+```bash
 python batch_run.py --base_name PMC --tokens='384/0,384/100,512/120'
+```
+
+how to use the script:
+
+```bash
+python batch_run.py --help
 ```

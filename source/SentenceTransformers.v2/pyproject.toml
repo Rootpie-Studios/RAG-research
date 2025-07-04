@@ -7,6 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
     "chromadb>=1.0.12",
     "ipykernel>=6.29.5",
+    "ipython==8.23.0",
     "joblib>=1.5.1",
     "levenshtein>=0.27.1",
     "matplotlib>=3.10.3",

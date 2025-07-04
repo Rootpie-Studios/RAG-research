@@ -21,3 +21,11 @@ uv pip install sentence-transformers
 
 Put your Questions toml files in "questions/cleaned" and your PDFs in "pdf_data". Run it once and then comment out the
 "add_embeddings_to_toml(TOML_DIRECTORY)" row.
+
+## Automated BATCH_RUN
+
+I have created a batch_run.py script that goes through different MAX_TOKENS and OVERLAP and saves the results.
+
+```pwsh
+python batch_run.py --base_name PMC --tokens='384/0,384/100,512/120'
+```

@@ -21,8 +21,6 @@ from config import (
 )
 
 collection = get_collection()  # set up db
-client = get_client()  # OpenAI client for embeddings
-
 
 # -----------------------------------------------#
 # --------------------Parse----------------------#
@@ -143,51 +141,6 @@ def chunk_pdf_by_tokens(pdf_path, max_tokens=MAX_TOKENS, chunk_overlap=OVERLAP):
 # -----------------------------------------------#
 # -----Embedd PDFs and Insert to ChromaDB--------#
 # -----------------------------------------------#
-def get_max_workers(factor=1.5, fallback=4):
-    try:
-        return max(1, int(multiprocessing.cpu_count() * factor))
-    except NotImplementedError:
-        return fallback
-
-
-# Get embeddings of chunks from client, store with metadata in db
-def embed_and_insert(chunk):
-    chunk_id = chunk["metadata"]["id"]
-    try:
-        embedding = (
-            client.embeddings.create(input=chunk["text"], model=EMBEDDING_MODEL_NAME)
-            .data[0]
-            .embedding
-        )
-
-        collection.upsert(
-            ids=[chunk_id],
-            documents=[chunk["text"]],
-            embeddings=[embedding],
-            metadatas=[chunk["metadata"]],
-        )
-    except Exception as e:
-        print(f"[Error] Failed for {chunk_id}: {e}")
-
-
-# Get all chunks and call the embed_and_insert(chunk) function for all of them. With multiprocessing
-def process_pdfs_and_insert_workers(directory, max_workers=None):
-    if max_workers is None:
-        max_workers = get_max_workers()
-
-    for filename in os.listdir(directory):
-        if filename.endswith(".pdf"):
-            pdf_path = os.path.join(directory, filename)
-            print(f"\n📄 Processing file: {filename}")
-            chunks = chunk_pdf_by_tokens(pdf_path)
-
-            with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                futures = [executor.submit(embed_and_insert, chunk) for chunk in chunks]
-                for future in as_completed(futures):
-                    future.result()
-
-            print(f"✅ Finished processing: {filename}")
-
 
 def process_pdfs_and_insert(directory):
     for filename in os.listdir(directory):

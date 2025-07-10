@@ -14,9 +14,9 @@ RESULTS_DIRECTORY = "results"
 
 
 # ----OpenAI and ChromaDB Configs----#
-MAX_TOKENS = 1024
-OVERLAP = 384
-BASE_NAME_VERSION = "EMB_AllMini_L12"
+MAX_TOKENS = 256
+OVERLAP = 50
+BASE_NAME_VERSION = "sentence-bert-swedish-cased-cosine"
 
 if OVERLAP > 0:
     VERSION_NAME = f"{BASE_NAME_VERSION}_{MAX_TOKENS}_Chunk_{OVERLAP}_Overlap"
@@ -26,13 +26,12 @@ else:
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 COLLECTION_NAME = f"docs_{VERSION_NAME}_collection"
 PERSIST_DIRECTORY = f"docs_{VERSION_NAME}_storage"
-EMBEDDING_MODEL_NAME = "all-MiniLM-L12-v2"  # Changed embedding model name
+EMBEDDING_MODEL_NAME = "KBLab/sentence-bert-swedish-cased"  # Changed embedding model name
 # TOKEN_ENCODER = tiktoken.encoding_for_model(EMBEDDING_MODEL_NAME)
 
 
 def get_client():
     return OpenAI(api_key=OPENAI_KEY)
-
 
 def get_collection():
     sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(
@@ -40,24 +39,28 @@ def get_collection():
     )
     chroma_client = chromadb.PersistentClient(path=PERSIST_DIRECTORY)
 
-    return chroma_client.get_or_create_collection(
-        name=COLLECTION_NAME, embedding_function=sentence_transformer_ef
-    )
-    # If you do not want the standard distance function L2. This uses cosine instead.
-    # return chroma_client.get_or_create_collection(
-    #     name=COLLECTION_NAME,
-    #     configuration={
-    #         "hnsw": {
-    #             "space": "cosine", # Cohere models often use cosine space
-    #             "ef_search": 200,
-    #             "ef_construction": 200,
-    #             "max_neighbors": 32,
-    #             "num_threads": 8
-    #         },
-    #         "embedding_function": openai_ef
-    #     }
-    # )
+    #return chroma_client.get_or_create_collection(
+    #    name=COLLECTION_NAME,
+    #    embedding_function=sentence_transformer_ef,
+    #    hnsw_config_overrides={
+    #        "space": "cosine",
+    #        "ef_construction": 200,
+    #        "ef_search": 200,
+    #        "max_neighbors": 32,
+    #        "num_threads": 8
+    #    }
+    #)
 
+    return chroma_client.get_or_create_collection(
+        name=COLLECTION_NAME,
+        embedding_function=sentence_transformer_ef,
+        configuration={
+            "hnsw": {
+                "space": "cosine",
+                "ef_construction": 200
+            }
+        }
+    )
 
 # ----------Results Configs----------#
 MATCH_THRESHOLD = 30

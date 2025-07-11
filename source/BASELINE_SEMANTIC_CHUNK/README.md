@@ -78,7 +78,7 @@ Before you begin, ensure you have the following installed:
 
     ```bash
 
-    git clone https://github.com/Rootpie-Studios/RAG-research.git>
+    git clone https://github.com/Rootpie-Studios/RAG-research.git
 
     cd RAG-research\source\BASELINE_SEMANTIC_CHUNK\
     ```

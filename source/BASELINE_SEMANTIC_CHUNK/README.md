@@ -139,39 +139,22 @@ Organize your project directory as follows:
 
 
 ```
-
 .
-
 ├── .env
-
 ├── pdf_data/
-
 │   ├── document1.pdf
-
 │   └── document2.pdf
-
 ├── questions/
-
 │   ├── cleaned/
-
 │   │   ├── questions1.toml
-
 │   │   └── questions2.toml
-
 │   └── embedded/  (Generated after running the script)
-
 ├── results/       (Generated after running the script)
-
 │   └── BASELINE_SEMANTIC_CHUNK/
-
 │       ├── BASELINE_SEMANTIC_CHUNK_no_tol.csv
-
 │       ├── BASELINE_SEMANTIC_CHUNK_no_tol.xlsx
-
 │       └── plots/
-
 └── main_langchain_semantic.py
-
 └── requirements.txt
 
 ```

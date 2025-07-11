@@ -152,7 +152,7 @@ Organize your project directory as follows:
 │   └── BASELINE_SEMANTIC_CHUNK/
 │       ├── BASELINE_SEMANTIC_CHUNK_no_tol.csv
 │       ├── BASELINE_SEMANTIC_CHUNK_no_tol.xlsx
-│       └── plots/
+│       └── plot_*.png
 └── main_langchain_semantic.py
 └── requirements.txt
 

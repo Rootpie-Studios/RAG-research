@@ -1,0 +1,15 @@
+fitz
+PyMuPDF
+pandas
+tomli
+tomlkit
+openai
+chromadb
+Levenshtein
+tqdm
+joblib
+matplotlib
+seaborn
+langchain-experimental
+langchain-openai
+python-dotenv

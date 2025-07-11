@@ -300,7 +300,7 @@ The generated CSV and Excel files will contain detailed information for each que
 
 
 
-\nThe plots provide visual summaries of the system's performance, including:
+</br>The plots provide visual summaries of the system's performance, including:
 
 
 

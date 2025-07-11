@@ -719,7 +719,7 @@ def main():
     collection = get_collection()
     RESULTS_CSV_NAME, RESULTS_EXCEL_NAME = get_results_filenames()
     
-    # --- Step q: Parse, Chunk, Embed PDFs and Insert into DB ---
+    # --- Step 1: Parse, Chunk, Embed PDFs and Insert into DB ---
     print("\nStep 1: Processing PDFs and inserting into database...")
     process_pdfs_and_insert(PDF_DIRECTORY, client, collection)
     print("✅ Finished processing PDFs.")

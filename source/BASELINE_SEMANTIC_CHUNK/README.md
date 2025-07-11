@@ -18,27 +18,27 @@ This project implements a system for question-answering over PDF documents using
 
 
 
-&nbsp; * **PDF Parsing and Semantic Chunking**: Automatically extracts text from PDFs and intelligently breaks it down into meaningful chunks using LangChain's `SemanticChunker` for improved search relevance.
+  * **PDF Parsing and Semantic Chunking**: Automatically extracts text from PDFs and intelligently breaks it down into meaningful chunks using LangChain's `SemanticChunker` for improved search relevance.
 
-&nbsp; * **OpenAI Embeddings**: Converts both PDF chunks and questions into high-dimensional vectors using OpenAI's embedding models.
+  * **OpenAI Embeddings**: Converts both PDF chunks and questions into high-dimensional vectors using OpenAI's embedding models.
 
-&nbsp; * **ChromaDB Vector Store**: Persistently stores and manages document embeddings, enabling efficient semantic similarity searches.
+  * **ChromaDB Vector Store**: Persistently stores and manages document embeddings, enabling efficient semantic similarity searches.
 
-&nbsp; * **TOML-based Question Management**: Reads and embeds questions defined in TOML files, allowing for structured evaluation datasets.
+  * **TOML-based Question Management**: Reads and embeds questions defined in TOML files, allowing for structured evaluation datasets.
 
-&nbsp; * **Flexible Querying**: Supports querying the document store with embedded questions and retrieves relevant document chunks.
+  * **Flexible Querying**: Supports querying the document store with embedded questions and retrieves relevant document chunks.
 
-&nbsp; * **Result Analysis and Evaluation**:
+  * **Result Analysis and Evaluation**:
 
-&nbsp;     * Compares retrieved chunks against expected answers, evaluating filename and page number matches.
+      * Compares retrieved chunks against expected answers, evaluating filename and page number matches.
 
-&nbsp;     * Calculates text similarity using Levenshtein distance and ratio, with an optional tolerance for inexact matches.
+      * Calculates text similarity using Levenshtein distance and ratio, with an optional tolerance for inexact matches.
 
-&nbsp;     * Generates comprehensive CSV and Excel reports of query results.
+      * Generates comprehensive CSV and Excel reports of query results.
 
-&nbsp; * **Extensive Visualization**: Produces a variety of plots (e.g., match vs. page, accuracy, precision, recall, heatmaps) to visualize system performance and insights.
+  * **Extensive Visualization**: Produces a variety of plots (e.g., match vs. page, accuracy, precision, recall, heatmaps) to visualize system performance and insights.
 
-&nbsp; * **Parallel Processing**: Utilizes multi-threading and multi-processing for faster embedding and querying of data.
+  * **Parallel Processing**: Utilizes multi-threading and multi-processing for faster embedding and querying of data.
 
 
 
@@ -62,9 +62,9 @@ Before you begin, ensure you have the following installed:
 
 
 
-&nbsp; * Python 3.8+
+  * Python 3.8+
 
-&nbsp; * `pip` (Python package installer)
+  * `pip` (Python package installer)
 
 
 
@@ -76,13 +76,13 @@ Before you begin, ensure you have the following installed:
 
 
 
-&nbsp;   ```bash
+    ```bash
 
-&nbsp;   git clone https://github.com/Rootpie-Studios/RAG-research.git>
+    git clone https://github.com/Rootpie-Studios/RAG-research.git>
 
-&nbsp;   cd RAG-research
+    cd RAG-research
 
-&nbsp;   ```
+    ```
 
 
 
@@ -90,13 +90,13 @@ Before you begin, ensure you have the following installed:
 
 
 
-&nbsp;   ```bash
+    ```bash
 
-&nbsp;   python -m venv venv
+    python -m venv venv
 
-&nbsp;   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-&nbsp;   ```
+    ```
 
 
 
@@ -104,29 +104,29 @@ Before you begin, ensure you have the following installed:
 
 
 
-&nbsp;   ```bash
+    ```bash
 
-&nbsp;   pip install -r requirements.txt
+    pip install -r requirements.txt
 
-&nbsp;   ```
+    ```
 
 
 
-&nbsp;   (Note: You will need to create a `requirements.txt` file based on the `import` statements in the provided code. A suggested `requirements.txt` is provided below.)
+    (Note: You will need to create a `requirements.txt` file based on the `import` statements in the provided code. A suggested `requirements.txt` is provided below.)
 
 
 
 4.  **Set up OpenAI API Key:**
 
-&nbsp;   Create a `.env` file in the project's root directory and add your OpenAI API key:
+    Create a `.env` file in the project's root directory and add your OpenAI API key:
 
 
 
-&nbsp;   ```
+    ```
 
-&nbsp;   OPENAI_API_KEY="your_openai_api_key_here"
+    OPENAI_API_KEY="your_openai_api_key_here"
 
-&nbsp;   ```
+    ```
 
 
 
@@ -178,13 +178,13 @@ Organize your project directory as follows:
 
 
 
-&nbsp; * **`pdf_data/`**: Place your PDF documents here.
+  * **`pdf_data/`**: Place your PDF documents here.
 
-&nbsp; * **`questions/cleaned/`**: Store your TOML files containing "cleaned" questions.
+  * **`questions/cleaned/`**: Store your TOML files containing "cleaned" questions.
 
-&nbsp; * **`questions/embedded/`**: This directory will be created automatically, and embedded questions will be saved here.
+  * **`questions/embedded/`**: This directory will be created automatically, and embedded questions will be saved here.
 
-&nbsp; * **`results/`**: This directory will store the CSV/Excel results and generated plots.
+  * **`results/`**: This directory will store the CSV/Excel results and generated plots.
 
 
 
@@ -234,33 +234,33 @@ Key configurations can be adjusted within the `main_langchain_semantic.py` file 
 
 
 
-&nbsp; * **`PDF_DIRECTORY`**: Path to the directory containing your PDF files.
+  * **`PDF_DIRECTORY`**: Path to the directory containing your PDF files.
 
-&nbsp; * **`TOML_DIRECTORY_CLEANED`**: Path to the directory where your cleaned TOML question files are stored.
+  * **`TOML_DIRECTORY_CLEANED`**: Path to the directory where your cleaned TOML question files are stored.
 
-&nbsp; * **`TOML_DIRECTORY_EMBEDDED`**: Path where the embedded TOML question files will be saved.
+  * **`TOML_DIRECTORY_EMBEDDED`**: Path where the embedded TOML question files will be saved.
 
-&nbsp; * **`RESULTS_DIRECTORY`**: Base directory for storing all results (CSV, Excel, plots).
+  * **`RESULTS_DIRECTORY`**: Base directory for storing all results (CSV, Excel, plots).
 
-&nbsp; * **`BASE_NAME_VERSION`**: A base name for versioning your results and ChromaDB collection (e.g., `BASELINE_SEMANTIC_CHUNK`). This affects directory and file names.
+  * **`BASE_NAME_VERSION`**: A base name for versioning your results and ChromaDB collection (e.g., `BASELINE_SEMANTIC_CHUNK`). This affects directory and file names.
 
-&nbsp; * **`OPENAI_KEY`**: Your OpenAI API key (loaded from `.env`).
+  * **`OPENAI_KEY`**: Your OpenAI API key (loaded from `.env`).
 
-&nbsp; * **`COLLECTION_NAME`**: The name of the ChromaDB collection (derived from `VERSION_NAME`).
+  * **`COLLECTION_NAME`**: The name of the ChromaDB collection (derived from `VERSION_NAME`).
 
-&nbsp; * **`PERSIST_DIRECTORY`**: The directory where ChromaDB will store its data persistently (derived from `VERSION_NAME`).
+  * **`PERSIST_DIRECTORY`**: The directory where ChromaDB will store its data persistently (derived from `VERSION_NAME`).
 
-&nbsp; * **`EMBEDDING_MODEL_NAME`**: The OpenAI embedding model to use (default: `text-embedding-3-small`).
+  * **`EMBEDDING_MODEL_NAME`**: The OpenAI embedding model to use (default: `text-embedding-3-small`).
 
-&nbsp; * **`MATCH_THRESHOLD`**: A combined percentage threshold for text matches from the start and end of the answer to consider a "match."
+  * **`MATCH_THRESHOLD`**: A combined percentage threshold for text matches from the start and end of the answer to consider a "match."
 
-&nbsp; * **`MIN_ANS_LENGTH`**: Minimum length of an answer substring to be considered for matching.
+  * **`MIN_ANS_LENGTH`**: Minimum length of an answer substring to be considered for matching.
 
-&nbsp; * **`RESULTS_PER_QUERY`**: The number of top-k results to retrieve from ChromaDB for each question.
+  * **`RESULTS_PER_QUERY`**: The number of top-k results to retrieve from ChromaDB for each question.
 
-&nbsp; * **`TOLERANCE`**: Levenshtein distance tolerance for fuzzy text matching. Set to `0` for exact matches.
+  * **`TOLERANCE`**: Levenshtein distance tolerance for fuzzy text matching. Set to `0` for exact matches.
 
-&nbsp; * **`MULTIPROCESSING`**: Set to `True` to enable parallel processing for querying when `TOLERANCE > 0`.
+  * **`MULTIPROCESSING`**: Set to `True` to enable parallel processing for querying when `TOLERANCE > 0`.
 
 
 
@@ -276,45 +276,45 @@ The generated CSV and Excel files will contain detailed information for each que
 
 
 
-&nbsp; * **`Result_Id`**: Unique identifier for each retrieved result.
+  * **`Result_Id`**: Unique identifier for each retrieved result.
 
-&nbsp; * **`Correct_File`**: The expected PDF filename containing the answer.
+  * **`Correct_File`**: The expected PDF filename containing the answer.
 
-&nbsp; * **`Guessed_File`**: The filename of the PDF chunk retrieved by the system.
+  * **`Guessed_File`**: The filename of the PDF chunk retrieved by the system.
 
-&nbsp; * **`Filename_Match`**: Boolean indicating if `Correct_File` matches `Guessed_File`.
+  * **`Filename_Match`**: Boolean indicating if `Correct_File` matches `Guessed_File`.
 
-&nbsp; * **`Correct_Pages`**: The expected page numbers containing the answer.
+  * **`Correct_Pages`**: The expected page numbers containing the answer.
 
-&nbsp; * **`Guessed_Page`**: The page number(s) of the retrieved chunk.
+  * **`Guessed_Page`**: The page number(s) of the retrieved chunk.
 
-&nbsp; * **`Page_Match`**: Boolean indicating if any `Correct_Pages` matches `Guessed_Page` (and `Filename_Match` is true).
+  * **`Page_Match`**: Boolean indicating if any `Correct_Pages` matches `Guessed_Page` (and `Filename_Match` is true).
 
-&nbsp; * **`Distance`**: Semantic distance from the query embedding to the chunk embedding.
+  * **`Distance`**: Semantic distance from the query embedding to the chunk embedding.
 
-&nbsp; * **`Text_Match_Start_Percent`**: Percentage of the expected answer matched from the start of the retrieved chunk.
+  * **`Text_Match_Start_Percent`**: Percentage of the expected answer matched from the start of the retrieved chunk.
 
-&nbsp; * **`Match_Length_Start`**: Length of the matched substring from the start.
+  * **`Match_Length_Start`**: Length of the matched substring from the start.
 
-&nbsp; * **`Text_Match_End_Percent`**: Percentage of the expected answer matched from the end of the retrieved chunk.
+  * **`Text_Match_End_Percent`**: Percentage of the expected answer matched from the end of the retrieved chunk.
 
-&nbsp; * **`Match_Length_End`**: Length of the matched substring from the end.
+  * **`Match_Length_End`**: Length of the matched substring from the end.
 
-&nbsp; * **`No_match`**: Boolean indicating if no text match was found.
+  * **`No_match`**: Boolean indicating if no text match was found.
 
-&nbsp; * **`Match_Threshold`**: Boolean indicating if the combined `Text_Match_Start_Percent` and `Text_Match_End_Percent` exceeds `MATCH_THRESHOLD`.
+  * **`Match_Threshold`**: Boolean indicating if the combined `Text_Match_Start_Percent` and `Text_Match_End_Percent` exceeds `MATCH_THRESHOLD`.
 
-&nbsp; * **`Difficulty`**: Difficulty level of the question (from TOML).
+  * **`Difficulty`**: Difficulty level of the question (from TOML).
 
-&nbsp; * **`Category`**: Category of the question (from TOML).
+  * **`Category`**: Category of the question (from TOML).
 
-&nbsp; * **`Expected_answer`**: The answer as provided in the TOML file.
+  * **`Expected_answer`**: The answer as provided in the TOML file.
 
-&nbsp; * **`Question`**: The original question.
+  * **`Question`**: The original question.
 
-&nbsp; * **`Returned_Chunk`**: The actual text content of the retrieved chunk.
+  * **`Returned_Chunk`**: The actual text content of the retrieved chunk.
 
-&nbsp; * **`Chunk_Id`**: The unique ID of the retrieved chunk.
+  * **`Chunk_Id`**: The unique ID of the retrieved chunk.
 
 
 
@@ -322,13 +322,13 @@ The plots provide visual summaries of the system's performance, including:
 
 
 
-&nbsp; * Accuracy, precision, and recall based on file, page, and chunk matches.
+  * Accuracy, precision, and recall based on file, page, and chunk matches.
 
-&nbsp; * Distribution of text match percentages.
+  * Distribution of text match percentages.
 
-&nbsp; * Heatmaps illustrating various match types.
+  * Heatmaps illustrating various match types.
 
-&nbsp; * Accuracy broken down by question category.
+  * Accuracy broken down by question category.
 
 
 

@@ -38,7 +38,7 @@ RESULTS_DIRECTORY = "results"
 
 
 # ----OpenAI and ChromaDB Configs----#
-BASE_NAME_VERSION = "BASELINE_SEMANTIC_CHUNK"
+BASE_NAME_VERSION = "BASELINE_SEMANTIC_CHUNK_fixNorm.v1"
 VERSION_NAME = BASE_NAME_VERSION
 
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
@@ -237,19 +237,23 @@ def remove_dash_space(text):
     # (?=[a-zA-Z])  : Positive lookahead to assert that there's an alphabet character after '- '
     return re.sub(r"(?<=[a-zA-Z])- (?=[a-zA-Z])", "", text)
 
+
 def normalize_text(input_text):
-    #print("before:",input_text)
-    normalized = input_text.strip()
+    # Convert to lowercase and strip leading/trailing whitespace and unicode normalization with casefold()
+    normalized = input_text.strip().lower().casefold()
+    # Replace soft hyphens (U+00AD) with normal hyphen
+    normalized = normalized.replace("\xad", "-")
     # Replace any sequence of whitespace (including newlines) with a single space
     normalized = re.sub(r"\s+", " ", normalized)
     # Don't keep space if end of sentence
     normalized = re.sub(r" +\.\s", ". ", normalized)
     # Remove '- ' if surrounded by alphabet characters
     normalized = remove_dash_space(normalized)
-    normalized = re.sub(r" ,", ",",normalized)
-    #print("\n\nafter:",normalized)
-    #input("paused")
+    normalized = re.sub(r" ,", ",", normalized)
+    # print("\n\nafter:",normalized)
+    # input("paused")
     return normalized
+
 
 def get_embedded_questions(toml_dir):
     all_embedded_questions = {}
@@ -737,7 +741,6 @@ def main():
     
     # --- Step 1: Parse, Chunk, Embed PDFs and Insert into DB ---
     print("\nStep 1: Processing PDFs and inserting into database using Langchain...")
-    #process_pdfs_and_insert_langchain(PDF_DIRECTORY, vector_db)
     process_pdfs_and_insert(PDF_DIRECTORY, client, collection, embeddings)
     print("✅ Finished processing PDFs and populating vector store.")
 

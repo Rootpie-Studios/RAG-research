@@ -115,11 +115,6 @@ Before you begin, ensure you have the following installed:
     ```
 
 
-
-    (Note: You will need to create a `requirements.txt` file based on the `import` statements in the provided code. A suggested `requirements.txt` is provided below.)
-
-
-
 4.  **Set up OpenAI API Key:**
 
     Create a `.env` file in the project's root directory and add your OpenAI API key:

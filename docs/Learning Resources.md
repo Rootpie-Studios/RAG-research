@@ -6,6 +6,8 @@
 * [Two NEW RAG Strategies - One is Contextual (EXSPENSIVE!)](https://youtu.be/61dvzowuIlA?si=XDqIWCYzHWwFEQat)
 * [Cohere ReRanker](https://youtu.be/wU847FkGe5A?si=yE0W41XyJQjTwgfh)
 * [Use Multimodal/Vision Agents in RAG](https://youtu.be/5aCi42dVOTA?si=UVmzoQgoE3ILBiML)
+* [NanoNets OCR-s - Local OCR similar to Mistral OCR](https://youtu.be/j7oxmKCwCPM?si=OvDUpAC5737mQ5W0)
+* [Mistral-OCR - Mainly information about annotations and special cases](https://www.youtube.com/live/yrx5D5WosrU?si=Da-SFRqKykMNDE2w)
 # Studies / Papers
 * [Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [Evaluating Chunking Strategies for Retrieval](https://research.trychroma.com/evaluating-chunking)

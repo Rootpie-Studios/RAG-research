@@ -1,0 +1,165 @@
+[[questions]]
+id = "PMCSKOLVERKET001"
+question = "Vilka typer av stödinsatser samlar Skolverket in uppgifter om gällande särskilt stöd?"
+answer = "Skolverket samlar in uppgifter om de stödformer som regleras i skollagen. Det betyder att det inte samlas in uppgifter om de extra anpassningar som eleven kan få inom ramen för den ordinarie undervisningen, innan särskilt stöd sätts in. I statistiken finns uppgifter om fem typer av stödinsatser som kan användas som särskilt stöd: • enskild undervisning • särskild undervisningsgrupp • anpassad studiegång • distansundervisning • annan undervisning"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PMCSKOLVERKET002"
+question = "Hur många elever i grundskolan omfattas av ett åtgärdsprogram läsåret 2024/25?"
+answer = "Läsåret 2024/25 omfattas 6,7 procent av eleverna i grundskolan av ett åtgärdsprogram, vilket motsvarar knappt 73 200 elever"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [4, 10]
+
+[[questions]]
+id = "PMCSKOLVERKET003"
+question = "Vad innebär anpassad studiegång?"
+answer = "Anpassad studiegång innebär att skolan gör avvikelser från den ordinarie timplanen för en enskild elev och sådant beslut får fattas om det särskilda stödet för eleven inte i rimlig grad kan anpassas efter elevens behov och förutsättningar"
+difficulty = "medium"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PMCSKOLVERKET004"
+question = "Hur många elever får studiehandledning på modersmålet läsåret 2024/25?"
+answer = "Totalt 2,4 procent av eleverna i grundskolan har läsåret 2024/25 studiehandledning på sitt modersmål, vilket motsvarar knappt 26 900 elever"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [17]
+
+[[questions]]
+id = "PMCSKOLVERKET005"
+question = "Vilken andel av pojkarna respektive flickorna har ett åtgärdsprogram läsåret 2024/25?"
+answer = "Åtgärdsprogram är vanligare bland pojkar än bland flickor, 8,1 procent av pojkarna har ett åtgärdsprogram jämfört med 5,1 procent av flickorna"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PMCSKOLVERKET006"
+question = "Hur stor andel av eleverna i grundskolan får särskilt stöd genom enskild undervisning läsåret 2024/25?"
+answer = "Läsåret 2024/25 får 0,8 procent av eleverna i grundskolan särskilt stöd genom enskild undervisning, vilket motsvarar drygt 8 700 elever"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PMCSKOLVERKET007"
+question = "Hur stor andel av eleverna i grundskolan får stöd i form av särskild undervisningsgrupp läsåret 2024/25?"
+answer = "Totalt 1,4 procent av eleverna i grundskolan får läsåret 2024/25 stöd i form av särskild undervisningsgrupp, vilket motsvarar drygt 15 800 elever"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [4, 14]
+
+[[questions]]
+id = "PMCSKOLVERKET008"
+question = "Vilken årskurs har högst andel elever med åtgärdsprogram läsåret 2024/25?"
+answer = "Årskurs 9 har högst andel elever med åtgärdsprogram, där knappt 11 procent av eleverna (drygt 13 400 elever) har ett åtgärdsprogram"
+difficulty = "medium"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PMCSKOLVERKET009"
+question = "Hur definieras områdestyp 1 i statistiken?"
+answer = "Områdestyp 1 – områden med stora socioekonomiska utmaningar"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCSKOLVERKET010"
+question = "Vad är skillnaden i andel elever med åtgärdsprogram mellan kommunala och fristående skolor läsåret 2024/25?"
+answer = "I diagrammet framgår att det är något vanligare att elever som går i kommunala skolor har åtgärdsprogram jämfört med fristående skolor, 6,7 jämfört med 6,3 procent"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [18]
+
+[[questions]]
+id = "PMCSKOLVERKET011"
+question = "När började Skolverket publicera statistik om särskilt stöd i grundskolan?"
+answer = "Sedan hösten 2012 publicerar Skolverket statistik om särskilt stöd i grundskolan"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PMCSKOLVERKET012"
+question = "Vilken andel av eleverna i årskurs 9 har anpassad studiegång läsåret 2024/25?"
+answer = "årskurs 9 har 5,1 procent av eleverna anpassad studiegång, vilket är en högre andel än de övriga stödformerna"
+difficulty = "medium"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [16]
+
+[[questions]]
+id = "PMCSKOLVERKET013"
+question = "Hur många elever går i grundskolan läsåret 2024/25?"
+answer = "Läsåret 2024/25 går knappt 1 100 000 elever i grundskolan"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PMCSKOLVERKET014"
+question = "Vad är syftet med studiehandledning på modersmålet?"
+answer = "Det ligger i skolans uppdrag att organisera undervisningen för elever med ett annat modersmål än svenska så att eleverna ges förutsättningar att utveckla kunskaper i skolans alla ämnen samtidigt som de lär sig det svenska språket. Ett sätt att tillgodose det behovet kan vara att ge eleven studiehandledning på modersmålet"
+difficulty = "medium"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PMCSKOLVERKET015"
+question = "Var kan man hitta kvalitetsdeklarationer för den officiella statistiken från Skolverket?"
+answer = "Där finns dessutom kvalitetsdeklarationer för den officiella statistiken"
+difficulty = "easy"
+category = "education"
+
+[[questions.files]]
+file = "pdf1323q9.pdf"
+page_numbers = [4]
+

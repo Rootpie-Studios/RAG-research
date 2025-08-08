@@ -1,0 +1,35 @@
+[project]
+name = "Mistral_OCR_Test"
+version = "0.1.0"
+description = "Mistral_OCR_Test"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chromadb>=1.0.12",
+    "google-cloud-aiplatform>=1.103.0",
+    "google-generativeai>=0.8.5",
+    "ipykernel>=6.29.5",
+    "ipython==8.23.0",
+    "joblib>=1.5.1",
+    "langchain>=0.3.26",
+    "langchain-cohere>=0.4.4",
+    "langchain-community>=0.3.27",
+    "langchain-experimental>=0.3.4",
+    "langchain-openai>=0.3.27",
+    "levenshtein>=0.27.1",
+    "matplotlib>=3.10.3",
+    "mistralai>=1.9.3",
+    "nltk>=3.9.1",
+    "openai>=1.83.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.0",
+    "pymupdf>=1.26.3",
+    "rich>=14.0.0",
+    "seaborn>=0.13.2",
+    "streamlit>=1.47.1",
+    "tiktoken>=0.9.0",
+    "tomli>=2.2.1",
+    "tomlkit>=0.13.2",
+    "tqdm>=4.66.5",
+    "windows-curses>=2.4.1",
+]

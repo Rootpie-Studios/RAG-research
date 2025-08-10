@@ -1,0 +1,16 @@
+chromadb
+fire
+fitz
+joblib
+matplotlib
+openai
+pandas
+python-dotenv
+python-levenshtein
+scikit-learn
+seaborn
+sentence-transformers
+tomli
+tomlkit
+tqdm
+PyMuPDF

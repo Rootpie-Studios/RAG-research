@@ -1,0 +1,200 @@
+[[questions]]
+id = "RN121"
+question = "Vad är syftet med attitydundersökningen Attityder till skolan 2024?"
+answer = "att redovisa en aktuell bild av hur elever och lärare upplever skolan idag samt att komplettera Skolverkets nationella uppföljningar och utvärderingar av skolan genom att fånga elevernas röster"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "RN122"
+question = "Varför kan inte resultaten i Attityder till skolan 2024 jämföras med tidigare omgångar?"
+answer = "På grund av dessa förändringar är det inte möjligt att bygga vidare på tidigare tidsserier. I Attityder till skolan 2024 redovisar vi därför inte några detaljerade jämförelser med tidigare omgångar av undersökningen"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "RN123"
+question = "Hur regleras skolans ansvar att kompensera för elevers olika förutsättningar?"
+answer = "Enligt skollagen ska kommuner fördela resurser till utbildning inom skolväsendet efter barnens och elevernas olika förutsättningar och behov"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "RN124"
+question = "Vad är extra anpassningar i undervisningen?"
+answer = "Extra anpassningar är mindre ingripande stödinsatser inom den ordinarie undervisningen och kräver inte något beslut från rektor"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "RN125"
+question = "Vad är särskilt stöd?"
+answer = "Särskilt stöd handlar om insatser av mer ingripande karaktär som normalt inte är möjliga att genomföra för lärare och övrig skolpersonal inom ramen för den ordinarie undervisningen"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "RN126"
+question = "Vad innebär garantin för tidiga stödinsatser?"
+answer = "I förskoleklassen och i lågstadiet förstärker garantin för tidiga stödinsatser elevers rätt att tidigt få det stöd de behöver utformat utifrån sina behov i svenska, svenska som andraspråk eller matematik"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "RN127"
+question = "Vad är elevhälsans uppgift enligt skollagen?"
+answer = "Elevhälsan ska omfatta medicinska, psykologiska, psykosociala och specialpedagogiska insatser. Enligt skollagen ska det finnas tillgång till specialpedagog eller speciallärare"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "RN128"
+question = "Hur ofta upplever elever i olika skolformer att de får hjälp när skolarbetet känns svårt?"
+answer = "Totalt sett är det cirka två tredjedelar av eleverna som upplever att de alltid eller oftast får den hjälpen i skolan. Det är alltså ungefär en tredjedel av eleverna som inte upplever att de oftast får hjälp när de behöver, utan bara ibland, sällan eller aldrig. Omkring en av tio elever upplever att de sällan eller aldrig får hjälp när skolarbetet känns för svårt"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "RN129"
+question = "Hur ofta använder elever AI-chatbot för hjälp med läxor och prov?"
+answer = "Merparten av eleverna i högstadiet och gymnasiet uppger att de aldrig eller bara någon enstaka gång har använt en AI-chatbot i detta syfte, men en av tio högstadieelever och två av tio gymnasieelever uppger att de gör det några gånger i veckan eller varje dag"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [19]
+
+[[questions]]
+id = "RN130"
+question = "Vem hjälper elever i mellanstadiet oftast med läxor?"
+answer = "För elever i grundskolan är det vanligast att eleverna får hjälp av föräldrar eller vårdnadshavare, vilket ungefär åtta av tio elever svarar att de får"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [18]
+
+
+[[questions]]
+id = "RN131"
+question = "Hur upplever många lärare sina möjligheter att ge ledning och stimulans till elever?"
+answer = "Nästan två tredjedelar av lärarna upplever att de aldrig, sällan eller bara ibland har rätt förutsättningar att ge den ledning och stimulans som alla elever behöver"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [22]
+
+[[questions]]
+id = "RN132"
+question = "Vilka lärare uppger i större utsträckning att de har rätt förutsättningar att ge ledning och stimulans?"
+answer = "Lärare i gymnasieskolan upplever i större utsträckning än lärare i grundskolan att de alltid eller oftast har rätt förutsättningar att ge ledning och stimulans – knappt hälften jämfört med drygt en tredjedel. I grundskolan är högstadielärare mer positiva än lågstadielärarna om dessa förutsättningar"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [22]
+
+[[questions]]
+id = "RN133"
+question = "Vilka åldersgrupper är mest nöjda med den hjälp de får i skolan?"
+answer = "Elever i mellanstadiet i större utsträckning än äldre elever verkar vara nöjda med den hjälp de får"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [19]
+
+[[questions]]
+id = "RN134"
+question = "Vilka skillnader finns mellan elever med svensk och utländsk bakgrund när det gäller att få hjälp med läxor?"
+answer = "I gymnasieskolan svarar elever med svensk bakgrund i större utsträckning att det finns någon som kan hjälpa dem jämfört med elever med utländsk bakgrund – åtta av tio jämfört med sju av tio"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [18]
+
+[[questions]]
+id = "RN135"
+question = "På vilka sätt förändras hjälpen från föräldrar när elever går från grundskola till gymnasium?"
+answer = "När elever börjar gymnasieskolan minskar alltså hjälpen från föräldrar. Allt eftersom elever blir äldre får hjälpen från skolans personal större betydelse"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [18]
+
+[[questions]]
+id = "RN136"
+question = "Vilka typer av stödinsatser finns enligt skollagen?"
+answer = "Elever som riskerar att inte uppfylla de betygskriterier eller kriterier för bedömning av kunskaper som minst ska uppfyllas har rätt att få stöd i form av extra anpassningar och vid behov särskilt stöd"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "RN137"
+question = "Hur upplever lärare tillgången till behöriga kollegor?"
+answer = "De allra flesta lärare, nio av tio, anser att tillgången på behöriga lärare är ganska eller mycket bra på den skola där de arbetar. Det är få av lärarna som har svarat att det är dålig tillgång på behöriga lärare på skolan – totalt cirka 3 procent"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [32]
+
+[[questions]]
+id = "RN138"
+question = "Vad uppger lärarna om tillgången på specialpedagogisk personal?"
+answer = "Det är totalt nästan fyra av tio lärare som upplever att det är dålig tillgång på speciallärare på sina skolor och en lika stor andel som upplever att det är bra tillgång. När det gäller specialpedagoger är det totalt tre av tio som uppger att det är dålig tillgång och nära hälften av lärarna svarar att det är god tillgång"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [33]
+
+[[questions]]
+id = "RN139"
+question = "Hur ser lärare på tillgången till vikarier i skolan?"
+answer = "Totalt fyra av tio lärare beskriver tillgången på vikarier som ganska eller mycket dålig och ungefär lika många beskriver den som bra"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [32]
+
+[[questions]]
+id = "RN140"
+question = "Hur många grundskolelärare uppger att tillgången på skolbibliotekarier är dålig på deras skola?"
+answer = "På frågan om tillgången på skolbibliotekarier upplever drygt fyra av tio grundskolelärare att den är god på deras skola, och en lika stor andel upplever att tillgången är dålig"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "pdf13240.pdf"
+page_numbers = [35]

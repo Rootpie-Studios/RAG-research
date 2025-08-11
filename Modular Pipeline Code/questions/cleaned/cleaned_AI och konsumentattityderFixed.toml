@@ -1,0 +1,199 @@
+[[questions]]
+id = "RN041"
+question = "Vilken roll spelar AI i dagens marknadsföring?"
+answer = "När det gäller användandet av AI i relation till marknadsföring har AI idag en betydande roll. AI kan assistera i avseende på konsumentinsikt, datahantering och optimering"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [10]
+
+# [[questions]]
+# id = "RN042"
+# question = "Vilket särskilt fokus har uppsatsen kring AI och konsumentattityder?"
+# answer = "Uppsatsen syftar till att redogöra för konsumenternas attityder gentemot reklamkampanjer som har utformats med AI som hjälpmedel i de kreativa processerna, liksom om attityderna förändras baserat på om avsändaren är transparent med användandet av AI i utformningen av kampanjen"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "AI och konsumentattityder.pdf"
+# page_numbers = [11]
+
+# [[questions]]
+# id = "RN043"
+# question = "Vilken geografisk avgränsning har gjorts i studien och varför?"
+# answer = "Därtill görs en geografisk avgränsning, där studien begränsas till Stockholm. Urvalet är närhetsbegränsat till Stockholm då teorivalet inte kräver ett urval baserat på specifika demografiska egenskaper. Därtill begränsar arbetets begränsade tidsram möjligheten att besöka andra geografiska platser för att samla in data"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "AI och konsumentattityder.pdf"
+# page_numbers = [12]
+
+[[questions]]
+id = "RN044"
+question = "Vilka typer av arbetsuppgifter har AI hittills använts till?"
+answer = "I dagsläget har AI i regel skött mer mekaniska och datoriserade jobb, såsom insamling och optimering av data (Antonova & Todorova, 2023)"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "RN045"
+question = "Hur kan AI påverka kommunikationen mellan företag och konsumenter?"
+answer = "Dessa förändringar förutspås leda till framställning av mer personlig kommunikation, där AI som ett automatiseringsverktyg skapar förutsättningar för att förändra och effektivisera kommunikationen gentemot konsumenten. En mer tillämpad kommunikation förväntas på så sätt ligga till grund för förbättrade attityder hos konsumenterna gentemot det marknadsförda varumärket"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "RN046"
+question = "Vad är syftet med att använda AI i content generation?"
+answer = "Genom att använda artificiell intelligens kan CG effektiviseras för att i sin tur ge en högre grad av personalisering, vilket påverkar konsumenters upplevelse positivt"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "RN047"
+question = "Vad krävs för att AI ska kunna generera anpassat innehåll?"
+answer = "För att AI ska klara av att generera anpassat innehåll krävs att intelligensen har tillgång till högkvalitativ data som passar det avsändande varumärket att generera kunskap från"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "RN048"
+question = "Vad kan AI-användning i kreativa marknadsföringsprocesser leda till hos konsumenter?"
+answer = "Det framstår därför som att användandet av AI inom kreativa processer inom marknadsföring kan ligga till grund för oroligheter och osäkerheter hos konsumenterna, där AI upplevs som något obekant och ibland hotfullt"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "RN049"
+question = "Vad innebär black box-fenomenet i relation till AI?"
+answer = "Detta kallas black box-fenomenet, vilket är en del av AI:s beslutsprocess i vilken det saknas insyn"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "RN050"
+question = "Vad är en risk med att AI genererar innehåll utifrån begränsad data?"
+answer = "Användandet av AI riskerar att medföra bias, alltså att AI genererar innehåll baserat på en begränsad mängd insamlad data och därför genererar resultat inom en begränsad referensram"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "RN051"
+question = "Vad syftar begreppet teknologiacceptans på?"
+answer = "Teknologiacceptans, alltså hur människor anammar och börjar använda ny teknologi, är av yttersta vikt för förståelsen kring vad som påverkar människor till att acceptera eller avvisa AI"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "RN052"
+question = "Vilka två modeller används för att förklara teknologiacceptans?"
+answer = "Två framträdande modeller inom området för teknologiacceptans är Technology Acceptance Model (TAM) och Unified Theory of Acceptance and Use of Technology (UTAUT)"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [14]
+
+[[questions]]
+id = "RN053"
+question = "Vilket forskningsparadigm valdes för att förstå deltagarnas perspektiv?"
+answer = "Vi väljer ett kvalitativt forskningsparadigm för att förstå deltagarnas subjektiva perspektiv"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "RN054"
+question = "Vad innebär nominalism?"
+answer = "Vårt ontologiska tillvägagångssätt av nominalism, som alltså innebär att verkligheten skapas av oss och inte existerar oberoende av individens egen uppfattning"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [23]
+
+# [[questions]]
+# id = "RN055"
+# question = "Varför är noggrann datainsamling och analys viktiga i denna studie?"
+# answer = "I denna studie, som syftar till att utforska konsumentattityder kopplade till användningen av AI i kreativa processer inom marknadsföring, är noggrann datainsamling och analys avgörande för att säkerställa trovärdighet i slutsatserna"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "AI och konsumentattityder.pdf"
+# page_numbers = [23]
+
+[[questions]]
+id = "RN056"
+question = "Vad innebär användningen av konstant jämförande metod?"
+answer = "Användningen av en konstant jämförande metod säkerställer att forskningen följer en systematisk process där data kontinuerligt jämförs och leder till framväxande teori"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [23]
+
+[[questions]]
+id = "RN057"
+question = "Vad är syftet med att uppnå metodologisk rigor?"
+answer = "Att uppnå metodologisk rigor och finna den rätta balansen syftar till att generera teorier som är välgrundade i data, relevanta för det studerade området samt övertygande både för forskare och lekmän"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [23]
+
+# [[questions]]
+# id = "RN058"
+# question = "Vilken metod används i studien för att samla in data?"
+# answer = "Datainsamlingen i denna uppsats bygger på grundad teori (GT), och mer specifikt klassisk grundad teori (CGT)"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "AI och konsumentattityder.pdf"
+# page_numbers = [20]
+
+[[questions]]
+id = "RN059"
+question = "Vad innebär att GT bygger på en iterativ process?"
+answer = "GT bygger på en iterativ process, alltså att datainsamling, kodning och analys sker i växelverkan"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [20]
+
+[[questions]]
+id = "RN060"
+question = "Vad är skillnaden mellan induktiv och deduktiv metod enligt GT?"
+answer = "GT utgörs till största del av en induktiv metod (Glaser, 2010). Detta innebär, till skillnad från traditionell forskning, att litteraturgenomgång genomförs först efter att den induktiva datainsamlingen är genomförd, som nämnt ovan. Därefter tar analysen vid, vilken bygger på en deduktiv metod. Den deduktiva metoden, som alltså härleds från den induktiva datainsamlingen, möjliggör i detta skede ett mer tillämpat teoretiskt urval (ibid)"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "AI och konsumentattityder.pdf"
+page_numbers = [20]

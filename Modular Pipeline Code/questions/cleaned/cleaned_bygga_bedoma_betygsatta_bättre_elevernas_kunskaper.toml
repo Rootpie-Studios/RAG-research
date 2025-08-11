@@ -1,0 +1,199 @@
+# [[questions]]
+# id = "RN061"
+# question = "Vad är syftet med utredningen?"
+# answer = "Syftet med uppdraget är således att främja elevers kunskapsutveckling och att betygen bättre ska spegla elevers kunskaper"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+# page_numbers = [184]
+
+# [[questions]]
+# id = "RN062"
+# question = "Vad är en av de största utmaningarna för utredningen?"
+# answer = "En övergripande utmaning har varit att möta alla de synpunkter och förväntningar som finns på betyg generellt och försöka visa på vilka betygsfrågor som utredningen är satt att hantera"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+# page_numbers = [185]
+
+[[questions]]
+id = "RN063"
+question = "Hur påverkas lågpresterande elever av betyg?"
+answer = "Lågpresterande och yngre elever påverkas dock mer negativt av betyg. Negativ feedback som är summativ och som visar på elevers bristande kunskaper och svaga resultat verkar inte hjälpa elever att ”skärpa sig” utan de presterar snarare sämre. Kontinuerlig positiv feedback om hur de kan förbättra sitt arbete gör att elever presterar bättre"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [315]
+
+[[questions]]
+id = "RN064"
+question = "Vad krävs för att en elev ska känna motivation?"
+answer = "För att vara motiverad att lära sig behöver man som elev känna att man kan och förstår, att man lyckas, att det finns tilltro till den egna förmågan att lära sig och att man har lärt sig något"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [313]
+
+[[questions]]
+id = "RN065"
+question = "Vad är ett sätt att höja tillförlitligheten i provbedömning?"
+answer = "Ett sätt att öka reliabiliteten är att utöka mängden frågor i ett prov och på så sätt ge elever fler och olika möjligheter att visa att de förstår ett moment"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [292,293]
+
+[[questions]]
+id = "RN066"
+question = "Vad är en nackdel med återkoppling i form av betyg?"
+answer = "Återkoppling i form av betyg riskerar att distrahera eleverna och minska deras intresse för själva uppgiften"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [325]
+
+[[questions]]
+id = "RN067"
+question = "Vad är en central funktion med formativ bedömning enligt utredningen?"
+answer = "Vi anser att en kontinuerlig återkoppling på skolarbetet är viktigt för att elever ska känna motivation och utvecklas mot målen, och för att lärare ska ges möjlighet att utveckla sin undervisning"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [322]
+
+[[questions]]
+id = "RN068"
+question = "Hur påverkas elevers lärande när återkoppling ges i form av poäng eller betyg?"
+answer = "Det finns en risk att elever som för ensidigt får återkoppling i form av betygsbeteckningar eller poäng utvecklar ett prov– eller betygsorienterat förhållningssätt snarare än ett lärandeorienterat, vilket i sin tur har inverkan på deras motivation"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [325]
+
+# [[questions]]
+# id = "RN069"
+# question = "Vad bör återkoppling fokusera på enligt kapitel 8.6.3?"
+# answer = "Forskning har visat att elever ofta föredrar specifik, detaljerad och individuell återkoppling. Det gäller också att återkopplingen är begriplig för eleven"
+# difficulty = "Hard"
+# category = "Education"
+# [[questions.files]]
+# file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+# page_numbers = [324]
+
+[[questions]]
+id = "RN070"
+question = "Vilken typ av återkoppling föredrar elever enligt forskning?"
+answer = "Skriftliga kommentarer är att föredra då dessa i normalfallet leder till att eleverna vill förbättra sina arbeten"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [325]
+
+[[questions]]
+id = "RN071"
+question = "Vad är syftet med återkoppling enligt 'bedömning för lärande'?"
+answer = "En elev har till exempel ingen nytta av att få veta att han eller hon ”ligger efter”, utan måste veta vad som behövs i nästa steg"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [324]
+
+[[questions]]
+id = "RN072"
+question = "Vilken är den huvudsakliga funktionen för betyg i Sverige?"
+answer = "I Sverige är en av betygens främsta funktioner att utgöra grund för urval till nästa utbildningsnivå"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [702]
+
+# [[questions]]
+# id = "RN073"
+# question = "Vilka sex syften med betyg nämns i utredningen?"
+# answer = "Urval, information, motivation, diagnos, certifiering och resultatrapportering"
+# difficulty = "hard"
+# category = "education"
+# [[questions.files]]
+# file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+# page_numbers = [702]
+
+[[questions]]
+id = "RN074"
+question = "Vilka elver blir bekräftade som duktiga?"
+answer = "Elever som får höga betyg blir bekräftade som duktiga"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [315]
+
+[[questions]]
+id = "RN075"
+question = "Vad kan betyget F upplevas som?"
+answer = "Betyget F kan upplevas som en trubbig återkoppling eftersom betyget inte säger något om hur nära eller långt ifrån den godkända nivån elevens kunskaper är"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [317]
+
+[[questions]]
+id = "RN076"
+question = "Hur påverkas lågpresterande elever av negativa betyg?"
+answer = "Lågpresterande och yngre elever påverkas dock mer negativt av betyg"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [315]
+
+[[questions]]
+id = "RN077"
+question = "Vilka elever påverkas mest negativt av summativ bedömning och negativ feedback"
+answer = "Summativ bedömning (betyg) och negativ feedback påverkar dock lärande, motivation för lärande och prestation negativt över alla åldrar, även om effekten är tydligare hos elever i yngre åldrar och hos lågpresterande elever"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [315]
+
+[[questions]]
+id = "RN078"
+question = "Hur påverkas högpresterande elever av betyg?"
+answer = "Högpresterande elever kan sporras och motiveras av högre krav vid betygssättning"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [315]
+
+[[questions]]
+id = "RN079"
+question = "Vad händer med motivationen hos elever som får dåliga betyg i yngre åldrar?"
+answer = "En risk med betyg som ges i yngre åldrar kan vara att elever som får dåliga betyg känner sig misslyckade och inte blir motiverade att förbättra sina skolresultat"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [315]
+
+[[questions]]
+id = "RN080"
+question = "Hur upplever elever i årskurs 4-6 utvecklingssamtalen?"
+answer = "85 procent av de yngre eleverna tycker att utvecklingssamtalen har varit ganska bra eller mycket bra"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+page_numbers = [316]

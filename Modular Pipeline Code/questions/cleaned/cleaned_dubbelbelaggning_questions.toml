@@ -1,0 +1,220 @@
+# [[questions]]
+# id = "RN001"
+# question = "Vilka två teoretiska ramverk används i studien?"
+# answer = "teorin om Pains of Imprisonment och det teoretiska begreppet Emotion Zones"
+# difficulty = "Easy"
+# category = "Education"
+
+# [[questions.files]]
+# file = "Dubbelbeläggning på svenska.pdf"
+# page_numbers = [8]
+
+[[questions]]
+id = "RN002"
+question = "Vad beskriver Sykes (2007:63) som olika former av berövanden intagna upplever?"
+answer = "avsaknaden av frihet, varor och tjänster samt ouppfyllda begär"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "RN003"
+question = "Hur beskrivs avsaknaden av säkerhet enligt Sykes (2007:77)?"
+answer = "intagna ofta tvingas bo tillsammans med andra medintagna, många av dem med historia av våld och aggression"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "RN004"
+question = "Vad innebär avsaknaden av autonomi enligt Sykes (2007:73, 76)?"
+answer = "Avsaknaden av autonomi innebär att intagna tvingas underkasta sig strikta regler och instruktioner som styr deras vardag. Situationen kan upplevas som en förlust av kontroll och självbestämmande"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "RN005"
+question = "Hur påverkar dubbelbeläggningen möjligheten till privatliv?"
+answer = "Möjligheten till privatliv och egen tid bli ännu mer begränsad än vad som redan gäller i fängelset"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "RN006"
+question = "Vad säger Sykes (2007:78) om maskulinitetsnormer och intagnas behov av självförsvar?"
+answer = "att upprätthålla sin manlighet som ofta illustreras genom styrka och förmågan till självförsvar"
+difficulty = "Hard"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [9]
+
+# [[questions]]
+# id = "RN007"
+# question = "Hur behandlar studien genusperspektivet?"
+# answer = "Det är dock av vikt att understryka att studiens huvudfokus inte är att fördjupa sig i ett genusperspektiv, eftersom studiens utrymme är begränsad"
+# difficulty = "hard"
+# category = "education"
+
+# [[questions.files]]
+# file = "Dubbelbeläggning på svenska.pdf"
+# page_numbers = [10]
+
+[[questions]]
+id = "RN008"
+question = "Vad kan teorin Pains of Imprisonment bidra med insikter om när det gäller dubbelbeläggning?"
+answer = "Pains of imprisonment kan bidra med insikter om hur dubbelbeläggningen inte bara kan påverka livskvaliteten för intagna, utan också hur det kan förvärra redan existerande problem"
+difficulty = "Hard"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "RN009"
+question = "Varför kan kvinnliga intagna behöva anamma maskulina beteenden?"
+answer = "Det är också värdefullt att notera att kvinnliga intagna kan behöva anamma de maskulina beteenden, som Sykes betonar, för att överleva i fängelset som starkt präglas av en hård miljö och strikta rutiner"
+difficulty = "Hard"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [10]
+
+# [[questions]]
+# id = "RN010"
+# question = "Varför valdes de teoretiska ramverken i studien?"
+# answer = "Valet av dessa teoretiska ramverk har gjorts eftersom de erbjuder relevanta insikter och synvinklar för tolkningen av det empiriska materialet"
+# difficulty = "easy"
+# category = "education"
+
+# [[questions.files]]
+# file = "Dubbelbeläggning på svenska.pdf"
+# page_numbers = [8]
+
+[[questions]]
+id = "RN011"
+question = "Varför bygger tidigare forskning främst på studier från Europa utanför Sverige?"
+answer = "Eftersom dubbelbeläggning i svenska fängelser har ökat betydligt de senaste åren, och andra nordiska länder knappt använder sig av dubbelbeläggning, består den tidigare forskningen främst av studier från övriga delar i Europa. I många länder, som exempelvis USA, används knappt singelceller"
+difficulty = "Easy"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "RN012"
+question = "Varför är upplevelser av dubbelbeläggning understuderat enligt Schliehe & Crewe?"
+answer = "Individers upplevelser av dubbelbeläggning är ett understuderat område där Schliehe & Crewe (2022) menar att fängelsets strikta regler och svårigheterna att få tillträde till fängelset är anledningarna till forskningsluckan"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "RN013"
+question = "Vilken aspekt av Haldenfängelset uppskattar de intagna mest enligt Abdel-Salam & Kilmer?"
+answer = "En av de mest uppskattade delarna av Haldenfängelset är möjligheten för de intagna att leva i separata celler"
+difficulty = "Hard"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "RN014"
+question = "Hur upplevde majoriteten av deltagarna i studien i England och Wales att dela cell?"
+answer = "Av studien i England och Wales framkom att de flesta deltagare föredrar att bo i en singelcell och att de upplever känslor av maktlöshet och bristande kontroll när de tvingas dela cell med en främling"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "RN015"
+question = "Vilken faktor är avgörande för om dubbelbeläggning upplevs positiv enligt Muirhead et al.?"
+answer = "En avgörande faktor för detta är dock vem de delar cell med, eftersom den andra personens beteende och personlighet spelar stor roll för möjligheterna att etablera en god relation"
+difficulty = "Hard"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "RN016"
+question = "Vad visade van Ginneken (2022) om sambandet mellan relation till cellkamrat och välbefinnande?"
+answer = "Resultaten indikerar att intagna med en god relation till personen de delar cell med uppvisar en högre grad av känslomässigt välbefinnande. I kontrast till detta rapporterar intagna med en dålig relation till personen de delar cell med, lägre nivåer av välbefinnande och en ökad förekomst av missförhållanden"
+difficulty = "Medium"
+category = "Education"
+
+[[questions.files]]
+file = "Dubbelbeläggning på svenska.pdf"
+page_numbers = [12]
+
+# [[questions]]
+# id = "RN017"
+# question = "Vilken metod användes för att samla in data i studien?"
+# answer = "Syftet med studien är att fördjupa sig i personliga upplevelser av dubbelbeläggning och därför bedöms en kvalitativ inriktning vara det lämpligaste tillvägagångssättet. Specifikt har detta genomförts med en semistrukturerad intervjumetod"
+# difficulty = "easy"
+# category = "education"
+
+# [[questions.files]]
+# file = "Dubbelbeläggning på svenska.pdf"
+# page_numbers = [12]
+
+# [[questions]]
+# id = "RN018"
+# question = "Varför valdes semistrukturerade intervjuer som metod?"
+# answer = "Metoden valdes eftersom den erbjuder en balans mellan struktur och flexibilitet, vilket fångar individuella variationer i deltagarnas upplevelser som annars riskerar att gå förlorade i mer strikta strukturerade intervjuer"
+# difficulty = "easy"
+# category = "education"
+
+# [[questions.files]]
+# file = "Dubbelbeläggning på svenska.pdf"
+# page_numbers = [16]
+
+# [[questions]]
+# id = "RN019"
+# question = "Hur många intervjuer genomfördes och i vilka format?"
+# answer = "Totalt genomfördes sex individuella intervjuer, varav tre genomfördes digitalt och tre fysiskt"
+# difficulty = "easy"
+# category = "education"
+
+# [[questions.files]]
+# file = "Dubbelbeläggning på svenska.pdf"
+# page_numbers = [16]
+
+# [[questions]]
+# id = "RN020"
+# question = "Intervjudeltagarna som deltog bestod av?"
+# answer = "av fyra män och två kvinnor"
+# difficulty = "easy"
+# category = "education"
+
+# [[questions.files]]
+# file = "Dubbelbeläggning på svenska.pdf"
+# page_numbers = [18]
+

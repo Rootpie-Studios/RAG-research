@@ -1,0 +1,199 @@
+[[questions]]
+id = "RN101"
+question = "Hur beskrivs den tidigmoderna periodens förändring i kunskapernas sociala gränser?"
+answer = "Många av kunskapernas sociala gränsdragningar började luckas upp,"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [37]
+
+# [[questions]]
+# id = "RN102"
+# question = "Vad gjorde aktörer för att legitimera sin sociala roll enligt texten?"
+# answer = "Genom att bestämma vilka och vilkas kunskaper som var legitima eller inte"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "På samma klot.pdf"
+# page_numbers = [37]
+
+[[questions]]
+id = "RN103"
+question = "Hur har synen på upplysningen förändrats enligt nyare forskning?"
+answer = "Upplysningen beskrivs nu ofta som en lång process under vilken inte minst formerna för social kommunikation förändrades"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [38]
+
+[[questions]]
+id = "RN104"
+question = "Vad visade forskningen om hantverkares hemligheter och instruktionsböcker?"
+answer = "Hantverkares och yrkesmäns hemligheter avslöjades och skrevs ner i instruktionsböcker"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [38]
+
+# [[questions]]
+# id = "RN105"
+# question = "Vad var funktionen hos 'expert mediators' enligt texten?"
+# answer = "De fungerade som ”expert mediators” eller ”go-betweens” mellan de praktiska utövarna och de högre samhällsgrupperna"
+# difficulty = "Medium"
+# category = "Education"
+# [[questions.files]]
+# file = "På samma klot.pdf"
+# page_numbers = [38]
+
+# [[questions]]
+# id = "RN106"
+# question = "Hur förändrades sociala kunskapshierarkier enligt texten?"
+# answer = "höll sig till praktiska kunskaper – som hantverkare – behöll sin längre position i kunskapshierarkierna"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "På samma klot.pdf"
+# page_numbers = [38]
+
+[[questions]]
+id = "RN107"
+question = "Vad innebar den nya experimentalfilosofin under 1600-talet?"
+answer = "Vetenskap skulle bygga på kunskaper inhämtade genom experiment och från praktiker"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [38]
+
+[[questions]]
+id = "RN108"
+question = "Vad var agrikulturismens idé?"
+answer = "De övre samhällsgrupperna i slutet av 1700-talet tänkte sig att upplysta män skulle ha teoretisk expertis och kontroll över de praktiska lantbruksutövarna"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [40]
+
+[[questions]]
+id = "RN109"
+question = "Vad försökte de nya aktörerna som approprierade kunskap göra?"
+answer = "De ville därför inte i grunden förändra samhälleliga hierarkier, utan inordna sig i dem på en högt uppsatt position"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [40]
+
+[[questions]]
+id = "RN110"
+question = "Vilka aktörer undersökte utvecklingen av mekanik och kemi i Sverige?"
+answer = "Idéhistorikerna Jacob Orrje respektive Hjalmar Fors"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [39]
+
+[[questions]]
+id = "RN111"
+question = "Vad menar James Fisher om lantbrukslitteraturens roll?"
+answer = "en del av samma process som approprieringen av hantverkskunskaper,"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [39]
+
+[[questions]]
+id = "RN112"
+question = "Hur förklarar William Eamon begreppet 'hemlighet' ur ett kunskapsperspektiv?"
+answer = "Ett sätt var att definiera hemlighet utifrån kunskapers sociala funktion, som något som alla inte hade eller skulle ha tillgång till och därför var något som motiverade sociala gränsdragningar. Ett annat sätt var att definiera begreppet utifrån en epistemologisk funktion, som något av Gud skapat och av mänskligheten oupptäckt"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [42]
+
+[[questions]]
+id = "RN113"
+question = "Hur beskrivs upplysningen enligt den nya forskningen?"
+answer = "Upplysningen beskrivs nu ofta som en lång process under vilken inte minst formerna för social kommunikation förändrades"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [38]
+
+[[questions]]
+id = "RN114"
+question = "Vad möjliggjorde manualerna inom kunskapsöverföring?"
+answer = "Manualerna möjliggjorde en alternativ väg till kunskapsinhämtning,"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [38]
+
+[[questions]]
+id = "RN115"
+question = "Hur klassades lantbruket under den tidigmoderna perioden?"
+answer = "Lantbruket var under den tidigmoderna perioden inte klassat som ett hantverk,"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [39]
+
+[[questions]]
+id = "RN116"
+question = "Vad menade Francis Bacon om vetenskapens grund?"
+answer = "Francis Bacon (1561–1626) menade denna att vetenskap skulle bygga på kunskaper inhämtade genom experiment och från praktiker,"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [38]
+
+[[questions]]
+id = "RN117"
+question = "Vad innebär kunskapens sociala funktion?"
+answer = "Kunskaper förväntas legitimera, cementera eller möjliggöra en viss samhällsställning eller roll för dess innehavare"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [42]
+
+[[questions]]
+id = "RN118"
+question = "Vad innebär kunskapens epistemologiska funktion?"
+answer = "kunskaperna förväntas möjliggöra en praktisk handling,"
+difficulty = "Hard"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [42]
+
+[[questions]]
+id = "RN119"
+question = "Vad betyder att vissa kunskaper har en religiös eller moralisk funktion?"
+answer = "Verken hade en moralisk funktion gällande framhävandet av plikten att förbättra lantbruket och konsekvenserna för riket och individen när så inte görs. Upprätthållandet av religiösa dygder kan i så fall ses som ett av verkets mål"
+difficulty = "Medium"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [45]
+
+[[questions]]
+id = "RN120"
+question = "Vad kritiserade Jethro Tull med didaktisk poesi som Georgica?"
+answer = "Ett utbroderat språk störde tydligheten, och därmed förmågan att kommunicera praktiska kunskaper"
+difficulty = "Easy"
+category = "Education"
+[[questions.files]]
+file = "På samma klot.pdf"
+page_numbers = [43]

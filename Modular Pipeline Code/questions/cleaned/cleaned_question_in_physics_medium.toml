@@ -1,0 +1,985 @@
+[[questions]]
+id = "PAV060"
+question = "Vad är syftet med Tidskrift för matematik och fysik?"
+answer = "Tidskrift för matematik och fysik , tillegnad den svenska elementarundervisningen, har tili sin uppgift att hos den studerande ungdomen vid Universitäten, de militāra och tekniska skolorna samt elementarläroverken lifva intresset för de matematiska och fysiska vetenskaperna och att derigenom tili allt vidare kretsar utbreda studiet af desamma"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV061"
+question = "Hur ofta utkommer Tidskrift för matematik och fysik?"
+answer = "Tidskriften udkommer med ett hafte om ungefär tre ark hvarannan mânad"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV062"
+question = "Vilka fyra avdelningar innehåller varje häfte av tidskriften?"
+answer = "Hvarje hafte har fyra afdelningar, nämligen: Afd. I. för elementar matematik till det omfång , som meddelas vid vāra elementarläroverk, vid vāra tekniska skolor, slöjdskolor eller vid krigsakademien ; Afd. II. för elementar matematik till det omfång, som meddelas vid vâra universitet, vid det teknologiska institutet eller vid det högre artilleriläroverket; III. för elementar fysik och mekanik ; IY. för anmälningar och granskningar af utkomna arbeten, m. m"
+difficulty = "Hard"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV063"
+question = "Vem är huvudredaktör för avdelning I i tidskriften?"
+answer = "Hufvudredaktör för afdelningen I. är lektorn F. W. Huitman"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV064"
+question = "Vad är prenumerationspriset för en hel årgång av tidskriften?"
+answer = "Prenumerationspris för hel ârgâng är 4 r:dr. r:mt"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV065"
+question = "Vem kan man skicka bidrag till för avdelning I?"
+answer = "De tili afd. I. hörande insändas tili lektor Hultman"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV066"
+question = "Hur behandlar tidskriften svåra och lärda uppsatser?"
+answer = "Slutligen skall redaktionen söka tillse, att i tidskriften ej upptagas sâ svâra och lärda uppsatser, att de blott kunna päräkna ett jemnförelsevis mindre antal lasare"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV067"
+question = "Vilken typ av problem och teorem vill redaktionen framställa?"
+answer = "Redaktionen genom att tili lösning och bevisande framställa lärorika och intressanta problem och teorem"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV068"
+question = "Hur vill redaktionen behandla vissa satser från andra synpunkter?"
+answer = "Hon skall derjemnte söka att pâ ett enkelt och bindande sätt behandla fiere till elementarundervisningen i dessa vetenskaper hörande satser frân andra synpunkter än de vanliga"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV069"
+question = "Hur vill redaktionen bidra till att vetenskaperna tillämpas i praktiken?"
+answer = "Hon bemöda sig om att tillämpa vetenskapen pâ mângfoldiga förhållanden inom naturen och det praktiska lifvet för att derigenom lifligare fästa de meddelade sanningarna i minnet och göra dem mera fruktbärände"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV070"
+question = "Hur får läsare tillgång till uppsatser från utländsk litteratur enligt redaktionen?"
+answer = "Redaktionen genom bearbetningar och öfversättningar bereda tillfälle tili kännedom af värderika uppsattser inom den utländska litteraturen"
+difficulty = "Hard"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV071"
+question = "Vilken instans hanterar prenumerationerna?"
+answer = "Prenumeration ske hos undertecknad, tidskriftens förläggare"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Schultz-Tidsskriftmathematik-1868.pdf"
+page_numbers = [3]
+
+
+[[questions]]
+id = "PAV072"
+question = "Vad används stål till i vardagen?"
+answer = "Stål finns i det mesta vi har runtomkring oss, bilar, strykjärn, mobiler, bestick och gatlampor. Produkter som inte innehåller stål är ofta plastprodukter som tillverkats i stålformar. Vårt samhälle är med andra ord helt beroende av stål"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV073"
+question = "Vad är stål och vad består det till största delen av?"
+answer = "Stål är en legering och består till största delen av järn, som är jordskorpans fjärde vanligaste grundämne"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV074"
+question = "Hur påverkar kolhalten stålets egenskaper?"
+answer = "Mängden kol i stålet avgör vilka egenskaper stålet får. Stål med högt kolinnehåll kan göras starkare, hårdare och mer elastiskt än järn, men det blir även sprödare. För att stålet ska kunna behandlas får det inte innehålla mer än ca 2 procent kol. Men normalt är kolhalten i stål betydligt lägre och det kan handla om några hundradels procent kol. Om kolhalten är högre än 2 procent talar man om gjutjärn"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV075"
+question = "Vilka andra legeringsämnen kan ingå i moderna stål och vad bidrar de med?"
+answer = "Moderna stål innehåller ofta andra legeringsämnen vid sidan om kol. Vilka legeringsämnen som blandas i stålet, och i vilka mängder, beror på vilka egenskaper man vill att stålet ska ha. Mangan ökar till exempel stålets hållfasthet, också vid högre temperaturer, medan krom och molybden kan förhindra att stålet rostar. Tillsammans med kol bildar krom och några andra legeringsämnen istället karbider som gör stålet beständigt mot nötning, men samtidigt sprödare"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV076"
+question = "Hur påverkas stålets egenskaper av behandlingsmetoder?"
+answer = "Förutom blandningen av legeringsämnen påverkas stålets egenskaper av hur det behandlas i tillverkningen. Genom att valsa, smida, värma och kyla på olika sätt kan många olika egenskaper tas fram. Andra typer av efterbehandlingar som blästring, slipning eller nitrering kan förändra stålytans utseende och egenskaper, till exempel hårdhet eller finish"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV077"
+question = "Hur länge har stålindustrin funnits i Sverige?"
+answer = "Stålindustrin har en lång historia i Sverige. Redan på medeltiden exporterade Sverige järn till kontinenten"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV078"
+question = "Hur stor andel av stångjärnet på världsmarknaden kom från Sverige på 1700-talet?"
+answer = "På 1700-talet kom cirka 30 procent av stångjärnet på världsmarknaden från Sverige"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV079"
+question = "När gick Sverige in i stålåldern på allvar och vilken metod kom till Sverige då?"
+answer = "I mitten av 1800-talet lämnade vi järnåldern på allvar och gick in i stålåldern. Bessemermetoden kom till Sverige 1858 och är en metod för framställning av götstål"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV080"
+question = "Kan stål återvinnas och hur påverkar det kvaliteten?"
+answer = "Stål kan återvinnas oändligt antal gånger utan att tappa kvaliteten. Genom att smälta om skrot kan man enkelt bilda nytt stål med nya egenskaper"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV081"
+question = "Hur stor andel av den globala stålproduktionen baseras på stålskrot idag?"
+answer = "Skrotbaserat stål har mycket mindre miljöpåverkan än malmbaserat stål, därför är det önskvärt att andelen skrotbaserat stål ökar. Men eftersom världens behov av stål växer så fort som det gör just nu, räcker stålskrotet bara till 30 procent av stålproduktionen globalt. Resten måste tillverkas av järnmalm"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV082"
+question = "Hur stor del av det svenska stålet exporteras och importeras?"
+answer = "Av stålet som produceras i Sverige exporteras en övervägande del till andra länder. Samtidigt importeras det mesta av det stål som vi använder"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV083"
+question = "Varför importerar Sverige stål trots egen produktion?"
+answer = "Anledningen är att svensk stålindustri specialiserat sig och i många fall blivit världsledande inom sina respektive nischer"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV084"
+question = "Hur stora var intäkterna från stålförsäljningen 2012 och hur mycket skatteintäkter genererade stålindustrin?"
+answer = "Under 2012 var intäkterna från försäljningen av stål 57 miljarder kronor. Stålindustrin gav 7 miljarder i skatteintäkter vilket motsvarar 17 000 lågstadielärare"
+difficulty = "Hard"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV085"
+question = "Hur har stålbranschen arbetat med miljöpåverkan sedan 1960-talet?"
+answer = "Sedan 1960-talet har stålbranschen arbetat för att minska den negativa miljöpåverkan. Masugnsprocessen, som är den vanligaste vägen från järnmalm till stål, är numera nästan så effektiv som det teoretiskt är möjligt – om koldioxidutsläppen ska kunna minska ännu mer måste helt ny, kolfri, teknik tas fram"
+difficulty = "Hard"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV086"
+question = "Hur många personer var sysselsatta inom ståltillverkning i Sverige 2011, både direkt och indirekt?"
+answer = "År 2011 sysselsatte ståltillverkning i Sverige omkring 18 000 personer direkt i de ståltillverkande företagen, och cirka 29 000 personer indirekt i olika leverantörsföretag"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV087"
+question = "Hur mycket råstål och stålprodukter producerar Sverige per år?"
+answer = "Idag producerar Sverige ca 4,3 miljoner ton råstål (grund till produkter) per år. Vår produktion av stålprodukter (till exempel plåt och rör) uppgår till 3,3 miljoner ton – en knapp halv procent av världsproduktionen"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV088"
+question = "Hur stor andel av världsmarknaden står svenskt stål för inom vissa nischer?"
+answer = "Men inom vissa nischer står svenskt stål för över 80 procent av världsmarknaden"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "stal---en-del-av-var-vardag---affisch-2014.pdf"
+page_numbers = [1]
+
+
+[[questions]]
+id = "PAV089"
+question = "Vad krävs för att nå kunskapskraven i fysik i årskurs 9?"
+answer = "För att nå upp till kunskapskraven i årskurs 9 behöver eleven följaktligen tillägna sig såväl innehållsliga kunskaper om ämnet fysik som färdigheter i att behandla ämnet språkligt (Skolverket 2019)"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [17]
+
+
+[[questions]]
+id = "PAV090"
+question = "Hur kan ämnesspråket betraktas enligt Bergh Nestlog (2019)?"
+answer = "Ämnesspråket kan därmed betraktas utifrån tre perspektiv: innehållet, de språkliga strukturer som används för att uttrycka innehållet och deltagarna i ämnespraktiken (Bergh Nestlog 2019)"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [17]
+
+
+[[questions]]
+id = "PAV091"
+question = "Vad innebär ämneslitteracitet?"
+answer = "Ämneslitteracitet kan alltså förstås som de utvecklade kunskaper och förmågor man behöver för att kunna verka inom ett specifikt ämne"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [18]
+
+
+[[questions]]
+id = "PAV092"
+question = "Varför är det inte tillräckligt att elever lär sig läsa och skriva generellt?"
+answer = "Med ämneslitteracitet som utgångspunkt är det inte tillräckligt att elever lär sig skriva och läsa och sedan överför dessa generella förmågor till alla skolämnen"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [18]
+
+
+[[questions]]
+id = "PAV093"
+question = "Vilket fokus har avhandlingen i relation till skolans språkliga mångfald?"
+answer = "Avhandlingen har ett särskilt fokus på undervisning i en språkligt heterogen skolkontext"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [18]
+
+
+[[questions]]
+id = "PAV094"
+question = "Vilken aspekt betonar forskningen inom flerspråkighetsfältet enligt Cummins, Gibbons och Nygård Larsson?"
+answer = "Forskning inom flerspråkighetsfältet betonar vikten av en undervisning som arbetar både med språket och med kunskapsinnehållet (Cummins 2014, Gibbons 2006, Nygård Larsson 2022)"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [18]
+
+
+[[questions]]
+id = "PAV095"
+question = "Vilken lösning föreslås för att underlätta integrering av ämneskunskap och ämneslitteracitet?"
+answer = "Därför föreslås samarbete mellan ämneslärare och språklärare som en möjlighet för att främja utveckling av både ämneskunskaper och ämneslitteracitet"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [18]
+
+
+[[questions]]
+id = "PAV096"
+question = "Hur definieras förstaspråk enligt Abrahamsson och Bylund?"
+answer = "Inom språkvetenskaplig forskning förekommer definitionen av förstaspråk som det eller de språk som individen har tillägnat sig först (Abrahamsson & Bylund 2012:154, Hammarberg 2010:94)"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [19]
+
+
+[[questions]]
+id = "PAV097"
+question = "Hur definieras andraspråk enligt Abrahamsson & Bylund?"
+answer = "Det kan definieras som det språk som lärs in och utvecklas efter att ett eller flera förstaspråk har etablerats (Abrahamsson & Bylund 2012:154)"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [19]
+
+
+[[questions]]
+id = "PAV098"
+question = "Vad är centralt för undervisningen som undersöks i avhandlingen?"
+answer = "Centralt är att undervisningen äger rum i en språkligt heterogen kontext och att eleverna är olika språkligt rustade för att möta de krav som ställs i undervisningen"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [19]
+
+
+[[questions]]
+id = "PAV099"
+question = "Vad är det övergripande syftet med avhandlingen?"
+answer = "Avhandlingens övergripande syfte är att bidra med kunskap om ämneslitteracitet i två skolämnen, svenska som andraspråk och fysik, och om hur ämneslitteracitet tar sig uttryck i en undervisningskontext där två lärare samarbetar och majoriteten av eleverna lär sig skolans ämnen på ett andraspråk"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Inlaga.pdf"
+page_numbers = [20]
+
+
+[[questions]]
+id = "PAV101"
+question = "Vilken kritik riktade Pia Thörngren Engblom mot artikeln 'Fusk och Fysik'?"
+answer = "att Lise Meitner borde tagits med som delaktig i upptäckten av fission, och att hon var den som tillsammans med Robert Otto Frisch först tolkade resultaten korrekt"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV102"
+question = "Vad anser Martinsson och Lindau om Lise Meitners förtjänst gällande upptäckten av fission?"
+answer = "att Lise Meitner, Otto Robert Frisch och Fritz Strassmann, för sina insatser i samband med upptäckten av fission, mycket väl förtjänade det nobelpris som Otto Hahn ensam tilldelades 1944"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV103"
+question = "Vilken roll spelade Lise Meitner enligt senare historieforskning under upptäckten av fission?"
+answer = "fortfarande, trots sin landsflykt, var deras intellektuelle ledare också under slutskedet av de avgörande experimenten"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV104"
+question = "Vad säger texten om orsaken till att Meitner inte var närvarande vid de sista försöken?"
+answer = "Den sorgliga anledningen till att hon inte befann sig på plats, var att hon hade att välja mellan landsflykt och nazisternas judeförföljelse"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV105"
+question = "Vilken titel hade Lise Meitner på Kaiser Wilhelm Institut från år 1919?"
+answer = "År 1919 blev Lise Meitner utnämnd till Professor på Kaiser Wilhelm Institut (KWI)"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV106"
+question = "Vad upptäckte Meitner och Hahn år 1918?"
+answer = "Deras första stora framgång kom 1918 med upptäckten av element nr 91, protactinium"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [1]
+
+[[questions]]
+id = "PAV107"
+question = "Vad var Meitners roll i experimenten med neutronbestrålning av uran?"
+answer = "Meitner planerade arbetet och försökte konstruera sönderfallskedjor av de motsägelsefulla resultaten"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [1]
+
+#[[questions]]
+#id = "PAV108"
+#question = "Vad avslöjar Hahn i sitt brev till Meitner den 19 december?"
+#answer = "…But we are coming steadily closer to the frightful conclusion: our Ra isotopes do not act like Ra but like Ba"
+#difficulty = "Hard"
+#category = "Physics"
+
+#[[questions.files]]
+#file = "FULLTEXT01.pdf"
+#page_numbers = [2]
+
+[[questions]]
+id = "PAV109"
+question = "Vad bidrog Frisch och Meitner med i tolkningen av fissionen?"
+answer = "De använde sig av Bohrs vätskedroppsmodell, de fann att den elektrostatiska repulsion som protonerna gav upphov till var tillräckligt stor"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV110"
+question = "Vad var Bohrs uppmaning till Meitner och Frisch?"
+answer = "Bohr uppmanade dem att publicera så fort som möjligt och lovade att vänta med att sprida dessa nya ideer"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV111"
+question = "När publicerades Meitners och Frischs gemensamma artikel om fission?"
+answer = "deras gemensamma not publicerades den 11 februari"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV112"
+question = "Vilken nominering tilldelades Meitner och Hahn enligt Arthur Compton?"
+answer = "Professor Hahn and Meitner should be included in the award for their work respectively in identifying the fission process and in showing the tremendous energy liberated when fission occurs"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT01.pdf"
+page_numbers = [2]
+
+
+[[questions]]
+id = "PAV113"
+question = "Vad är syftet med studien som presenteras i examensarbetet?"
+answer = "Syftet med studien är att jämföra den svenska och den finska skolan med fokus på fysikämnet på gymnasiet"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAV114"
+question = "Vilka undervisningsmetoder nämns i både den svenska och den finska kursplanen?"
+answer = "I den svenska (Skolverket, 2011a) och finska (Utbildningsstyrelsen, 2003) kursplanen nämns lärarledd undervisning i form av demonstrationer och föreläsningar som bra undervisningsmetoder"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV115"
+question = "Hur skiljer sig den svenska kursplanen från den finska gällande naturvetenskapliga arbetsmetoder?"
+answer = "Den svenska kursplanen betonar vikten av att elever ska formulera frågeställningar och sedan söka svar på dessa. De ska också kritiskt granska den information de fått fram"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV116"
+question = "Hur rankades finska och svenska elever i PISA 2009 inom naturvetenskap?"
+answer = "Medan de svenska eleverna klarade sig under genomsnittet på den senaste undersökningen 2009 hamnade de finska eleverna på en delad andra plats med Hong kong och Kina"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV117"
+question = "Vad anser Allen och Martin om användning av frågor i undervisningen?"
+answer = "Allen (2002) menar att frågor utmanar elevernas tänkande, vilket leder till att de drar egna slutsatser och kan därför spela en stor roll för att eleverna utvecklas intellektuellt"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV118"
+question = "Vad innebär att den finska gymnasieskolan är årskurslös?"
+answer = "I Finland är gymnasieskolan årskurslös vilket innebär att någon som studerat två år kan läsa en kurs samtidigt som någon som studerar sitt första år"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [10]
+
+[[questions]]
+id = "PAV119"
+question = "Vilken nivå av examen ger lärarutbildningen i Finland?"
+answer = "Det bör även nämnas att lärarutbildningen i Finland ger en examen på Masters-nivå, vilket man inte får i Sverige"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV120"
+question = "Vad är LUMA och vad är dess syfte?"
+answer = "Tanken med detta center är, enligt Niemi (2012), att starta ett samarbete mellan universitetet och skolor, genom att bjuda in barn och ungdomar för att de ska få testa på och se det senaste inom forskning och teknologi"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [11]
+
+[[questions]]
+id = "PAV121"
+question = "Hur ser man på läraryrket i Finland enligt Sahlberg?"
+answer = "Sahlberg (2011) menar att man i Finland ser på sina lärare som professionella på liknande sätt som man ser på läkare, ingenjörer eller ekonomer"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV122"
+question = "Hur utvärderas elever i Finland jämfört med andra länder i Europa?"
+answer = "I Finland utvärderas inte eleverna genom hur många poäng de lyckas samla ihop på tester"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [12]
+
+[[questions]]
+id = "PAV123"
+question = "Varför är det svårt att enbart använda observationer för att förstå undervisningsmetoder?"
+answer = "Men som Högberg (2008) skriver får man genom en observation inte reda på hur den observerade har tänkt när den har valt sin handlingsstrategi"
+difficulty = "Hard"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [13]
+
+[[questions]]
+id = "PAV124"
+question = "Hur ofta blir sökande antagna till lärarutbildningen i Finland?"
+answer = "Bara 1 av 10 sökande till lärare inom grundskolan blir antagna till lärarutbildningen varje år"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT011.pdf"
+page_numbers = [12]
+
+
+[[questions]]
+id = "PAV125"
+question = "Vad är syftet med denna undersökning?"
+answer = "Denna undersökning ämnar således dels att bidra till en pågående utbildning till lärare i fysik, samt belysa hur matematik används vid fysikundervisning på svenska gymnasieskolor"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAV126"
+question = "Vilka två typer av matematiska förmågor identifieras i ramverket?"
+answer = "Dessa två förmågor döps till 'technical skills' och 'structural skills'"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV127"
+question = "Vad är tekniska förmågor enligt ramverket?"
+answer = "Denna interna matematiska kunskap, som att till exempel kunna hitta lösningar till ekvationer, rita funktioner och applicera algoritmer, kan betecknas som tekniska förmågor [2]"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV128"
+question = "Vad innebär strukturella förmågor inom fysikundervisning?"
+answer = "Strukturell matematik kan väldigt brett ses som förmågan att applicera matematisk kunskap på den fysikaliska världen"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV129"
+question = "Vilka fyra underkategorier ingår i strukturella förmågor?"
+answer = "Fyra underkategorier av strukturella förmågor kunde identifieras, dessa är inte bara intressanta som kategorier, utan även som ett mer konkret sätt att förstå strukturell matematik"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV130"
+question = "Vad är ett exempel på matematisering enligt texten?"
+answer = "Ett exempel på matematisering är titta på ett objekt med konstant hastighet och förstå varför en linjär funktion beskriver relationen mellan sträcka och tid"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV131"
+question = "Hur definieras tolkning som strukturell förmåga?"
+answer = "Tolkning, översatt från interpreting, är resonemang kring fysikaliska system utifrån den matematiska beskrivningen [3]"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV132"
+question = "Hur beskrivs analogier som en strukturell förmåga?"
+answer = "Analogier, översatt från analogies, är förmågan att se och utnyttja likheter i den matematiska formalismen i olika fysikaliska situationer [3]"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [5]
+
+[[questions]]
+id = "PAV133"
+question = "Hur hanteras datainsamlingen enligt metodavsnittet?"
+answer = "Vid insamling av data användes en bärbar dator och en digital ritplatta"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAV134"
+question = "Vad är syftet med att dela in lektionen i händelser?"
+answer = "Syftet med indelningen av lektionen i händelser är framförallt att se ifall mönster över vilka typer av händelser kan synas, samt att lättare kunna associera en viss anteckning med en viss ritning"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [7]
+
+[[questions]]
+id = "PAV135"
+question = "Hur valdes deltagande lärare till undersökningen?"
+answer = "Urvalet av deltagande lärare skedde genom att skicka e-mail till samtliga fysiklärare på gymnasieskolor i en stadsdel i södra Sverige"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV136"
+question = "Vad händer med händelser som inte innehåller matematiskt innehåll?"
+answer = "Då en stor mängd av lärarens kommunikation är fri från matematiskt innehåll behövdes en kategori av händelse som reflekterade detta. Därav kategorin 'kvalitativ fysik'"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "FULLTEXT014.pdf"
+page_numbers = [7]
+
+
+
+
+[[questions]]
+id = "PAV137"
+question = "Vilken temperatur och tryck definierar STP (Standard Temperature and Pressure)?"
+answer = "STP (Standard Temperature and Pressure)  0° C och 10 5 Pa"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [3]
+
+[[questions]]
+id = "PAV138"
+question = "Vad är SI-enheten för kraft och dess symbol?"
+answer = "kraft F newton N"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV139"
+question = "Vad är omvandlingen mellan kilowattimme och joule?"
+answer = "1 kWh = 3,6·10^6 J"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV140"
+question = "Vilken är ljusets hastighet i vakuum enligt dokumentet?"
+answer = "Ljusets hastighet i vacuum  c s m/ 10 99792458 , 2 8 "
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV141"
+question = "Hur definieras densitet enligt formelsamlingen?"
+answer = "ρ = densitet, m = massa, V = volym"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [4]
+
+[[questions]]
+id = "PAV142"
+question = "Vad är formeln för rörelseenergi (kinetisk energi)?"
+answer = "Ek = kinetisk energi, m = massa, v = hastighet"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAV143"
+question = "Hur definieras elektrisk spänning i formelsamlingen?"
+answer = "U = spänning, E = energi, Q = laddningsmängd"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [9]
+
+[[questions]]
+id = "PAV144"
+question = "Vad är Stefan-Boltzmanns lag enligt dokumentet?"
+answer = "Me = σ · T⁴"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [8]
+
+[[questions]]
+id = "PAV145"
+question = "Vilken enhet används för tryck i SI-systemet?"
+answer = "tryck p pascal Pa"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [2]
+
+[[questions]]
+id = "PAV146"
+question = "Hur beräknas den potentiella energin enligt formelsamlingen?"
+answer = "Ep = potentiell energi, m = massa, g = tyngdacceleration, h = höjd"
+difficulty = "Easy"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAV147"
+question = "Vilken formel gäller för harmonisk svängningsrörelses periodtid?"
+answer = "T = 2π√(m/k)"
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [6]
+
+[[questions]]
+id = "PAV148"
+question = "Vad är värdet på elementarladdningen enligt dokumentet?"
+answer = "Elementarladdningen  e C 19 10 602176 , 1  "
+difficulty = "Medium"
+category = "Physics"
+
+[[questions.files]]
+file = "Formelsamling-Fysik-1-2.pdf"
+page_numbers = [3]

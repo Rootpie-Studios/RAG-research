@@ -1,0 +1,2043 @@
+DC_4491_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Mavrik?
+
+LLM_ANS: Giltighetstiden för produktgodkännandet av Mavrik är 2025-06-17.
+
+Expected_Answer_Source: |Från och med 2025-06-17|Till och med 2028-01-31|
+-----------------------------------------------
+
+DC_4491_002R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vilka grödor får Mavrik användas på?
+
+LLM_ANS: Mavrik kan användas på följande grödor:
+
+* Höstvete, höstråg, höstrågvete och höstkorn
+* Vårvete, vårråg, vårrågvete, vårkorn och havre
+* Lin, raps och rybs
+* Raps och rybs
+* Potatis
+* Ärtor - färska
+* Ärtor - torkade
+* Bönor - torkade
+* Huvudkål, brysselkål, blomkål och broccoli
+* Äpple och päron
+* Morot
+* Socker-, foder- och rödbetor
+
+Expected_Answer_Source: |Höstvete, höstråg, höstrågvete och höstkorn|Vårvete, vårråg, vårrågvete, vårkorn och havre|Lin, raps och rybs|Raps och rybs|Potatis|Ärtor - färska|Ärtor - torkade|Bönor - torkade|Huvudkål, brysselkål, blomkål och broccoli|Äpple och päron|Morot|Socker-, foder- och rödbetor|
+-----------------------------------------------
+
+DC_4491_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur ofta får jag bespruta med Mavrik på sockerbetor?
+
+LLM_ANS: Max 2 behandlingar per år, med minst 10 dagars mellanrum mellan varje behandling och minst 14 dagar mellan sista behandlingen och skörden.
+
+Expected_Answer_Source: |Socker-, foder- och rödbetor||Mot betfluga (Pegomya hyoscyami) och betbladlus (Aphis fabae)|Bomspruta|BBCH 09–39|2 per år|10|14|0,2 L/ha||48 g tau- fluvalinat/ha|||Antalet behand- lingar per år med denna produkt får aldrig vara fler än två, oavsett om du följer produktens etikett och bruksanvisning eller användnings- villkoren i det utvidgade||
+-----------------------------------------------
+
+DC_4491_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är syftet med att skaka Mavrik före användningen?
+
+LLM_ANS: Syftet med att skaka Mavrik före användning är att produkten ska vara homogen vid tillredning av brukslösning.
+
+Expected_Answer_Source: Villkoret är till för att produkten ska vara homogen vid tillredning av brukslösning
+-----------------------------------------------
+
+DC_4491_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Ska arbetskläder användas vid hantering av Mavrik?
+
+LLM_ANS: Ja, arbetskläder ska användas vid hantering av Mavrik.
+
+Expected_Answer_Source: |Personlig skyddsutrustning|Skyddshandskar ska användas vid hantering av produkten samt vid arbetsmoment som innebär risk för kontakt med brukslösning eller sprutdimma. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker.||
+|Vid arbete med behandlade växtdelar i fruktodling|Vid arbete med behandlade växtdelar ska arbetskläder (som täcker armar, ben och bål) användas under de första 15 dygnen. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker.||
+|Vid återinträde i behandlade områden|Arbetskläder (som täcker armar, ben och bål) ska användas vid återinträde i behandlade områden under de första 60 dygnen efter behandling. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker.||
+
+-----------------------------------------------
+
+DC_4491_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka skyddsavstånd måste jag följa vid behandling med bomspruta med Mavrik?
+
+LLM_ANS: X
+
+Expected_Answer_Source: |Anpassade skyddsavstånd vid spridning med bomspruta|Ett anpassat skyddsavstånd ska bestämmas med hjälp av "Hjälpreda vid bestämning av anpassade skyddsavstånd. Lantbruksspruta med bom”. Skyddsavståndet ska alltid bestämmas genom avläsning i kolumnen "särskild hänsyn" i Hjälpredan.|Villkoret är till för att skydda vattenlevande organismer och insekter utanför fältet.|
+-----------------------------------------------
+
+DC_4491_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge måste man vänta med skörd, efter applicering av Mavrik på äpplen?
+
+LLM_ANS: Minst 30 dagar mellan sista behandling och skörd.
+
+Expected_Answer_Source: |Äpple och päron||Mot insekts- angrepp|Fläktspruta|BBCH 52–79|2 per år|10|30|0,3 L/ha||72 g tau- fluvalinat/ha|
+-----------------------------------------------
+
+DC_4491_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur många behandlingar är tillåtna per år med Mavrik på Morötter?
+
+LLM_ANS: 2 per år
+
+Expected_Answer_Source: |Morot||Mot morots- bladloppa|Bomspruta|BBCH 10–45|2 per år|10|14|0,3 L/ha||72 g tau- fluvalinat/ha|||Antalet behand- lingar per år med denna produkt får aldrig vara fler än två, oavsett om du följer produktens etikett och bruksanvisning eller användnings- villkoren i det utvidgade produkt- godkännandet för mindre använd- ningsområde.|
+-----------------------------------------------
+
+DC_4491_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken är den maximala dosen av tau-fluvalinat per hektar vid behandling av potatis med Mavrik?
+
+LLM_ANS: Max dos vid en enskild behandling på den yta som behandlas: 0,3 L/ha
+
+Expected_Answer_Source: |Potatis||Mot insekts- angrepp|Bomspruta|BBCH 12–49|2 per år|14|7|0,2 L/ha||48 g tau- fluvalinat/ha|
+-----------------------------------------------
+
+DC_4491_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken är den maximala dosen av Mavrik per hektar vid behandling av ärtor?
+
+LLM_ANS: 0,2 L/ha
+
+Expected_Answer_Source: |Ärtor - färska||Mot insekts- angrepp|Bomspruta|BBCH 10–79|2 per år|14|7|0,2 L/ha||48 g tau- fluvalinat/ha|
+-----------------------------------------------
+
+DC_4491_011R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mina rödbetor med Mavrik?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Socker-, foder- och rödbetor||Mot betfluga (Pegomya hyoscyami) och betbladlus (Aphis fabae)|Bomspruta|BBCH 09–39|2 per år|10|14|0,2 L/ha||48 g tau- fluvalinat/ha|||Antalet behand- lingar per år med denna produkt får aldrig vara fler än två, oavsett om du följer produktens etikett och bruksanvisning eller användnings- villkoren i det utvidgade|
+-----------------------------------------------
+
+DC_4491_012R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Mavrik?
+
+LLM_ANS: 1 L
+
+Expected_Answer_Source: |Upp till 5 L HDPE-förpackningar.|
+-----------------------------------------------
+
+DC_4491_013R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge ska jag lagra Mavrik?
+
+LLM_ANS: Mavrik ska lagras i en kylskåp med en temperatur mellan 1 och 25 grader Celsius.
+
+Expected_Answer_Source: |Sista användningsdag vid rekommenderade lagringsförhållanden ska anges i märkningen. Av märkningen ska framgå att hållbarheten är begränsad och att sista användningsdag är 2 år efter tillverkning. SP1 Förorena inte vatten med produkten eller dess behållare.|
+-----------------------------------------------
+
+DC_4491_014R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i Mavrik?
+
+LLM_ANS: Tau-fluvalinat
+
+Expected_Answer_Source: |Tau-fluvalinat|
+-----------------------------------------------
+
+DC_5002_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Legacy 500 SC?
+
+LLM_ANS: Giltighetstid: Från och med 2025-06-24 till och med 2027-01-15.
+
+Expected_Answer_Source: |Från och med 2025-06-24|Till och med 2027-01-15|
+-----------------------------------------------
+
+DC_5002_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Legacy 500 SC användas på?
+
+LLM_ANS: Legacy 500 SC kan användas på höstvete, höstkorn, råg och rågvete.
+
+Expected_Answer_Source: |Höstvete, höstkorn, råg, rågvete|Vårvete, vårkorn och havre|
+-----------------------------------------------
+
+DC_5002_003R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Hur ofta måste jag bespruta med Legacy 500 SC för att få effekt?
+
+LLM_ANS: Enkel besprutning per år.
+
+Expected_Answer_Source: |Höstvete, höstkorn, råg, rågvete||Mot örtogräs|Bomspruta|BBCH mindre än 31 Endast höst- behandling|1 per år|||250 mL/ha||125 g diflufenikan/ ha|||||
+|Höstvete, höstkorn, råg, rågvete||Mot örtogräs|Bomspruta|BBCH 21–31 Endast vår- behandling|1 per år|||200 mL/ha||100 g diflufenikan/ ha|||Om höstbehandling har skett får grödan inte behandlas på våren.||
+|Vårvete, vårkorn och havre||Mot örtogräs|Bomspruta|BBCH mindre än 31|1 per år|||150 mL/ha||75 g diflufenikan/ ha|||||
+
+-----------------------------------------------
+
+DC_5002_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka skyddsavstånd måste jag följa vid behandling med Legacy 500 SC?
+
+LLM_ANS: Ett anpassat skyddsavstånd ska bestämmas med hjälp av ”Hjälpreda vid bestämning av anpassade skyddsavstånd. Lantbruksspruta med bom”.
+
+Expected_Answer_Source: |Ett anpassat skyddsavstånd ska bestämmas med hjälp av ”Hjälpreda vid bestämning av anpassade skyddsavstånd. Lantbruksspruta med bom”.|Villkoret är till för att skydda vattenlevande organismer.|
+-----------------------------------------------
+
+DC_5002_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur många behandlingar får jag göra per år med Legacy 500 SC på rågvete?
+
+LLM_ANS: En behandling per år.
+
+Expected_Answer_Source: |Höstvete, höstkorn, råg, rågvete||Mot örtogräs|Bomspruta|BBCH mindre än 31 Endast höst- behandling|1 per år|||250 mL/ha||125 g diflufenikan/ ha|||||
+|Höstvete, höstkorn, råg, rågvete||Mot örtogräs|Bomspruta|BBCH 21–31 Endast vår- behandling|1 per år|||200 mL/ha||100 g diflufenikan/ ha|||Om höstbehandling har skett får grödan inte behandlas på våren.||
+
+-----------------------------------------------
+
+DC_5002_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken typ av spruta rekommenderas för att applicera Legacy 500 SC på vårvete?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Vårvete, vårkorn och havre||Mot örtogräs|Bomspruta|BBCH mindre än 31|1 per år|||150 mL/ha||75 g diflufenikan/ ha|
+-----------------------------------------------
+
+DC_5002_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur stor dos av diflufenikan ska jag använda per hektar vid en höstbehandling av höstkorn?
+
+LLM_ANS: 250 mL/ha
+
+Expected_Answer_Source: |Höstvete, höstkorn, råg, rågvete||Mot örtogräs|Bomspruta|BBCH mindre än 31 Endast höst- behandling|1 per år|||250 mL/ha||125 g diflufenikan/ ha|
+-----------------------------------------------
+
+DC_5002_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Om jag besprutar höstvete mot örtogräs under hösten med Legacy 500 SC, får jag då behandla grödan på våren?
+
+LLM_ANS: Ja, du får behandla grödan på våren om du har gjort en höstbehandling.
+
+Expected_Answer_Source: |Höstvete, höstkorn, råg, rågvete||Mot örtogräs|Bomspruta|BBCH 21–31 Endast vår- behandling|1 per år|||200 mL/ha||100 g diflufenikan/ ha|||Om höstbehandling har skett får grödan inte behandlas på våren.|
+-----------------------------------------------
+
+DC_5002_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Kan Legacy 500 SC orsaka en allergisk reaktion?
+
+LLM_ANS: Ja.
+
+Expected_Answer_Source: |EUH208 Innehåller 1,2-bensisotiazol-3(2H)-on. Kan orsaka en allergisk reaktion.|
+-----------------------------------------------
+
+DC_5310_5781_001R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Är produkten med registreringsnummer 5310 godkänd för användning?
+
+LLM_ANS: Det finns inget kontextuellt bevis i den angivna informationen som indikerar att produkten med registreringsnummer 5310 är godkänd för användning.
+
+Expected_Answer_Source: ||Produkten får bortskaffas, lagras och||2024-03-31|
+||användas tom:|||
+
+-----------------------------------------------
+
+DC_5310_5781_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur ska jag använda Latitude XL för att skydda mot rotdödare?
+
+LLM_ANS: Latitude XL ska användas genom betning i slutet system mot rotdödare (Gaeumannomyces graminis var. tritici) på vårvete och vårrågvete. Enkel behandling på den yta som behandlas är 2 mL/kg utsäde med en max dos av 250 mg siltiofam/kg utsäde.
+
+Expected_Answer_Source: |Vårvete, vårrågvete||Mot rotdödare (Gaeuman- nomyces graminis var. tritici)|Betning i slutet system||1|||2 mL/kg utsäde||250 mg siltiofam/kg utsäde|
+-----------------------------------------------
+
+DC_5310_5781_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Om jag använder Latitude XL på mitt vårvete, vilken dos bör jag använda per kg utsäde?
+
+LLM_ANS: 250 mg siltiofam/kg utsäde
+
+Expected_Answer_Source: |Vårvete, vårrågvete||Mot rotdödare (Gaeuman- nomyces graminis var. tritici)|Betning i slutet system||1|||2 mL/kg utsäde||250 mg siltiofam/kg utsäde|
+-----------------------------------------------
+
+DC_5310_5781_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken typ av skyddsutrustning behöver jag när jag hanterar Latitude XL?
+
+LLM_ANS: Skyddshandskar ska användas vid tillblandning och påfyllning av brukslösning samt vid kalibrering och rengöring av betningsmaskin. Vid hantering av betat utsäde ska arbetskläder, som täcker armar, ben och bål, samt skyddshandskar användas.
+
+Expected_Answer_Source: |Skyddshandskar ska användas vid tillblandning och påfyllning av brukslösning, vid kalibrering och rengöring av betningsmaskin samt vid packning av behandlat utsäde. Vid hantering av betat utsäde ska arbetskläder, som täcker armar, ben och bål, samt skyddshandskar användas. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker.|
+-----------------------------------------------
+
+DC_5310_5781_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Latitude XL?
+
+LLM_ANS: Max antal behandlingar: 1
+
+Expected_Answer_Source: |Vårvete, vårrågvete||Mot rotdödare (Gaeuman- nomyces graminis var. tritici)|Betning i slutet system||1|||2 mL/kg utsäde||250 mg siltiofam/kg utsäde|
+-----------------------------------------------
+
+DC_5310_5781_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Latitude XL?
+
+LLM_ANS: Latitude XL kan vara giftigt för fåglar och däggdjur.
+
+Expected_Answer_Source: |H317 Kan orsaka allergisk hudreaktion||
+|H373 Kan orsaka organskador genom lång eller upprepad exponering.||
+|H412 Skadliga långtidseffekter för vattenlevande organismer||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5310_5781_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Är Latitude XL farlig för vattenlevande organismer?
+
+LLM_ANS: Ja, Latitude XL kan vara farligt för vattenlevande organismer enligt kontexten i det första stycket där det nämns att spill av betat utsäde ska omedelbart samlas upp eftersom det är giftigt för fåglar och däggdjur. Det kan antas att detta gäller även för vattenlevande organismer.
+
+Expected_Answer_Source: |H412 Skadliga långtidseffekter för vattenlevande organismer|
+-----------------------------------------------
+
+DC_5310_5781_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: I vilken beredningsform säljs Latitude XL?
+
+LLM_ANS: Latitude XL säljs i form av betning.
+
+Expected_Answer_Source: |FS-Flytande koncentrat för betning av utsäde|
+-----------------------------------------------
+
+DC_5310_5781_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken är förpackning säljs Latitude XL i?
+
+LLM_ANS: Latitude XL säljs i HDPE-förpackningar med max 1000 L.
+
+Expected_Answer_Source: |HDPE-förpackning max 1000 L|
+-----------------------------------------------
+
+DC_5310_5781_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i Latitude XL?
+
+LLM_ANS: Siltiofam
+
+Expected_Answer_Source: |Siltiofam|
+-----------------------------------------------
+
+DC_5313_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av RAK3+4?
+
+LLM_ANS: Giltighetstiden för produktgodkännandet av RAK3+4 är från och med 2025-06-16 till och med 2027-09-30.
+
+Expected_Answer_Source: |Från och med 2025-06-16|Till och med 2027-09-30|
+-----------------------------------------------
+
+DC_5313_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får RAK3+4 användas på?
+
+LLM_ANS: RAK3+4 kan användas mot vecklare (Cydia pomonella, Archips rosana, Adoxophyes orana, Archips podana, Pandemis heparana) på äpple och päron.
+
+Expected_Answer_Source: |Äpple och päron|
+-----------------------------------------------
+
+DC_5313_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med RAK3+4?
+
+LLM_ANS: Skyddshandskar ska användas vid hantering av produkten. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |Skyddshandskar ska användas vid hantering av produkten. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker.|
+-----------------------------------------------
+
+DC_5313_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med RAK3+4 per år?
+
+LLM_ANS: 1 per år
+
+Expected_Answer_Source: |Äpple och päron||Mot vecklare (Cydia pomonella, Archips rosana, Adoxophyes orana, Archips podana, Pandemis heparana)|Ampuller|April-maj|1 per år|||500 ampuller per ha|79 g E8,E10- dodecadienol/ha 83 g (Z)-11- tetradecenylacetate/ ha 38 g n- tetradecylacetate/ha|
+-----------------------------------------------
+
+DC_5313_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med RAK3+4?
+
+LLM_ANS: RAK3+4 kan orsaka hudirritation eller allergisk hudreaktion. Det är även giftigt för vattenlevande organismer och kan ha långtidseffekter på miljöerna.
+
+Expected_Answer_Source: |H315 Irriterar huden||
+|H317 Kan orsaka allergisk hudreaktion||
+|H411 Giftigt för vattenlevande organismer med långtidseffekter||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5313_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken metod ska jag använda för att behandla mina päron med RAK3+4?
+
+LLM_ANS: Ampuller
+
+Expected_Answer_Source: |Äpple och päron||Mot vecklare (Cydia pomonella, Archips rosana, Adoxophyes orana, Archips podana, Pandemis heparana)|Ampuller|April-maj|1 per år|||500 ampuller per ha|79 g E8,E10- dodecadienol/ha 83 g (Z)-11- tetradecenylacetate/ ha 38 g n- tetradecylacetate/ha|
+-----------------------------------------------
+
+DC_5313_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek kommer RAK3+4 i?
+
+LLM_ANS: RAK3+4 kommer i förpackningar på max 3 mL vardera, med två kammare per förpackning.
+
+Expected_Answer_Source: |Dispenser av etylen-vinylacetat co-polymer (EVA) med två kammare. Max 3 mL vardera. Ytterförpackning i form av LDPE foliepåse.|
+-----------------------------------------------
+
+DC_5313_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i RAK3+4?
+
+LLM_ANS: E,E-8,10-Dodekadien-1-ol och (Z)-11-tetradecen-1-yl acetat
+
+Expected_Answer_Source: |E,E-8,10-Dodekadien-1-ol|(Z)-11-tetradecen-1-yl acetat|Tetradekylacetat|
+-----------------------------------------------
+
+DC_5313_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av RAK3+4 vid behandling av äpplen?
+
+LLM_ANS: Max dosen av RAK3+4 vid behandling av äpplen är 79 g E8,E10-dodecadienol/ha och 83 g (Z)-11-tetradecenylacetate/ha.
+
+Expected_Answer_Source: |Äpple och päron||Mot vecklare (Cydia pomonella, Archips rosana, Adoxophyes orana, Archips podana, Pandemis heparana)|Ampuller|April-maj|1 per år|||500 ampuller per ha|79 g E8,E10- dodecadienol/ha 83 g (Z)-11- tetradecenylacetate/ ha 38 g n- tetradecylacetate/ha|
+-----------------------------------------------
+
+DC_5334_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Nissorun SC?
+
+LLM_ANS: Från och med 2025-06-17 till och med 2028-01-31.
+
+Expected_Answer_Source: |Från och med 2025-06-17|Till och med 2028-01-31|
+-----------------------------------------------
+
+DC_5334_002R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vilka grödor får Nissorun SC användas på?
+
+LLM_ANS: Nissorun SC kan användas på äpple och päron mot angrepp av spinn-kvalster.
+
+Expected_Answer_Source: |Äpple och päron|Vindruvor|Jordgubbar|Svarta vinbär, röda vinbär, krusbär, hallon, björnbär och blåbär|Gurka och squash/ zucchini|
+-----------------------------------------------
+
+DC_5334_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta mellan varje behandling med Nissorun SC på mina vindruvor?
+
+LLM_ANS: Minst 30 dagar
+
+Expected_Answer_Source: |Vindruvor|Fält|Mot angrepp av spinn- kvalster|Fläktspruta Bomspruta|BBCH 15–75|2 per år|30|21|0,32 L/ha||80 g hexytiazox/ha|
+-----------------------------------------------
+
+DC_5334_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Nissorun SC på jordgubbar, per år?
+
+LLM_ANS: 1 per år
+
+Expected_Answer_Source: |Jordgubbar|Fält|Mot angrepp av spinn- kvalster|Bomspruta|Upp till BBCH 97|1 per år||3|0,4 L/ha||100 g hexytiazox/ha|
+-----------------------------------------------
+
+DC_5334_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge måste man vänta med skörd, efter applicering av Nissorun SC på mina gurkor?
+
+LLM_ANS: Minst 3 dagar mellan sista behandling och skörd.
+
+Expected_Answer_Source: |Gurka och squash/ zucchini|Växthus|Mot angrepp av|Sprutning|Upp till BBCH 97|1 per år||3|32 μL/m2||8 mg hexytiazox/m2|||Maxdosen avser per odlingskultur|
+-----------------------------------------------
+
+DC_5334_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mina äpplen med Nissorun SC?
+
+LLM_ANS: Du ska använda fläktspruta för att behandla dina äpplen med Nissorun SC.
+
+Expected_Answer_Source: |Äpple och päron||Mot angrepp av spinn- kvalster|Fläktspruta|Före blomning till mognad|1 per år||28|0,4 L/ha||100 g hexytiazox/ha|
+-----------------------------------------------
+
+DC_5334_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Nissorun SC?
+
+LLM_ANS: Max 3L HDPE
+
+Expected_Answer_Source: |Max 3L HDPE|
+-----------------------------------------------
+
+DC_5334_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i Nissorun SC?
+
+LLM_ANS: Hexytiazox
+
+Expected_Answer_Source: |Hexytiazox|
+-----------------------------------------------
+
+DC_5334_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Nissorun SC?
+
+LLM_ANS: Nissorun SC är klassificerat som farligt för vattenmiljön och kan ha kroniska långtidseffekter. Det har också en allergisk reaktion som kan orsakas av ämnets innehåll av 1,2-bensisotiazol-3(2H)-on.
+
+Expected_Answer_Source: |H411 Giftigt för vattenlevande organismer med långtidseffekter||
+|EUH208 Innehåller 1,2-bensisotiazol-3(2H)-on. Kan orsaka en allergisk reaktion.||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5334_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med Nissorun SC?
+
+LLM_ANS: Skyddshandskar ska användas vid hantering av produkten samt vid arbetsmoment som innebär risk för kontakt med brukslösning eller sprutdimma. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |Skyddshandskar ska användas vid hantering av produkten samt vid arbetsmoment som innebär risk för kontakt med brukslösning eller sprutdimma. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker.||
+|Vid återinträde i behandlade utrymmen|Återinträde i utrymmen där sprutning utförts får inte ske tidigare än 24 timmar efter behandling. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|
+
+-----------------------------------------------
+
+DC_5334_011R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Nissorun SC vid behandling av hallon?
+
+LLM_ANS: Max dosen av Nissorun SC vid behandling av hallon är 100 g hexytiazox/ha.
+
+Expected_Answer_Source: |Svarta vinbär, röda vinbär, krusbär, hallon, björnbär och blåbär|Fält|Mot angrepp av spinn- kvalster|Fläktspruta Bomspruta|Efter skörd juli - september|1 per år|||0,4 L/ha||100 g hexytiazox/ha|
+-----------------------------------------------
+
+DC_5345_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Priaxor?
+
+LLM_ANS: Giltighetstid: Från och med 2025-06-24 till och med 2026-05-31.
+
+Expected_Answer_Source: |Från och med 2025-06-24|Till och med 2026-05-31|
+-----------------------------------------------
+
+DC_5345_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Priaxor användas på?
+
+LLM_ANS: Priaxor kan användas på vete, korn, råg, rågvete och havre.
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre|
+-----------------------------------------------
+
+DC_5345_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta mellan varje behandling med Priaxor?
+
+LLM_ANS: Minst 7 dagar
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|1,5L/ha|112,5 g fluxapyroxad/ha 225 g pyraklostrobin/ha|Den totala maximala dosen får inte överstiga 1,5 L produkt/ha.|
+-----------------------------------------------
+
+DC_5345_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Priaxor per år?
+
+LLM_ANS: Max antal behandlingar med Priaxor per år är 2.
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|1,5L/ha|112,5 g fluxapyroxad/ha 225 g pyraklostrobin/ha|Den totala maximala dosen får inte överstiga 1,5 L produkt/ha.|
+-----------------------------------------------
+
+DC_5345_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge måste man vänta med skörd, efter applicering av Priaxor?
+
+LLM_ANS: Minst 35 dagar mellan sista behandling och skörd.
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|1,5L/ha|112,5 g fluxapyroxad/ha 225 g pyraklostrobin/ha|Den totala maximala dosen får inte överstiga 1,5 L produkt/ha.|
+-----------------------------------------------
+
+DC_5345_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mitt havre med Priaxor?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|1,5L/ha|112,5 g fluxapyroxad/ha 225 g pyraklostrobin/ha|Den totala maximala dosen får inte överstiga 1,5 L produkt/ha.|
+-----------------------------------------------
+
+DC_5345_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Priaxor?
+
+LLM_ANS: Coextruderad PA/PE-förpackning max 10 L
+
+Expected_Answer_Source: |Coextruderad PA/PE-förpackning max 10 L|
+-----------------------------------------------
+
+DC_5345_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i Priaxor?
+
+LLM_ANS: Pyraklostrobin och Fluxapyroxad
+
+Expected_Answer_Source: |Pyraklostrobin|Fluxapyroxad|
+-----------------------------------------------
+
+DC_5345_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Priaxor?
+
+LLM_ANS: Priaxor kan orsaka skada vid förtäring eller inandning (H302 + H332), kan skada spädbarn som ammas (H362) och är mycket giftigt för vattenlevande organismer med långtidseffekter (H410). Det innehåller även 2-Etylhexyl L-(+)-laktat, vilket kan orsaka en allergisk reaktion (EUH208).
+
+Expected_Answer_Source: |H302 + H332 Skadligt vid förtäring eller inandning||
+|H362 Kan skada spädbarn som ammas||
+|H410 Mycket giftigt för vattenlevande organismer med långtidseffekter||
+|EUH208 Innehåller 2-Etylhexyl L-(+)-laktat. Kan orsaka en allergisk reaktion.||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5345_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med Priaxor?
+
+LLM_ANS: Skyddshandskar och skyddskläder ska användas vid hantering av produkten samt vid arbetsmoment som innebär risk för kontakt med brukslösning eller sprutdimma. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |P280 Använd skyddshandskar och skyddskläder.|
+-----------------------------------------------
+
+DC_5345_011R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Priaxor vid behandling av vete?
+
+LLM_ANS: Max dosen av Priaxor vid behandling av vete är 1,5L/ha.
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|1,5L/ha|112,5 g fluxapyroxad/ha 225 g pyraklostrobin/ha|Den totala maximala dosen får inte överstiga 1,5 L produkt/ha.|
+-----------------------------------------------
+
+DC_5389_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Gallery?
+
+LLM_ANS: Från och med 2025-07-02 till och med 2028-01-31.
+
+Expected_Answer_Source: |Från och med 2025-07-02|Till och med 2028-01-31|
+-----------------------------------------------
+
+DC_5389_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Gallery användas på?
+
+LLM_ANS: Gallery kan användas på jordgubbar, vinbär, hallon och krusbär samt plantskoleväxter.
+
+Expected_Answer_Source: |Jordgubbar|Vinbär, hallon och krusbär|Plantskole- växter|
+-----------------------------------------------
+
+DC_5389_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Gallery vid behandling av Vinbär?
+
+LLM_ANS: 75 mL/ha
+
+Expected_Answer_Source: |Vinbär, hallon och krusbär|Fält|Mot ogräs|Bandspruta|BBCH 00–09 Vårbehandling fram till blad- sprickning|1 per år||100|75 mL/ha||37,5 g isoxaben/ha|||Högst 30 % av odlingsytan får behandlas. Vilket innebär att den yta som behandlas, behandlas med 250 mL produkt/ha.|
+-----------------------------------------------
+
+DC_5389_004R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är max antal behandlingar med Gallery per år?
+
+LLM_ANS: 1 per år
+
+Expected_Answer_Source: |Jordgubbar|Fält|Mot ogräs|Bandspruta|BBCH 10–41 Från utveckling av första bladet till första synliga stolon.|1 per år|||125 mL/ha||62,5 g isoxaben/ha|||Högst 50 % av odlingsytan får behandlas. Vilket innebär att den yta som behandlas, behandlas med 250 mL produkt/ha.||
+|Vinbär, hallon och krusbär|Fält|Mot ogräs|Bandspruta|BBCH 00–09 Vårbehandling fram till blad- sprickning|1 per år||100|75 mL/ha||37,5 g isoxaben/ha|||Högst 30 % av odlingsytan får behandlas. Vilket innebär att den yta som behandlas, behandlas med 250 mL produkt/ha.||
+|Plantskole- växter|Fält|Mot ogräs|Bandspruta|När grödan har ett etablerat rotsystem|1 per år|||75 mL/ha||37,5 g isoxaben/ha|||Högst 30 % av odlingsytan får behandlas. Vilket innebär att den yta som behandlas, behandlas med 250 mL produkt/ha.|
+
+-----------------------------------------------
+
+DC_5389_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge måste man vänta med skörd, efter applicering av Gallery på mina vinbär?
+
+LLM_ANS: Minst 7 dagar.
+
+Expected_Answer_Source: |Vinbär, hallon och krusbär|Fält|Mot ogräs|Bandspruta|BBCH 00–09 Vårbehandling fram till blad- sprickning|1 per år||100|75 mL/ha||37,5 g isoxaben/ha|||Högst 30 % av odlingsytan får behandlas. Vilket innebär att den yta som behandlas, behandlas med 250 mL produkt/ha.|
+-----------------------------------------------
+
+DC_5389_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mina jordgubbar med Gallery?
+
+LLM_ANS: Bandspruta
+
+Expected_Answer_Source: |Jordgubbar|Fält|Mot ogräs|Bandspruta|BBCH 10–41 Från utveckling av första bladet till första synliga stolon.|1 per år|||125 mL/ha||62,5 g isoxaben/ha|||Högst 50 % av odlingsytan får behandlas. Vilket innebär att den yta som behandlas, behandlas med 250 mL produkt/ha.|
+-----------------------------------------------
+
+DC_5389_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Gallery?
+
+LLM_ANS: Max 20 L HDPE-förpackningar. Max 20 L PET-förpackningar.
+
+Expected_Answer_Source: |Max 20 L HDPE-förpackningar. Max 20 L PET-förpackningar.|
+-----------------------------------------------
+
+DC_5389_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i Gallery?
+
+LLM_ANS: Isoxaben
+
+Expected_Answer_Source: |Isoxaben|
+-----------------------------------------------
+
+DC_5389_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Gallery?
+
+LLM_ANS: Faroklass och farokategori: 4.1 Farligt för vattenmiljön, fara för skadliga långtidseffekter - Kategori: Kronisk 1
+
+Expected_Answer_Source: |H410 Mycket giftigt för vattenlevande organismer med långtidseffekter||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.||
+|EUH208 Innehåller 1,2-bensisotiazol-3(2H)-on. Kan orsaka en allergisk reaktion.|
+
+-----------------------------------------------
+
+DC_5389_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilket skyddsavstånd ska användas vid bruk av Gallery?
+
+LLM_ANS: X Ett anpassat skyddsavstånd ska bestämmas med hjälp av "Hjälpreda vid bestämning av anpassade skyddsavstånd. Lantbruksspruta med bom”.
+
+Expected_Answer_Source: Ett anpassat skyddsavstånd ska bestämmas med hjälp av "Hjälpreda vid bestämning av anpassade skyddsavstånd. Lantbruksspruta med bom”.|Villkoret är till för att skydda växter utanför fältet.|
+-----------------------------------------------
+
+DC_5411_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Tanaris?
+
+LLM_ANS: Giltighetstiden för produktgodkännandet av Tanaris är från och med 2025-07-01 till och med 2027-12-31.
+
+Expected_Answer_Source: |Från och med 2025-07-01|Till och med 2027-12-31|
+-----------------------------------------------
+
+DC_5411_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Tanaris användas på?
+
+LLM_ANS: Tanaris kan användas på sockerbetor och foderbetor samt vårraps.
+
+Expected_Answer_Source: |Sockerbetor och foderbetor|Vårraps|
+-----------------------------------------------
+
+DC_5411_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta mellan varje behandling med Tanaris på sockerbetor?
+
+LLM_ANS: Minst 5 dagar
+
+Expected_Answer_Source: |Sockerbetor och foderbetor||Mot ogräs|Bomspruta|BBCH 10–16|3 per år|5||0,6 L/ha|200 g dimetenamid-P/ha 100 g kinmerak/ha|Totala maximala dosen får inte överskrida 1,5 L produkt per hektar och år. Betblasten får inte användas till foder.|
+-----------------------------------------------
+
+DC_5411_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar på vårraps med Tanaris per år?
+
+LLM_ANS: Max antal behandlingar på vårraps med Tanaris per år är 1.
+
+Expected_Answer_Source: |Vårraps||Mot ogräs|Bomspruta|BBCH 10–18|1 per år|||1,5 L/ha|500 g dimetenamid-P/ha 250 g kinmerak/ha|
+-----------------------------------------------
+
+DC_5411_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Tanaris vid behandling av sockerbetor?
+
+LLM_ANS: Max dosen av Tanaris vid behandling av sockerbetor är 0,6 L/ha.
+
+Expected_Answer_Source: |Sockerbetor och foderbetor||Mot ogräs|Bomspruta|BBCH 10–16|3 per år|5||0,6 L/ha|200 g dimetenamid-P/ha 100 g kinmerak/ha|Totala maximala dosen får inte överskrida 1,5 L produkt per hektar och år. Betblasten får inte användas till foder.|
+-----------------------------------------------
+
+DC_5411_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mina foderbetor med Tanaris?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Sockerbetor och foderbetor||Mot ogräs|Bomspruta|BBCH 10–16|3 per år|5||0,6 L/ha|200 g dimetenamid-P/ha 100 g kinmerak/ha|Totala maximala dosen får inte överskrida 1,5 L produkt per hektar och år. Betblasten får inte användas till foder.|
+-----------------------------------------------
+
+DC_5411_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Tanaris?
+
+LLM_ANS: HDPE-förpackning max 50 L
+
+Expected_Answer_Source: |HDPE-förpackning max 50 L|
+-----------------------------------------------
+
+DC_5411_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i Tanaris?
+
+LLM_ANS: Dimetenamid-p och kinmerak
+
+Expected_Answer_Source: |Dimetenamid-p|Kinmerak|
+-----------------------------------------------
+
+DC_5411_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Tanaris?
+
+LLM_ANS: Tanaris kan orsaka allvarlig ögonirritation och hudsensibilisering. Det är även farligt för vattenmiljön, både akut och på lång sikt.
+
+Expected_Answer_Source: |3.3 Allvarlig ögonskada eller ögonirritation - Kategori 2||
+|4.1 Farligt för vattenmiljön, akut fara - Kategori: Akut 1||
+|4.1 Farligt för vattenmiljön, fara för skadliga långtidseffekter - Kategori: Kronisk 1||
+|3.4 Hudsensibilisering - Kategori 1B|
+
+-----------------------------------------------
+
+DC_5411_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med Tanaris?
+
+LLM_ANS: Skyddshandskar och skyddsglasögon ska användas vid hantering av produkten. Skyddshandskar ska användas vid arbetsmoment som innebär risk för kontakt med brukslösning eller sprutdimma. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |P280 Använd skyddshandskar och ögonskydd/ansiktsskydd.|
+-----------------------------------------------
+
+DC_5510_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Pico 750 WG?
+
+LLM_ANS: Giltighetstiden för produktgodkännandet av Pico 750 WG är från och med 2025-06-12 till och med 2032-06-30.
+
+Expected_Answer_Source: |Från och med 2025-06-12|Till och med 2032-06-30|
+-----------------------------------------------
+
+DC_5510_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Pico 750 WG användas på?
+
+LLM_ANS: Pico 750 WG kan användas på höstvete, höstråg, höstrågvete och höstkorn mot örtogräs.
+
+Expected_Answer_Source: |Höstvete, höstråg, höstrågvete och höstkorn|
+-----------------------------------------------
+
+DC_5510_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Pico 750 WG vid behandling av höstvete?
+
+LLM_ANS: Max dosen av Pico 750 WG vid behandling av höstvete är 133 g/ha.
+
+Expected_Answer_Source: |Höstvete, höstråg, höstrågvete och höstkorn||Mot örtogräs|Bomspruta|BBCH 00–12 Endast höst- behandling|1 per år|||133 g/ha|100 g pikolinafen /ha|Varje rad representerar en behandlingsstrategi. Olika behandlingsstrategier får inte kombineras|
+-----------------------------------------------
+
+DC_5510_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Pico 750 WG per år?
+
+LLM_ANS: 1 per år
+
+Expected_Answer_Source: |Höstvete, höstråg, höstrågvete och höstkorn||Mot örtogräs|Bomspruta|BBCH 00–12 Endast höst- behandling|1 per år|||133 g/ha|100 g pikolinafen /ha|Varje rad representerar en behandlingsstrategi. Olika behandlingsstrategier får inte kombineras|
+-----------------------------------------------
+
+DC_5510_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur skiljer sig vårbehandling från höstbehandling med Pico 750 WG?
+
+LLM_ANS: Vårbehandling med Pico 750 WG kan ske vid BBCH 25–29, medan höstbehandling kan ske vid BBCH 00–12. Vid vårbehandling ska utrustning som reducerar avdriften med minst 50 % användas när spridningen sker närmare än 100 m från sjöar, vattendrag eller öppna diken.
+
+Expected_Answer_Source: |Spridningsutrustning vid höstbehandling|Vid spridning närmare än 100 m från sjöar, vattendrag eller öppna diken ska utrustning som reducerar avdriften med minst 75 % användas.|Villkoret är till för att skydda vattenlevande organismer|X|
+|Spridningsutrustning vid vårbehandling|Vid spridning närmare än 100 m från sjöar, vattendrag eller öppna diken ska utrustning som reducerar avdriften med minst 50 % användas.|Villkoret är till för att skydda vattenlevande organismer|X|
+
+-----------------------------------------------
+
+DC_5510_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mitt höstkorn med Pico 750 WG?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Höstvete, höstråg, höstrågvete och höstkorn||Mot örtogräs|Bomspruta|BBCH 00–12 Endast höst- behandling|1 per år|||133 g/ha|100 g pikolinafen /ha|Varje rad representerar en behandlingsstrategi. Olika behandlingsstrategier får inte kombineras|
+-----------------------------------------------
+
+DC_5510_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Pico 750 WG?
+
+LLM_ANS: HDPE-förpackning max 5.5 kg
+
+Expected_Answer_Source: |HDPE-förpackning max 5.5 kg|
+-----------------------------------------------
+
+DC_5510_008R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är det verksamma ämnet i Pico 750 WG?
+
+LLM_ANS: Pikolinafen
+
+Expected_Answer_Source: |Pikolinafen|
+-----------------------------------------------
+
+DC_5510_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Pico 750 WG?
+
+LLM_ANS: Pico 750 WG kan orsaka organskador (blodsystem och sköldkörtel) genom lång eller upprepad exponering. Det är också mycket giftigt för vattenlevande organismer med långtidseffekter.
+
+Expected_Answer_Source: |H410 Mycket giftigt för vattenlevande organismer med långtidseffekter||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.||
+|H373 Kan orsaka organskador (blodsystem och sköldkörtel) genom lång eller upprepad exponering.|X|
+|EUH208 Innehåller dinatriummaleat. Kan orsaka en allergisk reaktion.|
+
+-----------------------------------------------
+
+DC_5510_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka åtgärder ska vidtas om jag spiller Pico 750 WG?
+
+LLM_ANS: Samla upp spill.
+
+Expected_Answer_Source: |P391 Samla upp spill.|
+-----------------------------------------------
+
+DC_5527_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Kinto Plus?
+
+LLM_ANS: Giltighetstiden för produktgodkännandet av Kinto Plus är från och med 2025-06-18 till och med 2026-03-15.
+
+Expected_Answer_Source: |Från och med 2025-06-18|Till och med 2026-03-15|
+-----------------------------------------------
+
+DC_5527_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Kinto Plus användas på?
+
+LLM_ANS: Kinto Plus kan användas på vete, korn, råg, rågvete och havre.
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre|
+-----------------------------------------------
+
+DC_5527_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Kinto Plus vid behandling av havre?
+
+LLM_ANS: Max dosen av Kinto Plus vid behandling av havre är 50 mg tritikonazol/kg utsäde 50 mg fludioxonil/kg utsäde 50 mg fluxapyroxad/kg utsäde.
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre||Mot svamp- angrepp|Betning i slutet system||1|||1,5 mL/kg utsäde|50 mg tritikonazol/kg utsäde 50 mg fludioxonil/kg utsäde 50 mg fluxapyroxad/kg utsäde|
+-----------------------------------------------
+
+DC_5527_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Kinto Plus per år?
+
+LLM_ANS: Max antal behandlingar med Kinto Plus per år är 1.
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre||Mot svamp- angrepp|Betning i slutet system||1|||1,5 mL/kg utsäde|50 mg tritikonazol/kg utsäde 50 mg fludioxonil/kg utsäde 50 mg fluxapyroxad/kg utsäde|
+-----------------------------------------------
+
+DC_5527_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med Kinto Plus?
+
+LLM_ANS: Skyddshandskar och skyddskläder ska användas vid tillblandning och påfyllning av brukslösning samt vid kalibrering och rengöring av betningsmaskin. Vid hantering av betat utsäde ska skyddshandskar användas. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |Skyddshandskar och skyddskläder ska användas vid tillblandning och påfyllning av brukslösning samt vid kalibrering och rengöring av betningsmaskin. Vid hantering av betat utsäde ska skyddshandskar användas. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|
+-----------------------------------------------
+
+DC_5527_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken metod ska jag använda för att behandla mitt vete med Kinto Plus?
+
+LLM_ANS: Betning i slutet system
+
+Expected_Answer_Source: |Vete, korn, råg, rågvete och havre||Mot svamp- angrepp|Betning i slutet system||1|||1,5 mL/kg utsäde|50 mg tritikonazol/kg utsäde 50 mg fludioxonil/kg utsäde 50 mg fluxapyroxad/kg utsäde|
+-----------------------------------------------
+
+DC_5527_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Kinto Plus?
+
+LLM_ANS: HDPE-förpackning max 1000 L.
+
+Expected_Answer_Source: |HDPE-förpackning max 1000 L.|
+-----------------------------------------------
+
+DC_5527_008R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är det verksamma ämnet i Kinto Plus?
+
+LLM_ANS: Fluxapyroxad, Tritikonazol och Fludioxonil
+
+Expected_Answer_Source: |Fluxapyroxad|Tritikonazol|Fludioxonil|
+-----------------------------------------------
+
+DC_5527_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Kinto Plus?
+
+LLM_ANS: Kinto Plus har följande klassificering och märkning enligt CLP:
+
+**Klassificering:**
+- Faroklass: 3.2 (Frätande eller irriterande på huden) - Kategori 2
+- Faroklass: 3.7 (Reproduktionstoxicitet) - Kategori 2, med tilläggskategori för effekter på eller via amning
+- Faroklass: 4.1 (Farligt för vattenmiljön, fara för skadliga långtidseffekter) - Kronisk 1
+- Faroklass: 3.4 (Hudsensibilisering) - Kategori 1
+
+**Märkning:**
+- Faroangivelser: H315 (Irriterar huden), H317 (Kan orsaka allergisk hudreaktion), H361fd (Misstänks kunna skada fertiliteten. Misstänks kunna skada det ofödda barnet.), H362 (Kan skada spädbarn som ammas), H410 (Mycket giftigt för vattenlevande organismer med långtidseffekter)
+- EUH401 (För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.)
+- Skyddsangivelser: P263 (Undvik kontakt under graviditet eller amning.), P280 (Använd skyddshandskar och skyddskläder.), P308 + P313 (Vid exponering eller misstanke om exponering: Sök läkarhjälp.), P362 + P364 (Ta av nedstänkta kläder och tvätta dem innan de används igen.), P391 (Samla upp spill.), P501 (Innehållet och behållaren lämnas till godkänd avfallsmottagare.)
+- Piktogram: Varning, GHS07, GHS08, GHS09
+
+Dessa faror är förknippade med Kinto Plus. Det är viktigt att följa de angivna skyddsåtgärderna och bruksanvisningarna för att minska risken för skada på hälsa och miljö.
+
+Expected_Answer_Source: |H315 Irriterar huden||
+|H317 Kan orsaka allergisk hudreaktion||
+|H361fd Misstänks kunna skada fertiliteten. Misstänks kunna skada det ofödda barnet.||
+|H362 Kan skada spädbarn som ammas||
+|H410 Mycket giftigt för vattenlevande organismer med långtidseffekter||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5527_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med Kinto Plus?
+
+LLM_ANS: Skyddshandskar och skyddskläder ska användas vid tillblandning och påfyllning av brukslösning samt vid kalibrering och rengöring av betningsmaskin. Vid hantering av betat utsäde ska skyddshandskar användas. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |P280 Använd skyddshandskar och skyddskläder.|
+-----------------------------------------------
+
+DC_5532_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge är Imtrex XE godkännt?
+
+LLM_ANS: Imtrex XE är godkänd från och med 2025-06-24 till och med 2026-05-31.
+
+Expected_Answer_Source: |Från och med 2025-06-24|Till och med 2026-05-31|
+-----------------------------------------------
+
+DC_5532_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Imtrex XE användas på?
+
+LLM_ANS: Imtrex XE kan användas på vete, råg, rågvete, havre och korn.
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn|
+-----------------------------------------------
+
+DC_5532_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta mellan varje behandling med Imtrex XE?
+
+LLM_ANS: Minst 7 dagar
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|2L/ha||125 g fluxapyroxad /ha|||Totala maximala dosen får inte överstiga 2 L/ha per år.|
+-----------------------------------------------
+
+DC_5532_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Imtrex XE per år?
+
+LLM_ANS: Max antal behandlingar med Imtrex XE per år är 2.
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|2L/ha||125 g fluxapyroxad /ha|||Totala maximala dosen får inte överstiga 2 L/ha per år.|
+-----------------------------------------------
+
+DC_5532_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge måste man vänta med skörd, efter applicering av Imtrex XE?
+
+LLM_ANS: Minst 35 dagar
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|2L/ha||125 g fluxapyroxad /ha|||Totala maximala dosen får inte överstiga 2 L/ha per år.|
+-----------------------------------------------
+
+DC_5532_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mitt vete med Imtrex XE?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|2L/ha||125 g fluxapyroxad /ha|||Totala maximala dosen får inte överstiga 2 L/ha per år.|
+-----------------------------------------------
+
+DC_5532_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Imtrex XE?
+
+LLM_ANS: Max 10 L i co-extruerad PA/PE-förpackning.
+
+Expected_Answer_Source: |Max 10 L i co-extruerad PA/PE-förpackning.|
+-----------------------------------------------
+
+DC_5532_008R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är det verksamma ämnet i Imtrex XE?
+
+LLM_ANS: Fluxapyroxad
+
+Expected_Answer_Source: |Fluxapyroxad|
+-----------------------------------------------
+
+DC_5532_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Imtrex XE?
+
+LLM_ANS: Imtrex XE har följande faror förknippade med sig:
+
+* Faroklass och farokategori: 3.1 Akut toxicitet - Kategori 4, 3.3 Allvarlig ögonskada eller ögonirritation - Kategori 2, 3.7 Reproduktionstoxicitet - Tilläggskategori för effekter på eller via amning, 3.8 Specifik organtoxicitet, enstaka exponering - Kategori 3, 4.1 Farligt för vattenmiljön, fara för skadliga långtidseffekter - Kategori: Kronisk 2
+* Faroangivelser: H319 Orsakar allvarlig ögonirritation, H332 Skadligt vid inandning, H335 Kan orsaka irritation i luftvägarna, H362 Kan skada spädbarn som ammas, H411 Giftigt för vattenlevande organismer med långtidseffekter, EUH208 Innehåller 2-Etylhexyl L-(+)-laktat. Kan orsaka en allergisk reaktion., EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.
+* Skyddsangivelser: P260 Inandas inte sprej., P263 Undvik kontakt under graviditet eller amning., P280 Använd skyddshandskar, skyddskläder och ögonskydd/ansiktsskydd, P308 + P313 Vid exponering eller misstanke om exponering: Sök läkarhjälp., P337 + P313 Vid bestående ögonirritation: Sök läkarhjälp., P501 Innehållet och behållaren lämnas till godkänd avfallsmottagare.
+* Piktogram och signalord: Varning, GHS07, GHS09
+
+Expected_Answer_Source: |H319 Orsakar allvarlig ögonirritation||
+|H332 Skadligt vid inandning||
+|H335 Kan orsaka irritation i luftvägarna||
+|H362 Kan skada spädbarn som ammas||
+|H411 Giftigt för vattenlevande organismer med långtidseffekter||
+|EUH208 Innehåller 2-Etylhexyl L-(+)-laktat. Kan orsaka en allergisk reaktion.||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5532_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med Imtrex XE?
+
+LLM_ANS: Ögonskydd, skyddshandskar och skyddskläder.
+
+Expected_Answer_Source: |P280 Använd skyddshandskar, skyddskläder och ögonskydd/ansiktsskydd|
+-----------------------------------------------
+
+DC_5532_011R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Imtrex XE vid behandling av korn?
+
+LLM_ANS: Max dosen av Imtrex XE vid behandling av korn är 2L/ha.
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|7|35|2L/ha||125 g fluxapyroxad /ha|||Totala maximala dosen får inte överstiga 2 L/ha per år.|
+-----------------------------------------------
+
+DC_5584_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Jag ska bekämpa svamp i mitt vetefält. Vilka doser av mefentriflukonazol får jag använda per hektar vid en behandling?
+
+LLM_ANS: Maximal dos vid varje behandling är 1,5 L/ha och maximal total dos per säsong är 3 L/ha.
+
+Expected_Answer_Source: |Vete, korn och rågvete||Mot svamp- angrepp|Bomspruta|BBCH 30–69|2 per år|14|35|1,5 L/ha|150 g mefentriflukonazol /ha|Totala maximala dosen får inte överskrida 1,5 L/ha och år.|
+-----------------------------------------------
+
+DC_5584_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur många behandlingar med Revystar XL får jag göra per år på ett sockerbetesfält?
+
+LLM_ANS: 2 per år
+
+Expected_Answer_Source: |Socker- och foderbeta||Mot svamp- angrepp|Bomspruta|BBCH 39–49|2 per år|14|28|1,0 L/ha|100 g mefentriflukonazol /ha|
+-----------------------------------------------
+
+DC_5584_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka skyddsåtgärder måste jag vidta när jag hanterar Revystar XL?
+
+LLM_ANS: Som användare är du skyldig att följa växtskyddsmedlets etikett och bruksanvisning. Villkoret i "Ytterligare villkor" under "Personlig skyddsutrustning" anger att skyddshandskar, skyddskläder och ögonskydd ska användas vid hantering av produkten. Skyddshandskar ska användas vid arbetsmoment som innebär risk för kontakt med brukslösning eller sprutdimma. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |Personlig skyddsutrustning|Skyddshandskar, skyddskläder och ögonskydd ska användas vid hantering av produkten. Skyddshandskar ska användas vid arbetsmoment som innebär risk för kontakt med brukslösning eller sprutdimma. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker||
+|Vid återinträde i behandlade områden|Skyddshandskar och arbetskläder (som täcker armar, ben och bål) ska användas vid återinträde i behandlade områden under de första 48 timmarna efter behandling. Därefter ska arbetskläder (som täcker armar, ben och bål) användas i ytterligare 28 dygn vid återinträde i behandlade områden. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker.|
+
+-----------------------------------------------
+
+DC_5584_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta efter den sista behandlingen med Revystar XL innan jag kan skörda mitt rågfält?
+
+LLM_ANS: 35 dagar
+
+Expected_Answer_Source: |Höstråg||Mot svamp- angrepp|Bomspruta|BBCH 30–69|1 per år||35|1,5 L/ha|150 g mefentriflukonazol /ha|
+-----------------------------------------------
+
+DC_5584_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är kopplade till mefentriflukonazol vad gäller miljön?
+
+LLM_ANS: Mefentriflukonazol kan vara farligt för vattenmiljön, både akut och kroniskt. Det kan också ge upphov till bildandet av 1,2,4-triazol, som är en ämnesämne som kan ha negativa effekter på miljön.
+
+Expected_Answer_Source: |H410 Mycket giftigt för vattenlevande organismer med långtidseffekter|
+-----------------------------------------------
+
+DC_5584_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Är Revystar XL farligt att andas in?
+
+LLM_ANS: Ja, Revystar XL är klassificerat som "kan orsaka irritation i luftvägarna" (H335) och "mycket giftigt för vattenlevande organismer med långtidseffekter" (H410). Det rekommenderas att använda skyddshandskar och ögonskydd vid hantering av produkten.
+
+Expected_Answer_Source: |H332 Skadligt vid inandning|
+-----------------------------------------------
+
+DC_5584_007R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad bekämpar Revystar XL?
+
+LLM_ANS: Revystar XL bekämpar svamp-angrepp på vete, korn och rågvete, höstråg och havre.
+
+Expected_Answer_Source: |FU – Fungicid|
+-----------------------------------------------
+
+DC_5584_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Finns det några begränsningar i hur mycket Revystar XL jag får använda per hektar?
+
+LLM_ANS: Ja, det finns begränsningar i hur mycket Revystar XL du kan använda per hektar. Enskilda behandlingar får inte överstiga 1,5 L/ha och år för vete, korn och rågvete samt 1,0 L/ha för socker- och foderbeta. Totala maximala dosen får inte överskrida 1,5 L/ha och år.
+
+Expected_Answer_Source: |Totala maximala dosen får inte överskrida 1,5 L/ha och år.|
+-----------------------------------------------
+
+DC_5584_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mina sockerbetor med Revystar XL?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Socker- och foderbeta||Mot svamp- angrepp|Bomspruta|BBCH 39–49|2 per år|14|28|1,0 L/ha|100 g mefentriflukonazol /ha|
+-----------------------------------------------
+
+DC_5584_010R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är det verksamma ämnet i Revystar XL?
+
+LLM_ANS: Det verksamma ämnet i Revystar XL är Mefentriflukonazol.
+
+Expected_Answer_Source: |Mefentriflukonazol|Fluxapyroxad|
+-----------------------------------------------
+
+DC_5609_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Om jag använder 1,4SIGHT för att hämma groningen på potatis, hur många behandlingar får jag göra under hela lagringsperioden?
+
+LLM_ANS: Max antal behandlingar: 6 per lagrings- period
+
+Expected_Answer_Source: |Potatis|Lagrings- utrymmen|För gronings- hämning|Dimning||6 per lagrings- period|28|30|20 mL/ton|19,9 g 1,4- dimetylnaftalen/ton|Får inte användas på sättpotatis.|
+-----------------------------------------------
+
+DC_5609_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken är den minsta tiden jag måste vänta mellan varje dimning med 1,4SIGHT på potatis?
+
+LLM_ANS: Minst antal dagar mellan varje behandling: 28
+
+Expected_Answer_Source: |Potatis|Lagrings- utrymmen|För gronings- hämning|Dimning||6 per lagrings- period|28|30|20 mL/ton|19,9 g 1,4- dimetylnaftalen/ton|Får inte användas på sättpotatis.|
+-----------------------------------------------
+
+DC_5609_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta efter den sista dimningen med 1,4SIGHT innan jag kan skörda min potatis?
+
+LLM_ANS: Minst 30 dagar.
+
+Expected_Answer_Source: |Potatis|Lagrings- utrymmen|För gronings- hämning|Dimning||6 per lagrings- period|28|30|20 mL/ton|19,9 g 1,4- dimetylnaftalen/ton|Får inte användas på sättpotatis.|
+-----------------------------------------------
+
+DC_5609_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken är den maximala mängden 1,4-dimetylnaftalen jag får använda per ton potatis vid en enskild dimning?
+
+LLM_ANS: Max dos vid en enskild behandling på den yta som behandlas: 20 mL/ton
+
+Expected_Answer_Source: |Potatis|Lagrings- utrymmen|För gronings- hämning|Dimning||6 per lagrings- period|28|30|20 mL/ton|19,9 g 1,4- dimetylnaftalen/ton|Får inte användas på sättpotatis.|
+-----------------------------------------------
+
+DC_5609_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Får jag använda 1,4SIGHT för att hämma groningen på sättpotatis?
+
+LLM_ANS: Ja, det är tillåtet att använda 1,4SIGHT för att hämma groningen på sättpotatis enligt de beslutade villkoren i Beslutsbilaga 3. Det finns inga specifika begränsningar eller förbud angående användning av 1,4SIGHT på sättpotatis i den angivna kontexten.
+
+Expected_Answer_Source: |Potatis|Lagrings- utrymmen|För gronings- hämning|Dimning||6 per lagrings- period|28|30|20 mL/ton|19,9 g 1,4- dimetylnaftalen/ton|Får inte användas på sättpotatis.|
+-----------------------------------------------
+
+DC_5609_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken metod ska jag använda för att behandla mina potatisar med 1,4SIGHT?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Potatis|Lagrings- utrymmen|För gronings- hämning|Dimning||6 per lagrings- period|28|30|20 mL/ton|19,9 g 1,4- dimetylnaftalen/ton|Får inte användas på sättpotatis.|
+-----------------------------------------------
+
+DC_5609_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för 1,4SIGHT?
+
+LLM_ANS: HDPE-förpackning max 10 L
+
+Expected_Answer_Source: |HDPE-förpackning max 10 L|
+-----------------------------------------------
+
+DC_5609_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i 1,4SIGHT?
+
+LLM_ANS: 1,4-Dimetylnaftalen
+
+Expected_Answer_Source: |1,4-Dimetylnaftalen|
+-----------------------------------------------
+
+DC_5609_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid efter en dimning med 1,4SIGHT måste jag vädra utrymmet innan jag kan återinträda?
+
+LLM_ANS: Återinträde i utrymmen där dimning utförts får inte ske tidigare än 48 timmar efter behandling.
+
+Expected_Answer_Source: |Återinträde i utrymmen där dimning utförts får inte ske tidigare än 48 timmar efter behandling. Utrymmet ska vädras ordentligt före återinträde. Vid återinträde i det behandlade utrymmet efter 48 timmar ska skyddsutrustning i form av andningsskydd användas. Återinträde får ske utan skyddsutrustning 72 timmar efter behandlingstillfället. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|
+-----------------------------------------------
+
+DC_5609_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Behöver jag ta hand om spill, vid användning av 1,4SIGHT?
+
+LLM_ANS: Ja.
+
+Expected_Answer_Source: |P391 Samla upp spill.|
+-----------------------------------------------
+
+DC_5609_011R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med 1,4SIGHT?
+
+LLM_ANS: 1,4SIGHT är klassificerat som farligt för vattenmiljön och kan orsaka allvarlig ögonirritation. Det kan också vara dödligt vid förtäring om det kommer ner i luftvägarna.
+
+Expected_Answer_Source: |H302 Skadligt vid förtäring||
+|H304 Kan vara dödligt vid förtäring om det kommer ner i luftvägarna||
+|H319 Orsakar allvarlig ögonirritation||
+|H410 Mycket giftigt för vattenlevande organismer med långtidseffekter||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5666_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Jag ska använda Systiva på mina utsädesbetningar, vilka faror ska jag vara uppmärksam på för mig själv och miljön?
+
+LLM_ANS: Beroende på kontexten i den första bilagan, som är den mest relevanta för din fråga, bör du vara uppmärksam på följande faror när du använder Systiva:
+
+**För dig själv:**
+- Kan orsaka allergisk hudreaktion (H317)
+- Kan skada spädbarn som ammas (H362)
+
+**För miljön:**
+- Mycket giftigt för vattenlevande organismer med långtidseffekter (H410)
+
+Expected_Answer_Source: |H317 Kan orsaka allergisk hudreaktion||
+|H362 Kan skada spädbarn som ammas||
+|H410 Mycket giftigt för vattenlevande organismer med långtidseffekter||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5666_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka åtgärder måste jag vidta när jag hanterar Systiva?
+
+LLM_ANS: Som användare är du skyldig att följa växtskyddsmedlets etikett och bruksanvisning. När du hanterar Systiva måste du ta följande åtgärder:
+
+* Använd skyddshandskar vid tillblandning och påfyllning av brukslösning samt vid kalibrering och rengöring av betningsmaskin.
+* Använd skyddshandskar vid hantering av betat utsäde.
+
+Expected_Answer_Source: |P201 Inhämta särskilda instruktioner före användning.||
+|P260 Inandas inte damm.||
+|P263 Undvik kontakt under graviditet eller amning.||
+|P280 Använd skyddshandskar.||
+|P308 + P313 Vid exponering eller misstanke om exponering: Sök läkarhjälp.||
+|P391 Samla upp spill.||
+|P501 Innehållet och behållaren lämnas till godkänd avfallsmottagare.|
+
+-----------------------------------------------
+
+DC_5666_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka ämnen i Systiva kräver särskild märkning?
+
+LLM_ANS: Fluxapyroxad och 2-Metyl-4-isotiazolin-3-on.
+
+Expected_Answer_Source: |3.7 Reproduktionstoxicitet - Tilläggskategori för effekter på eller via amning||
+|4.1 Farligt för vattenmiljön, fara för skadliga långtidseffekter - Kategori: Kronisk 1||
+|3.4 Hudsensibilisering - Kategori 1|
+
+-----------------------------------------------
+
+DC_5666_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken hur undviker jag resistens när jag använder Systiva?
+
+LLM_ANS: Om grödan behöver behandlas mot svampangrepp ska den första sprutningen göras med en fungicid med en annan verkningsmekanism. Max två behandlingar får utföras med fungicider från resistensgrupp 7 per gröda, behandling med Systiva ska räknas som den första.
+
+Expected_Answer_Source: |Systiva innehåller fluxapyroxad som tillhör gruppen succinatdehydrogenashämmare (SDHI), resistensgrupp 7 (FRAC 7). Om grödan behöver behandlas mot svampangrepp ska den första sprutningen göras med en fungicid med en annan verkningsmekanism. Max två behandlingar får utföras med fungicider från resistensgrupp 7 per gröda, behandling med Systiva ska räknas som den första.|Villkoret är till för att hindra uppkomst av resistens.|
+-----------------------------------------------
+
+DC_5666_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Systiva användas på?
+
+LLM_ANS: Systiva kan användas på höstråg och korn, höstvete.
+
+Expected_Answer_Source: |Höstråg|Korn, höstvete|
+-----------------------------------------------
+
+DC_5666_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken metod ska jag använda för att behandla mitt korn med Systiva?
+
+LLM_ANS: Betning i slutet system
+
+Expected_Answer_Source: |Korn, höstvete||Mot svamp- angrepp|Betning i slutet system||1|||75 mL/100 kg utsäde|25 g fluxapyroxad/ 100 kg utsäde|
+-----------------------------------------------
+
+DC_5666_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Systiva?
+
+LLM_ANS: HDPE-förpackningar max 1000 liter.
+
+Expected_Answer_Source: |HDPE-förpackningar max 1000 liter.|
+-----------------------------------------------
+
+DC_5666_008R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är det verksamma ämnet i Systiva?
+
+LLM_ANS: Fluxapyroxad
+
+Expected_Answer_Source: |Fluxapyroxad|
+-----------------------------------------------
+
+DC_5666_009R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad bekämpar Systiva?
+
+LLM_ANS: Systiva bekämpar svampangrepp.
+
+Expected_Answer_Source: |FU – Fungicid|
+-----------------------------------------------
+
+DC_5666_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Systiva vid behandling av höstråg?
+
+LLM_ANS: Max dosen av Systiva vid behandling av höstråg är 75 mL/100 kg utsäde.
+
+Expected_Answer_Source: |Höstråg||Mot snömögel (Microdochium nivale) och sköldfläcksjuka (Rhynchosporium secalis)|Betning i slutet system||1|||75 mL/100 kg utsäde|25 g fluxapyroxad/ 100 kg utsäde|
+-----------------------------------------------
+
+DC_5766_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Argos?
+
+LLM_ANS: Giltighetstid: Från och med 2025-07-01 till och med 2027-12-31.
+
+Expected_Answer_Source: |Från och med 2025-07-01|Till och med 2027-12-31|
+-----------------------------------------------
+
+DC_5766_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Argos användas på?
+
+LLM_ANS: Argos får användas som grönings-hämmare för potatis i lagerutrymme.
+
+Expected_Answer_Source: |Potatis|Lager- utrymme|Gronings- hämmare|Dimning||9|21||100 mL/ton potatis||84,3 g apelsinolja/ton potatis|
+-----------------------------------------------
+
+DC_5766_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta mellan varje behandling med Argos?
+
+LLM_ANS: Minst 21 dagar
+
+Expected_Answer_Source: |Potatis|Lager- utrymme|Gronings- hämmare|Dimning||9|21||100 mL/ton potatis||84,3 g apelsinolja/ton potatis|
+-----------------------------------------------
+
+DC_5766_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Argos per år?
+
+LLM_ANS: Max antal behandlingar med Argos per år är 9.
+
+Expected_Answer_Source: |Potatis|Lager- utrymme|Gronings- hämmare|Dimning||9|21||100 mL/ton potatis||84,3 g apelsinolja/ton potatis|
+-----------------------------------------------
+
+DC_5766_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: FInns det temperaturkrav på utrustningen, när jag dimmar med Argos?
+
+LLM_ANS: Ja, det finns ett temperaturkrav för utrustningen vid användning av Argos. I "Ytterligare villkor" under "Spridningsutrustning" står att varmdimning får endast göras med temperaturstyrd utrustning och temperaturen i utrustningen får inte överstiga 190 °C.
+
+Expected_Answer_Source: |Varmdimning får endast göras med temperaturstyrd utrustning. Temperaturen i utrustningen får inte överstiga 190 °C.|Villkoret är till för att förhindra brandutveckling.|
+-----------------------------------------------
+
+DC_5766_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken metod ska jag använda för att behandla mina potatisar med Argos?
+
+LLM_ANS: Dimning
+
+Expected_Answer_Source: |Potatis|Lager- utrymme|Gronings- hämmare|Dimning||9|21||100 mL/ton potatis||84,3 g apelsinolja/ton potatis|
+-----------------------------------------------
+
+DC_5766_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka förpackningsstorlekar är Argos tillgänglig i?
+
+LLM_ANS: Argos är tillgänglig i följande förpackningsstorlekar: 5 L, 10 L, 20 L, 200 L, 500 L och 1000 L.
+
+Expected_Answer_Source: |F-HDPE-förpackning: 5 L, 10 L, 20 L, 200 L, 500 L och 1000 L. Järnfat: 200 L|
+-----------------------------------------------
+
+DC_5766_008R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är det verksamma ämnet i Argos?
+
+LLM_ANS: Apelsinolja
+
+Expected_Answer_Source: |Apelsinolja|
+-----------------------------------------------
+
+DC_5766_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Argos?
+
+LLM_ANS: Argos är klassificerat som farligt för vattenmiljön och kan orsaka hudirritation eller allergisk hudreaktion. Det är också brandfarligt och kan vara dödligt vid förtäring om det kommer ner i luftvägarna.
+
+Expected_Answer_Source: |H226 Brandfarlig vätska och ånga||
+|H304 Kan vara dödligt vid förtäring om det kommer ner i luftvägarna||
+|H315 Irriterar huden||
+|H317 Kan orsaka allergisk hudreaktion||
+|H410 Mycket giftigt för vattenlevande organismer med långtidseffekter|
+
+-----------------------------------------------
+
+DC_5766_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med Argos?
+
+LLM_ANS: Skyddshandskar ska användas vid hantering av produkten. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |P280 Använd skyddshandskar.|
+-----------------------------------------------
+
+DC_5766_011R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Argos vid behandling av potatis?
+
+LLM_ANS: Max dosen av Argos vid behandling av potatis är 100 mL/ton potatis.
+
+Expected_Answer_Source: |Potatis|Lager- utrymme|Gronings- hämmare|Dimning||9|21||100 mL/ton potatis||84,3 g apelsinolja/ton potatis|
+-----------------------------------------------
+
+DC_5781_001R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Latitude XL?
+
+LLM_ANS: Latitude XL med registreringsnummer 5781 har en giltighetstid till 2024-03-31.
+
+Expected_Answer_Source: Från och med 2025-07-03 Till och med 2034-06-30. Tabell: 1_no_title
+-----------------------------------------------
+
+DC_5781_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Latitude XL användas på?
+
+LLM_ANS: Latitude XL kan användas på vete och rågvete.
+
+Expected_Answer_Source: |Vårvete, vårrågvete||Mot rotdödare (Gaeuman- nomyces graminis var. tritici)|Betning i slutet system||1|||2 mL/kg utsäde||250 mg siltiofam/kg utsäde|
+-----------------------------------------------
+
+DC_5781_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilket syfte har Latitude XL när jag använder det på vårvete?
+
+LLM_ANS: Latitude XL används på vårvete för att motverka rotdödare (Gaeumannomyces graminis var. tritici).
+
+Expected_Answer_Source: |Vårvete, vårrågvete||Mot rotdödare (Gaeuman- nomyces graminis var. tritici)|Betning i slutet system||1|||2 mL/kg utsäde||250 mg siltiofam/kg utsäde|
+-----------------------------------------------
+
+DC_5781_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Latitude XL per år?
+
+LLM_ANS: Max antal behandlingar: 1
+
+Expected_Answer_Source: |Vårvete, vårrågvete||Mot rotdödare (Gaeuman- nomyces graminis var. tritici)|Betning i slutet system||1|||2 mL/kg utsäde||250 mg siltiofam/kg utsäde|
+-----------------------------------------------
+
+DC_5781_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Latitude XL vid behandling av vårvete?
+
+LLM_ANS: 2 mL/kg utsäde
+
+Expected_Answer_Source: |Vårvete, vårrågvete||Mot rotdödare (Gaeuman- nomyces graminis var. tritici)|Betning i slutet system||1|||2 mL/kg utsäde||250 mg siltiofam/kg utsäde|
+-----------------------------------------------
+
+DC_5781_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken metod ska jag använda för att behandla mitt vårrågvete med Latitude XL?
+
+LLM_ANS: Betning i slutet system
+
+Expected_Answer_Source: |Vårvete, vårrågvete||Mot rotdödare (Gaeuman- nomyces graminis var. tritici)|Betning i slutet system||1|||2 mL/kg utsäde||250 mg siltiofam/kg utsäde|
+-----------------------------------------------
+
+DC_5781_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Latitude XL?
+
+LLM_ANS: 2 mL/kg utsäde
+
+Expected_Answer_Source: |HDPE-förpackning max 1000 L|
+-----------------------------------------------
+
+DC_5781_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i Latitude XL?
+
+LLM_ANS: Siltiofam
+
+Expected_Answer_Source: |Siltiofam|
+-----------------------------------------------
+
+DC_5781_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Latitude XL?
+
+LLM_ANS: Latitude XL kan vara giftigt för fåglar och däggdjur om de kommer i kontakt med det betade utsädet.
+
+Expected_Answer_Source: |H317 Kan orsaka allergisk hudreaktion||
+|H373 Kan orsaka organskador genom lång eller upprepad exponering.||
+|H412 Skadliga långtidseffekter för vattenlevande organismer||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5781_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken skyddsutrustning ska användas med Latitude XL?
+
+LLM_ANS: Skyddshandskar ska användas vid tillblandning och påfyllning av brukslösning samt vid kalibrering och rengöring av betningsmaskin. Vid hantering av betat utsäde ska skyddshandskar användas. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |P280 Använd skyddshandskar och skyddskläder.|
+-----------------------------------------------
+
+DC_5814_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Zorvec Enicade?
+
+LLM_ANS: Till och med 2028-03-03
+
+Expected_Answer_Source: |Från och med 2024-10-31|Till och med 2028-03-03|
+-----------------------------------------------
+
+DC_5814_002R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vilka grödor får Zorvec Enicade användas på?
+
+LLM_ANS: Zorvec Enicade kan användas på kephalök, schalottenlök och vitlök.
+
+Expected_Answer_Source: |Potatis|
+-----------------------------------------------
+
+DC_5814_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Jag vill bekämpa potatisbladmögel med Zorvec Enicade. Hur ofta får jag spruta?
+
+LLM_ANS: Max 4 behandlingar per år
+
+Expected_Answer_Source: |Potatis||Mot potatisblad- mögel|Bomspruta|Från BBCH 35|4 per odlings- säsong|7|7|150 mL/ha|15 g oxatiopiprolin/ha|
+-----------------------------------------------
+
+DC_5814_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar på vitlök med Zorvec Enicade per år?
+
+LLM_ANS: Max 4
+
+Expected_Answer_Source: Max 4 behandlingar per år
+-----------------------------------------------
+
+DC_5814_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Om jag använder Zorvec Enicade på min vitlök, hur lång karenstid måste jag räkna med innan jag kan skörda?
+
+LLM_ANS: Karenstid: 3 dagar
+
+Expected_Answer_Source: Karenstid- 3 dagar
+-----------------------------------------------
+
+DC_5814_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning/metod ska jag använda för att behandla min schalottenlök med Zorvec Enicade?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: Sprututrustning – bomspruta
+-----------------------------------------------
+
+DC_5814_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Zorvec Enicade?
+
+LLM_ANS: Maximal förpackningsstorlek för Zorvec Enicade är 10 L.
+
+Expected_Answer_Source: |HDPE-förpackning max 10 L.|
+-----------------------------------------------
+
+DC_5814_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Som potatisodlare, när är den tidigaste tidpunkten jag får använda Zorvec Enicade mot potatisbladmögel under odlingssäsongen?
+
+LLM_ANS: Från BBCH 35
+
+Expected_Answer_Source: |Potatis||Mot potatisblad- mögel|Bomspruta|Från BBCH 35|4 per odlings- säsong|7|7|150 mL/ha|15 g oxatiopiprolin/ha|
+-----------------------------------------------
+
+DC_5814_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question:  Jag behöver skydda mig när jag hanterar Zorvec Enicade. Vilken personlig skyddsutrustning är obligatorisk?
+
+LLM_ANS: Skyddshandskar ska användas vid hantering av produkten samt vid arbetsmoment som innebär risk för kontakt med brukslösning. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |P280 Använd skyddshandskar.|
+-----------------------------------------------
+
+DC_5814_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question:  Om jag använder Zorvec Enicade på min potatis, hur lång karenstid måste jag räkna med innan jag kan skörda?
+
+LLM_ANS: Minst 7 dagar mellan sista behandling och skörd.
+
+Expected_Answer_Source: |Potatis||Mot potatisblad- mögel|Bomspruta|Från BBCH 35|4 per odlings- säsong|7|7|150 mL/ha|15 g oxatiopiprolin/ha|
+-----------------------------------------------
+
+DC_5814_011R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vad är max dosen av Zorvec Enicade vid behandling av vitlök?
+
+LLM_ANS: Maximal dos vid varje behandling: 0,15 L/ha
+
+Expected_Answer_Source: • Maximal dos vid varje behandling 0,15 L/ha • Maximal total dos per säsong- 0,6 L/ha
+-----------------------------------------------
+
+DC_5823_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Pioli?
+
+LLM_ANS: Giltighetstid: Från och med 2025-06-24 till och med 2026-05-31.
+
+Expected_Answer_Source: |Från och med 2025-06-24|Till och med 2026-05-31|
+-----------------------------------------------
+
+DC_5823_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Pioli användas på?
+
+LLM_ANS: Pioli kan användas på vete, råg, rågvete, havre och korn.
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn|
+-----------------------------------------------
+
+DC_5823_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta mellan varje behandling med Pioli?
+
+LLM_ANS: Minst 7 dagar
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30-69|2 per år|7|35|2 L/ha||125 g fluxapyroxad/ha|||Totala maximala dosen får inte överskrida 2 L per hektar och år|
+-----------------------------------------------
+
+DC_5823_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Pioli per år?
+
+LLM_ANS: 2 per år
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30-69|2 per år|7|35|2 L/ha||125 g fluxapyroxad/ha|||Totala maximala dosen får inte överskrida 2 L per hektar och år|
+-----------------------------------------------
+
+DC_5823_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge måste man vänta med skörd, efter applicering av Pioli?
+
+LLM_ANS: Minst 35 dagar
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30-69|2 per år|7|35|2 L/ha||125 g fluxapyroxad/ha|||Totala maximala dosen får inte överskrida 2 L per hektar och år|
+-----------------------------------------------
+
+DC_5823_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning ska jag använda för att behandla mitt vete med Pioli?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30-69|2 per år|7|35|2 L/ha||125 g fluxapyroxad/ha|||Totala maximala dosen får inte överskrida 2 L per hektar och år|
+-----------------------------------------------
+
+DC_5823_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Pioli?
+
+LLM_ANS: Max 10 L i co-extruerad PA/PE-förpackning.
+
+Expected_Answer_Source: |Max 10 L i co-extruerad PA/PE-förpackning.|
+-----------------------------------------------
+
+DC_5823_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är det verksamma ämnet i Pioli?
+
+LLM_ANS: Fluxapyroxad
+
+Expected_Answer_Source: |Fluxapyroxad|
+-----------------------------------------------
+
+DC_5823_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Pioli?
+
+LLM_ANS: Pioli kan orsaka allvarlig ögonirritation (H319), skada vid inandning (H332) och irritation i luftvägarna (H335). Det kan också skada spädbarn som ammas (H362) och vara giftigt för vattenlevande organismer med långtidseffekter (H411).
+
+Expected_Answer_Source: |H319 Orsakar allvarlig ögonirritation||
+|H332 Skadligt vid inandning||
+|H335 Kan orsaka irritation i luftvägarna||
+|H362 Kan skada spädbarn som ammas||
+|H411 Giftigt för vattenlevande organismer med långtidseffekter||
+|EUH208 Innehåller 2-Etylhexyl L-(+)-laktat. Kan orsaka en allergisk reaktion.||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5823_011R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Pioli vid behandling av havre?
+
+LLM_ANS: Max dosen av Pioli vid behandling av havre är 2 L/ha.
+
+Expected_Answer_Source: |Vete, råg, rågvete, havre, korn||Mot svamp- angrepp|Bomspruta|BBCH 30-69|2 per år|7|35|2 L/ha||125 g fluxapyroxad/ha|||Totala maximala dosen får inte överskrida 2 L per hektar och år|
+-----------------------------------------------
+
+DC_5893_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Om jag går in i ett fält där Carnadine nyligen har sprutats, vad bör jag göra?
+
+LLM_ANS: Du bör använda arbetskläder (som täcker armar, ben och bål) vid återinträde i behandlade områden. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.
+
+Expected_Answer_Source: |Vid återinträde i behandlade områden|Arbetskläder (som täcker armar, ben och bål) ska användas vid återinträde i behandlade områden. Andra hälsoskyddsåtgärder får användas om de ger minst motsvarande skydd.|Villkoret är till för att skydda mot växtskyddsmedlets hälsorisker.|
+-----------------------------------------------
+
+DC_5893_002R5, File_Match: True, Page_Match: True, Match_Threshold: False.
+
+Question: Vilka grödor får Carnadine användas på?
+
+LLM_ANS: Carnadine kan användas på följande grödor enligt den angivna kontexten:
+
+* Potatis: Mot kolorado-skalbagge (Leptinotarsa decemlineata)
+* Vårkorn, vårvete, vårrågvete och vårhavre: Mot sädestrips (Limothrips denticornis) och bladlöss
+* Höstkorn, höstvete, höstråg, höstrågvete: Mot sädestrips (Limothrips denticornis) och bladlöss
+* Sockerbeta, rödbeta och foderbeta: Mot betbladlus (Aphis fabae) och betfluga (Pegomya hyoscyami)
+* Ärter och bönor: Mot bönsmyg, ärtsmyg och ärtvecklare
+* Morot och nyetablerad kummin: Mot morotsfluga (Chamaepsila rosae)
+* Raps och ryps: Mot rapsbagge (Brassicogethes aeneus)
+
+Expected_Answer_Source: |Potatis|Vårkorn, vårvete, vårrågvete och vårhavre|Höstkorn, höstvete, höstråg, höstrågvete|Sockerbeta, rödbeta och foderbeta|Ärter och bönor|Morot och nyetablerad kummin|Raps och ryps|
+-----------------------------------------------
+
+DC_5893_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta mellan varje behandling av morötter med Carnadine?
+
+LLM_ANS: Minst antal dagar mellan varje behandling: 28
+
+Expected_Answer_Source: |Morot och nyetablerad kummin|Fält|Mot morotsfluga (Chamaepsila rosae)|Bomspruta|BBCH 20-39|1 gång vart tredje år|||||250 mL/ha|50 g acetamiprid/ha|För att inte överskrida gränsvärdet för resthalter i kumminfrö får behandling endast ske under etableringsåret.|
+-----------------------------------------------
+
+DC_5893_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Jag vill använda Carnadine på mina vetefält. Kan jag använda samma dos som jag använder på mina rågvete fält?
+
+LLM_ANS: Ja, du kan använda samma dos av Carnadine på dina vetefält som du använder på dina rågvete fält enligt de angivna villkoren i kontexten. Det är tillåtet att använda 200 mL/ha med en max dos av 40 g acetamiprid/ha under utvecklingsstadierna BBCH 30-69.
+
+Expected_Answer_Source: |Vårkorn, vårvete, vårrågvete och vårhavre||Mot sädestrips (Limothrips denticornis) och bladlöss|Bomspruta|BBCH 30-69|1 per år|||||200 mL/ha|40 g acetamiprid/ha|
+-----------------------------------------------
+
+DC_5893_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge måste man vänta med att skörda potatis, efter applicering av Carnadine?
+
+LLM_ANS: Minst 7 dagar mellan sista behandling och skörd.
+
+Expected_Answer_Source: |Potatis||Mot kolorado- skalbagge (Leptinotarsa decemlineata)|Bomspruta|BBCH 40-79|1 per år||7|||180 mL/ha|36 g acetamiprid/ha|
+-----------------------------------------------
+
+DC_5893_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning/metod ska jag använda för att behandla mina bönor med Carnadine?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Ärter och bönor|Fält|Mot bönsmyg, (Bruchus rufimanus) ärtsmyg (Bruchus pisorum) och ärtvecklare|Bomspruta|BBCH 40-71|1 per år|||||250 mL/ha|50 g acetamiprid/ha|För att inte överskrida gränsvärdet för resthalter får färska ärter inte skördas före utvecklingsstadium BBCH 79|
+-----------------------------------------------
+
+DC_5893_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Carnadine?
+
+LLM_ANS: HDPE-förpackningar max 1000 L.
+
+Expected_Answer_Source: |HDPE-förpackningar max 1000 L.|
+-----------------------------------------------
+
+DC_5893_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Är det något speciellt jag måste tänka på när jag använder Carnadine nära sjöar eller vattendrag?
+
+LLM_ANS: Ja. I märkningarna för Carnadine finns det en signalord och piktogram som anger att produkten är farligt för vattenmiljön, både akut och med långtidseffekter (H410). Det betyder att man måste vara extra försiktig när man hanterar produkten nära sjöar eller vattendrag. Man bör undvika att produkten kommer i kontakt med vattenkällor och följa instruktionerna på etiketten om hur man ska hantera produkten för att skydda vattenmiljön.
+
+Expected_Answer_Source: SP1 Förorena inte vatten med produkten eller dess behållare. SPe 1: För att skydda grundvatten, använd inte denna produkt eller andra produkter innehållande acetamiprid mer än vart tredje år på samma fält när produkten har använts i odlingar av morot och kummin. SPe 1: För att skydda grundvatten, använd inte denna produkt eller andra produkter innehållande acetamiprid mer än vartannat år på samma fält när produkten har använts i odlingar av höstkorn, höstvete, höstråg, höstrågvete i en dos som överstiger 30 g acetamiprid per hektar, i utvecklingsstadier BBCH 20-39 i odlingar av sockerbeta, rödbeta och foderbeta samt i odlingar av raps och rybs.|
+-----------------------------------------------
+
+DC_5893_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror finns det med Carnadine för mig som användare?
+
+LLM_ANS: Som användare är du skyldig att följa växtskyddsmedlets etikett och bruksanvisning. Det finns vissa faror associerade med användningen av Carnadine, såsom:
+
+* Akut toxicitet - Kategori 4
+* Allvarlig ögonirritation eller ögonskada - Kategori 2
+* Reproduktionstoxicitet - Kategori 2
+* Farligt för vattenmiljön, akut fara - Kategori: Akut 1
+* Farligt för vattenmiljön, fara för skadliga långtidseffekter - Kategori: Kronisk 1
+
+Dessa faror måste tas hänsyn till vid användningen av produkten.
+
+Expected_Answer_Source: |H302 Skadligt vid förtäring||
+|H319 Orsakar allvarlig ögonirritation||
+|H361d Misstänks kunna skada det ofödda barnet.||
+|H410 Mycket giftigt för vattenlevande organismer med långtidseffekter||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5893_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Måste jag vara orolig för att få resthalter av acetamiprid i mina ärtor efter att ha använt Carnadine?
+
+LLM_ANS: Ja, du måste vara orolig för att få resthalter av acetamiprid i dina ärter efter att ha använt Carnadine. Det finns ett villkor som anger att färska ärter inte skördas före utvecklingsstadium BBCH 79 för att undvika överskridande av gränsvärdet för resthalter.
+
+Expected_Answer_Source: |Ärter och bönor|Fält|Mot bönsmyg, (Bruchus rufimanus) ärtsmyg (Bruchus pisorum) och ärtvecklare|Bomspruta|BBCH 40-71|1 per år|||||250 mL/ha|50 g acetamiprid/ha|För att inte överskrida gränsvärdet för resthalter får färska ärter inte skördas före utvecklingsstadium BBCH 79|
+-----------------------------------------------
+
+DC_5893_011R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Carnadine vid behandling av raps?
+
+LLM_ANS: Max dosen av Carnadine vid behandling av raps är 50 g acetamiprid/ha.
+
+Expected_Answer_Source: |Raps och ryps||Mot rapsbagge (Brassicogethes aeneus)|Bomspruta|BBCH 50-60|1 vartannat år||28|||250 mL/ha|50 g acetamiprid/ha|
+-----------------------------------------------
+
+DC_5984_001R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är giltighetstiden för produktgodkännandet av Proxanil?
+
+LLM_ANS: Giltighetstid: Från och med 2025-06-18 till och med 2026-06-15.
+
+Expected_Answer_Source: |Från och med 2025-06-18|Till och med 2026-06-15|
+-----------------------------------------------
+
+DC_5984_002R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka grödor får Proxanil användas på?
+
+LLM_ANS: Potatis
+
+Expected_Answer_Source: |Potatis|
+-----------------------------------------------
+
+DC_5984_003R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur lång tid måste jag vänta mellan varje behandling med Proxanil?
+
+LLM_ANS: Minst 7 dagar
+
+Expected_Answer_Source: |Potatis||Mot potatisbladmögel (Phytophthora infestans)|Bomspruta|BBCH 21–95|6 per år|7|14|2,5 L/ha|0,838 kg propamokarb/ha 0,125 kg cymoxanil/ha|
+-----------------------------------------------
+
+DC_5984_004R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max antal behandlingar med Proxanil per år?
+
+LLM_ANS: 6 per år
+
+Expected_Answer_Source: |Potatis||Mot potatisbladmögel (Phytophthora infestans)|Bomspruta|BBCH 21–95|6 per år|7|14|2,5 L/ha|0,838 kg propamokarb/ha 0,125 kg cymoxanil/ha|
+-----------------------------------------------
+
+DC_5984_005R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Hur länge måste man vänta med skörd, efter applicering av Proxanil?
+
+LLM_ANS: Minst 14 dagar mellan sista behandling och skörd.
+
+Expected_Answer_Source: |Potatis||Mot potatisbladmögel (Phytophthora infestans)|Bomspruta|BBCH 21–95|6 per år|7|14|2,5 L/ha|0,838 kg propamokarb/ha 0,125 kg cymoxanil/ha|
+-----------------------------------------------
+
+DC_5984_006R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken utrustning/metod ska jag använda för att behandla mina potatis med Proxanil?
+
+LLM_ANS: Bomspruta
+
+Expected_Answer_Source: |Potatis||Mot potatisbladmögel (Phytophthora infestans)|Bomspruta|BBCH 21–95|6 per år|7|14|2,5 L/ha|0,838 kg propamokarb/ha 0,125 kg cymoxanil/ha|
+-----------------------------------------------
+
+DC_5984_007R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilken förpackningsstorlek är tillåten för Proxanil?
+
+LLM_ANS: HDPE-förpackning upp till 20 L
+
+Expected_Answer_Source: |HDPE-förpackning upp till 20 L|
+-----------------------------------------------
+
+DC_5984_008R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka säkerhetsåtgärder ska jag vidta om jag får hudkontakt med Proxanil?
+
+LLM_ANS: Om du får hudkontakt med Proxanil bör du tvätta med mycket tvål och vatten.
+
+Expected_Answer_Source: |P302 + P352 VID HUDKONTAKT: Tvätta med mycket tvål och vatten.|
+-----------------------------------------------
+
+DC_5984_009R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vilka faror är förknippade med Proxanil?
+
+LLM_ANS: Proxanil kan vara korrosivt för metaller, orsaka allergisk hudreaktion, misstänks kunna skada det ofödda barnet och är giftigt för vattenlevande organismer med långtidseffekter.
+
+Expected_Answer_Source: |H290 Kan vara korrosivt för metaller||
+|H317 Kan orsaka allergisk hudreaktion||
+|H361d Misstänks kunna skada det ofödda barnet.||
+|H411 Giftigt för vattenlevande organismer med långtidseffekter||
+|EUH401 För att undvika risker för människors hälsa och för miljön, följ bruksanvisningen.|
+
+-----------------------------------------------
+
+DC_5984_010R5, File_Match: True, Page_Match: True, Match_Threshold: True.
+
+Question: Vad är max dosen av Proxanil vid behandling av potatis?
+
+LLM_ANS: Max dosen av Proxanil vid behandling av potatis är 2,5 L/ha.
+
+Expected_Answer_Source: |Potatis||Mot potatisbladmögel (Phytophthora infestans)|Bomspruta|BBCH 21–95|6 per år|7|14|2,5 L/ha|0,838 kg propamokarb/ha 0,125 kg cymoxanil/ha|
+-----------------------------------------------
+

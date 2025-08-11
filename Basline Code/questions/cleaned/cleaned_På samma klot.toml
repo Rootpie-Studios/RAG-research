@@ -8,15 +8,15 @@ category = "Education"
 file = "På samma klot.pdf"
 page_numbers = [37]
 
-[[questions]]
-id = "RN102"
-question = "Vad gjorde aktörer för att legitimera sin sociala roll enligt texten?"
-answer = "Genom att bestämma vilka och vilkas kunskaper som var legitima eller inte"
-difficulty = "Easy"
-category = "Education"
-[[questions.files]]
-file = "På samma klot.pdf"
-page_numbers = [37]
+# [[questions]]
+# id = "RN102"
+# question = "Vad gjorde aktörer för att legitimera sin sociala roll enligt texten?"
+# answer = "Genom att bestämma vilka och vilkas kunskaper som var legitima eller inte"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "På samma klot.pdf"
+# page_numbers = [37]
 
 [[questions]]
 id = "RN103"
@@ -38,25 +38,25 @@ category = "Education"
 file = "På samma klot.pdf"
 page_numbers = [38]
 
-[[questions]]
-id = "RN105"
-question = "Vad var funktionen hos 'expert mediators' enligt texten?"
-answer = "De fungerade som ”expert mediators” eller ”go-betweens” mellan de praktiska utövarna och de högre samhällsgrupperna"
-difficulty = "Medium"
-category = "Education"
-[[questions.files]]
-file = "På samma klot.pdf"
-page_numbers = [38]
+# [[questions]]
+# id = "RN105"
+# question = "Vad var funktionen hos 'expert mediators' enligt texten?"
+# answer = "De fungerade som ”expert mediators” eller ”go-betweens” mellan de praktiska utövarna och de högre samhällsgrupperna"
+# difficulty = "Medium"
+# category = "Education"
+# [[questions.files]]
+# file = "På samma klot.pdf"
+# page_numbers = [38]
 
-[[questions]]
-id = "RN106"
-question = "Hur förändrades sociala kunskapshierarkier enligt texten?"
-answer = "höll sig till praktiska kunskaper – som hantverkare – behöll sin längre position i kunskapshierarkierna"
-difficulty = "Easy"
-category = "Education"
-[[questions.files]]
-file = "På samma klot.pdf"
-page_numbers = [38]
+# [[questions]]
+# id = "RN106"
+# question = "Hur förändrades sociala kunskapshierarkier enligt texten?"
+# answer = "höll sig till praktiska kunskaper – som hantverkare – behöll sin längre position i kunskapshierarkierna"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "På samma klot.pdf"
+# page_numbers = [38]
 
 [[questions]]
 id = "RN107"
@@ -70,7 +70,7 @@ page_numbers = [38]
 
 [[questions]]
 id = "RN108"
-question = "Vad var agrikulturismens idé enligt texten?"
+question = "Vad var agrikulturismens idé?"
 answer = "De övre samhällsgrupperna i slutet av 1700-talet tänkte sig att upplysta män skulle ha teoretisk expertis och kontroll över de praktiska lantbruksutövarna"
 difficulty = "Easy"
 category = "Education"
@@ -160,7 +160,7 @@ page_numbers = [38]
 
 [[questions]]
 id = "RN117"
-question = "Vad innebär kunskapens sociala funktion enligt texten?"
+question = "Vad innebär kunskapens sociala funktion?"
 answer = "Kunskaper förväntas legitimera, cementera eller möjliggöra en viss samhällsställning eller roll för dess innehavare"
 difficulty = "Medium"
 category = "Education"

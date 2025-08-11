@@ -1,6 +1,6 @@
 [[questions]]
 id = "RN041"
-question = "Vilken roll spelar AI i dagens marknadsföring enligt texten?"
+question = "Vilken roll spelar AI i dagens marknadsföring?"
 answer = "När det gäller användandet av AI i relation till marknadsföring har AI idag en betydande roll. AI kan assistera i avseende på konsumentinsikt, datahantering och optimering"
 difficulty = "Easy"
 category = "Education"
@@ -8,25 +8,25 @@ category = "Education"
 file = "AI och konsumentattityder.pdf"
 page_numbers = [10]
 
-[[questions]]
-id = "RN042"
-question = "Vilket särskilt fokus har uppsatsen kring AI och konsumentattityder?"
-answer = "Uppsatsen syftar till att redogöra för konsumenternas attityder gentemot reklamkampanjer som har utformats med AI som hjälpmedel i de kreativa processerna, liksom om attityderna förändras baserat på om avsändaren är transparent med användandet av AI i utformningen av kampanjen"
-difficulty = "Easy"
-category = "Education"
-[[questions.files]]
-file = "AI och konsumentattityder.pdf"
-page_numbers = [11]
+# [[questions]]
+# id = "RN042"
+# question = "Vilket särskilt fokus har uppsatsen kring AI och konsumentattityder?"
+# answer = "Uppsatsen syftar till att redogöra för konsumenternas attityder gentemot reklamkampanjer som har utformats med AI som hjälpmedel i de kreativa processerna, liksom om attityderna förändras baserat på om avsändaren är transparent med användandet av AI i utformningen av kampanjen"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "AI och konsumentattityder.pdf"
+# page_numbers = [11]
 
-[[questions]]
-id = "RN043"
-question = "Vilken geografisk avgränsning har gjorts i studien och varför?"
-answer = "Därtill görs en geografisk avgränsning, där studien begränsas till Stockholm. Urvalet är närhetsbegränsat till Stockholm då teorivalet inte kräver ett urval baserat på specifika demografiska egenskaper. Därtill begränsar arbetets begränsade tidsram möjligheten att besöka andra geografiska platser för att samla in data"
-difficulty = "Easy"
-category = "Education"
-[[questions.files]]
-file = "AI och konsumentattityder.pdf"
-page_numbers = [12]
+# [[questions]]
+# id = "RN043"
+# question = "Vilken geografisk avgränsning har gjorts i studien och varför?"
+# answer = "Därtill görs en geografisk avgränsning, där studien begränsas till Stockholm. Urvalet är närhetsbegränsat till Stockholm då teorivalet inte kräver ett urval baserat på specifika demografiska egenskaper. Därtill begränsar arbetets begränsade tidsram möjligheten att besöka andra geografiska platser för att samla in data"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "AI och konsumentattityder.pdf"
+# page_numbers = [12]
 
 [[questions]]
 id = "RN044"
@@ -130,7 +130,7 @@ page_numbers = [23]
 
 [[questions]]
 id = "RN054"
-question = "Vad innebär forskarnas ontologiska tillvägagångssätt?"
+question = "Vad innebär nominalism?"
 answer = "Vårt ontologiska tillvägagångssätt av nominalism, som alltså innebär att verkligheten skapas av oss och inte existerar oberoende av individens egen uppfattning"
 difficulty = "Easy"
 category = "Education"
@@ -138,19 +138,19 @@ category = "Education"
 file = "AI och konsumentattityder.pdf"
 page_numbers = [23]
 
-[[questions]]
-id = "RN055"
-question = "Varför är noggrann datainsamling och analys viktiga i denna studie?"
-answer = "I denna studie, som syftar till att utforska konsumentattityder kopplade till användningen av AI i kreativa processer inom marknadsföring, är noggrann datainsamling och analys avgörande för att säkerställa trovärdighet i slutsatserna"
-difficulty = "Easy"
-category = "Education"
-[[questions.files]]
-file = "AI och konsumentattityder.pdf"
-page_numbers = [23]
+# [[questions]]
+# id = "RN055"
+# question = "Varför är noggrann datainsamling och analys viktiga i denna studie?"
+# answer = "I denna studie, som syftar till att utforska konsumentattityder kopplade till användningen av AI i kreativa processer inom marknadsföring, är noggrann datainsamling och analys avgörande för att säkerställa trovärdighet i slutsatserna"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "AI och konsumentattityder.pdf"
+# page_numbers = [23]
 
 [[questions]]
 id = "RN056"
-question = "Vad innebär användningen av konstant jämförande metod i studien?"
+question = "Vad innebär användningen av konstant jämförande metod?"
 answer = "Användningen av en konstant jämförande metod säkerställer att forskningen följer en systematisk process där data kontinuerligt jämförs och leder till framväxande teori"
 difficulty = "Easy"
 category = "Education"
@@ -168,15 +168,15 @@ category = "Education"
 file = "AI och konsumentattityder.pdf"
 page_numbers = [23]
 
-[[questions]]
-id = "RN058"
-question = "Vilken metod används i studien för att samla in data?"
-answer = "Datainsamlingen i denna uppsats bygger på grundad teori (GT), och mer specifikt klassisk grundad teori (CGT)"
-difficulty = "Easy"
-category = "Education"
-[[questions.files]]
-file = "AI och konsumentattityder.pdf"
-page_numbers = [20]
+# [[questions]]
+# id = "RN058"
+# question = "Vilken metod används i studien för att samla in data?"
+# answer = "Datainsamlingen i denna uppsats bygger på grundad teori (GT), och mer specifikt klassisk grundad teori (CGT)"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "AI och konsumentattityder.pdf"
+# page_numbers = [20]
 
 [[questions]]
 id = "RN059"

@@ -1,22 +1,22 @@
-[[questions]]
-id = "RN061"
-question = "Vad är syftet med utredningen?"
-answer = "Syftet med uppdraget är således att främja elevers kunskapsutveckling och att betygen bättre ska spegla elevers kunskaper"
-difficulty = "Easy"
-category = "Education"
-[[questions.files]]
-file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
-page_numbers = [184]
+# [[questions]]
+# id = "RN061"
+# question = "Vad är syftet med utredningen?"
+# answer = "Syftet med uppdraget är således att främja elevers kunskapsutveckling och att betygen bättre ska spegla elevers kunskaper"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+# page_numbers = [184]
 
-[[questions]]
-id = "RN062"
-question = "Vad är en av de största utmaningarna för utredningen?"
-answer = "En övergripande utmaning har varit att möta alla de synpunkter och förväntningar som finns på betyg generellt och försöka visa på vilka betygsfrågor som utredningen är satt att hantera"
-difficulty = "Easy"
-category = "Education"
-[[questions.files]]
-file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
-page_numbers = [185]
+# [[questions]]
+# id = "RN062"
+# question = "Vad är en av de största utmaningarna för utredningen?"
+# answer = "En övergripande utmaning har varit att möta alla de synpunkter och förväntningar som finns på betyg generellt och försöka visa på vilka betygsfrågor som utredningen är satt att hantera"
+# difficulty = "Easy"
+# category = "Education"
+# [[questions.files]]
+# file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+# page_numbers = [185]
 
 [[questions]]
 id = "RN063"
@@ -30,7 +30,7 @@ page_numbers = [315]
 
 [[questions]]
 id = "RN064"
-question = "Vad krävs för att en elev ska känna motivation enligt texten?"
+question = "Vad krävs för att en elev ska känna motivation?"
 answer = "För att vara motiverad att lära sig behöver man som elev känna att man kan och förstår, att man lyckas, att det finns tilltro till den egna förmågan att lära sig och att man har lärt sig något"
 difficulty = "Easy"
 category = "Education"
@@ -40,7 +40,7 @@ page_numbers = [313]
 
 [[questions]]
 id = "RN065"
-question = "Vad är ett sätt att höja tillförlitligheten i provbedömning enligt texten?"
+question = "Vad är ett sätt att höja tillförlitligheten i provbedömning?"
 answer = "Ett sätt att öka reliabiliteten är att utöka mängden frågor i ett prov och på så sätt ge elever fler och olika möjligheter att visa att de förstår ett moment"
 difficulty = "Easy"
 category = "Education"
@@ -78,15 +78,15 @@ category = "Education"
 file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
 page_numbers = [325]
 
-[[questions]]
-id = "RN069"
-question = "Vad bör återkoppling fokusera på enligt kapitel 8.6.3?"
-answer = "Forskning har visat att elever ofta föredrar specifik, detaljerad och individuell återkoppling. Det gäller också att återkopplingen är begriplig för eleven"
-difficulty = "Hard"
-category = "Education"
-[[questions.files]]
-file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
-page_numbers = [324]
+# [[questions]]
+# id = "RN069"
+# question = "Vad bör återkoppling fokusera på enligt kapitel 8.6.3?"
+# answer = "Forskning har visat att elever ofta föredrar specifik, detaljerad och individuell återkoppling. Det gäller också att återkopplingen är begriplig för eleven"
+# difficulty = "Hard"
+# category = "Education"
+# [[questions.files]]
+# file = "bygga_bedoma_betygsatta_bättre_elevernas_kunskap.pdf"
+# page_numbers = [324]
 
 [[questions]]
 id = "RN070"
@@ -121,7 +121,7 @@ page_numbers = [702]
 # [[questions]]
 # id = "RN073"
 # question = "Vilka sex syften med betyg nämns i utredningen?"
-# answer = "Urval, information, motivation, diagnos, certifiering och resultatrapportering."
+# answer = "Urval, information, motivation, diagnos, certifiering och resultatrapportering"
 # difficulty = "hard"
 # category = "education"
 # [[questions.files]]

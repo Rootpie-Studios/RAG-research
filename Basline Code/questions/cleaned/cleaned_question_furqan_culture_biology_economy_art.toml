@@ -837,7 +837,7 @@ category = "Art"
 
 [[questions.files]]
 file = "FULLTEXT_PAV_04.pdf"
-page_numbers = [6]
+page_numbers = [8]
 
 [[questions]]
 id = "PAVFR078"
@@ -894,7 +894,7 @@ category = "Art"
 
 [[questions.files]]
 file = "FULLTEXT_PAV_04.pdf"
-page_numbers = [9]
+page_numbers = [10]
 
 [[questions]]
 id = "PAVFR086"
@@ -905,7 +905,7 @@ category = "Art"
 
 [[questions.files]]
 file = "FULLTEXT_PAV_04.pdf"
-page_numbers = [9]
+page_numbers = [10]
 
 [[questions]]
 id = "PAVFR087"
@@ -916,6 +916,6 @@ category = "Art"
 
 [[questions.files]]
 file = "FULLTEXT_PAV_04.pdf"
-page_numbers = [9]
+page_numbers = [10]
 
 

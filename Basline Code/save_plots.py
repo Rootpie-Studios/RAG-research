@@ -72,7 +72,7 @@ def plot_acc_by_cat(df):
     plt.tight_layout()
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_acc_by_cat.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
         
 def plot_match_file_vs_page(df):
     df["Match_Combo"] = df["Filename_Match"].astype(str) + "File_" + df["Page_Match"].astype(str) + "Page"
@@ -87,7 +87,7 @@ def plot_match_file_vs_page(df):
     plt.tight_layout()
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_match_file_vs_page.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
     
 def plot_threshold_given_page_match(df):
     filtered_df = df[df["Page_Match"]]
@@ -103,7 +103,7 @@ def plot_threshold_given_page_match(df):
     plt.tight_layout()
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_threshold_given_page_match.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
     
 def plot_best_result_by_text_match(df):
     df["Combined_Score"] = df["Text_Match_Start_Percent"] + df["Text_Match_End_Percent"]
@@ -120,7 +120,7 @@ def plot_best_result_by_text_match(df):
     plt.tight_layout()
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_best_result_by_text_match.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
     
 def plot_matches_heatmap_split(df):
     g = sns.FacetGrid(df, col="Match_Threshold", height=6, aspect=1)
@@ -137,7 +137,7 @@ def plot_matches_heatmap_split(df):
     g.figure.suptitle("Heatmap of Text Match Start vs End (%) by Threshold")
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_matches_heatmap_split.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
 
 def plot_accuracy_precision_recall(df):
     df['Query_ID'] = df['Result_Id'].str[:-2]
@@ -190,7 +190,7 @@ def plot_accuracy_precision_recall(df):
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_accuracy_precision_recall.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
 
 def plot_accuracy_precision_recall_pages(df):
     df['Query_ID'] = df['Result_Id'].str[:-2]
@@ -245,7 +245,7 @@ def plot_accuracy_precision_recall_pages(df):
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_accuracy_precision_recall_pages.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
     
 def plot_accuracy_precision_recall_chunks(df):
     df['Query_ID'] = df['Result_Id'].str[:-2]
@@ -298,7 +298,7 @@ def plot_accuracy_precision_recall_chunks(df):
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_accuracy_precision_recall_chunks.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
 
 def plot_match_file_vs_page_by_result(df):
     # Extract Result Number (e.g., R1, R2, ..., R5)
@@ -324,7 +324,7 @@ def plot_match_file_vs_page_by_result(df):
     plt.tight_layout()
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_match_file_vs_page_by_result.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
 
 def plot_stacked_matches_by_result3(df):
     # Extract Result Number (e.g., R1, R2, ..., R5)
@@ -350,7 +350,7 @@ def plot_stacked_matches_by_result3(df):
     plt.tight_layout()
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_stacked_matches_by_result3.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
     
 def plot_match_file_vs_page_by_result2(df):
     # Extract Result Number (R1–R5) from Result_Id
@@ -376,7 +376,7 @@ def plot_match_file_vs_page_by_result2(df):
     plt.tight_layout()
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_match_file_vs_page_by_result2.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
     
 def plot_matches_heatmap_split_with_match_type(df):
     # Ensure Match_Combo and Match_Type columns are present
@@ -441,7 +441,7 @@ def plot_matches_heatmap_split_with_match_type(df):
     )
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_matches_heatmap_split_with_match_type.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
     
 def plot_text_match_info(df):
     # Compute relevant counts
@@ -473,7 +473,7 @@ def plot_text_match_info(df):
     plt.tight_layout()
     if SAVE_PLOTS:
         plt.savefig(OUTPUT +"plot_text_match_info.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    #plt.show()
     
 df = pd.read_csv(FILENAME, sep=",", encoding="utf-8")
 

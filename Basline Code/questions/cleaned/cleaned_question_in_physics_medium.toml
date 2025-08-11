@@ -476,7 +476,7 @@ page_numbers = [1]
 [[questions]]
 id = "PAV103"
 question = "Vilken roll spelade Lise Meitner enligt senare historieforskning under upptäckten av fission?"
-answer = "att hon [...] fortfarande, trots sin landsflykt, var deras intellektuelle ledare också under slutskedet av de avgörande experimenten"
+answer = "fortfarande, trots sin landsflykt, var deras intellektuelle ledare också under slutskedet av de avgörande experimenten"
 difficulty = "Medium"
 category = "Physics"
 
@@ -528,16 +528,16 @@ category = "Physics"
 file = "FULLTEXT01.pdf"
 page_numbers = [1]
 
-[[questions]]
-id = "PAV108"
-question = "Vad avslöjar Hahn i sitt brev till Meitner den 19 december?"
-answer = "…But we are coming steadily closer to the frightful conclusion: our Ra isotopes do not act like Ra but like Ba.."
-difficulty = "Hard"
-category = "Physics"
+#[[questions]]
+#id = "PAV108"
+#question = "Vad avslöjar Hahn i sitt brev till Meitner den 19 december?"
+#answer = "…But we are coming steadily closer to the frightful conclusion: our Ra isotopes do not act like Ra but like Ba"
+#difficulty = "Hard"
+#category = "Physics"
 
-[[questions.files]]
-file = "FULLTEXT01.pdf"
-page_numbers = [2]
+#[[questions.files]]
+#file = "FULLTEXT01.pdf"
+#page_numbers = [2]
 
 [[questions]]
 id = "PAV109"
@@ -686,7 +686,7 @@ page_numbers = [12]
 [[questions]]
 id = "PAV122"
 question = "Hur utvärderas elever i Finland jämfört med andra länder i Europa?"
-answer = "I Finland utvärderas inte eleverna genom hur många poäng de lyckas samla ihop på tester... utan genom att lärarnen själv avgör hur eleverna bäst utvecklas"
+answer = "I Finland utvärderas inte eleverna genom hur många poäng de lyckas samla ihop på tester"
 difficulty = "Medium"
 category = "Physics"
 

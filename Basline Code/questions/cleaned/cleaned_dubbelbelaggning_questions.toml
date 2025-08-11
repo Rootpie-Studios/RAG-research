@@ -1,13 +1,13 @@
-[[questions]]
-id = "RN001"
-question = "Vilka två teoretiska ramverk används i studien?"
-answer = "teorin om Pains of Imprisonment och det teoretiska begreppet Emotion Zones"
-difficulty = "Easy"
-category = "Education"
+# [[questions]]
+# id = "RN001"
+# question = "Vilka två teoretiska ramverk används i studien?"
+# answer = "teorin om Pains of Imprisonment och det teoretiska begreppet Emotion Zones"
+# difficulty = "Easy"
+# category = "Education"
 
-[[questions.files]]
-file = "Dubbelbeläggning på svenska.pdf"
-page_numbers = [8]
+# [[questions.files]]
+# file = "Dubbelbeläggning på svenska.pdf"
+# page_numbers = [8]
 
 [[questions]]
 id = "RN002"
@@ -44,7 +44,7 @@ page_numbers = [9]
 
 [[questions]]
 id = "RN005"
-question = "Hur påverkar dubbelbeläggningen möjligheten till privatliv enligt studien?"
+question = "Hur påverkar dubbelbeläggningen möjligheten till privatliv?"
 answer = "Möjligheten till privatliv och egen tid bli ännu mer begränsad än vad som redan gäller i fängelset"
 difficulty = "Medium"
 category = "Education"
@@ -67,7 +67,7 @@ page_numbers = [9]
 # [[questions]]
 # id = "RN007"
 # question = "Hur behandlar studien genusperspektivet?"
-# answer = "Det är dock av vikt att understryka att studiens huvudfokus inte är att fördjupa sig i ett genusperspektiv, eftersom studiens utrymme är begränsad."
+# answer = "Det är dock av vikt att understryka att studiens huvudfokus inte är att fördjupa sig i ett genusperspektiv, eftersom studiens utrymme är begränsad"
 # difficulty = "hard"
 # category = "education"
 
@@ -177,7 +177,7 @@ page_numbers = [12]
 # [[questions]]
 # id = "RN017"
 # question = "Vilken metod användes för att samla in data i studien?"
-# answer = "Syftet med studien är att fördjupa sig i personliga upplevelser av dubbelbeläggning och därför bedöms en kvalitativ inriktning vara det lämpligaste tillvägagångssättet. Specifikt har detta genomförts med en semistrukturerad intervjumetod."
+# answer = "Syftet med studien är att fördjupa sig i personliga upplevelser av dubbelbeläggning och därför bedöms en kvalitativ inriktning vara det lämpligaste tillvägagångssättet. Specifikt har detta genomförts med en semistrukturerad intervjumetod"
 # difficulty = "easy"
 # category = "education"
 
@@ -188,7 +188,7 @@ page_numbers = [12]
 # [[questions]]
 # id = "RN018"
 # question = "Varför valdes semistrukturerade intervjuer som metod?"
-# answer = "Metoden valdes eftersom den erbjuder en balans mellan struktur och flexibilitet, vilket fångar individuella variationer i deltagarnas upplevelser som annars riskerar att gå förlorade i mer strikta strukturerade intervjuer."
+# answer = "Metoden valdes eftersom den erbjuder en balans mellan struktur och flexibilitet, vilket fångar individuella variationer i deltagarnas upplevelser som annars riskerar att gå förlorade i mer strikta strukturerade intervjuer"
 # difficulty = "easy"
 # category = "education"
 
@@ -199,7 +199,7 @@ page_numbers = [12]
 # [[questions]]
 # id = "RN019"
 # question = "Hur många intervjuer genomfördes och i vilka format?"
-# answer = "Totalt genomfördes sex individuella intervjuer, varav tre genomfördes digitalt och tre fysiskt."
+# answer = "Totalt genomfördes sex individuella intervjuer, varav tre genomfördes digitalt och tre fysiskt"
 # difficulty = "easy"
 # category = "education"
 
@@ -210,7 +210,7 @@ page_numbers = [12]
 # [[questions]]
 # id = "RN020"
 # question = "Intervjudeltagarna som deltog bestod av?"
-# answer = "av fyra män och två kvinnor."
+# answer = "av fyra män och två kvinnor"
 # difficulty = "easy"
 # category = "education"
 

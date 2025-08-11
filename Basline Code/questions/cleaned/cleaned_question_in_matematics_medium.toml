@@ -567,7 +567,7 @@ page_numbers = [2]
 [[questions]]
 id = "PAV200"
 question = "Vilken typ av uppgifter innehåller matematiktestet?"
-answer = "Detta test innehåller varierade uppgifter med olika svårighetsgrad från enkel addition till operationer i ett par led. Alla uppgifter innehåller någon form av verbal information.."
+answer = "Detta test innehåller varierade uppgifter med olika svårighetsgrad från enkel addition till operationer i ett par led. Alla uppgifter innehåller någon form av verbal information"
 difficulty = "Medium"
 category = "Mathematics"
 
@@ -1087,16 +1087,16 @@ category = "Mathematics"
 file = "pdf7662.pdf"
 page_numbers = [12]
 
-[[questions]]
-id = "PAV247"
-question = "Vilka tre kognitiva domäner ingår i TIMSS?"
-answer = "Den första domänen, veta (knowing)... Den andra domänen, tillämpa (applying)... Den tredje domänen, resonera (reasoning).."
-difficulty = "Hard"
-category = "Mathematics"
+#[[questions]]
+#id = "PAV247"
+#question = "Vilka tre kognitiva domäner ingår i TIMSS?"
+#answer = "Den första domänen, veta (knowing)... Den andra domänen, tillämpa (applying)... Den tredje domänen, resonera (reasoning)"
+#difficulty = "Hard"
+#category = "Mathematics"
 
-[[questions.files]]
-file = "pdf7662.pdf"
-page_numbers = [12]
+#[[questions.files]]
+#file = "pdf7662.pdf"
+#page_numbers = [12]
 
 [[questions]]
 id = "PAV248"

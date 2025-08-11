@@ -44,8 +44,8 @@ def parse_document(pdf_path):
     for i, page in enumerate(doc):
         text = page.get_text(sort=True) # sort helps keep the right reading order in the page
         if text.strip():  # Skip empty pages
-            norm_text = normalize_text(text)
-            text_and_pagenumber.append((i + 1, norm_text + " "))
+            # norm_text = normalize_text(text)
+            text_and_pagenumber.append((i + 1, text + " "))
     doc.close()
     return text_and_pagenumber
 

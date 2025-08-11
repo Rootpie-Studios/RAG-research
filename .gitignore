@@ -11,3 +11,4 @@ pdf_data/
 /txt_data
 __pycache__/
 results/
+.vscode

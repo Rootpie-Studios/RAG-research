@@ -4,7 +4,7 @@
 docs_*/
 doc_*/
 /compare_splits_sorted
-embedded/
+Basline Code/questions/embedded/
 Basline Code/pdf_data/
 # /results
 /findPDF.py

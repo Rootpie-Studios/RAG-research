@@ -5,10 +5,10 @@ docs_*/
 doc_*/
 /compare_splits_sorted
 embedded/
-pdf_data/
-/results
+Basline Code/pdf_data/
+# /results
 /findPDF.py
 /txt_data
 __pycache__/
-results/
+Basline Code/results/
 .vscode

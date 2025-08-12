@@ -75,6 +75,28 @@ This project employs a sentence-based chunking strategy using `nltk.tokenize.sen
     - Place your PDF documents in the `pdf_data/` directory.
     - Place your question/answer `.toml` files in the `questions/cleaned/` directory.
 
+## Usage
+
+### Interactive Mode
+
+The easiest way to get started is to use the interactive `main.py` script.
+
+```bash
+python main.py
+```
+
+This will present you with a menu to run the different parts of the pipeline. You can also change configuration variables like `MAX_TOKENS`, `OVERLAP` and `BASE_NAME_VERSION` before running the scripts.
+
+### Batch Mode
+
+For running multiple experiments with different configurations, you can use the `batch_run.py` script.
+
+```bash
+python batch_run.py --base_name=MyExperiment --tokens=256/50,512/100
+```
+
+This will run the entire pipeline twice, once with `MAX_TOKENS=256` and `OVERLAP=50`, and a second time with `MAX_TOKENS=512` and `OVERLAP=100`. The results will be saved in separate directories under the `results/` folder.
+
 ## Project Structure
 
 ```

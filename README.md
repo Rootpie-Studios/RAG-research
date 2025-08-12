@@ -1,4 +1,4 @@
-# Evaluation of Embedding Models for Swedish Documents
+# **Evaluation of Embedding Models for Swedish Text**
 
 Documents used in this Project: [RAG-Research-GDrive](https://drive.google.com/drive/folders/1_epDuB8VUgaXHcu14uKPMTi8DXU9XLxm?usp=sharing)
 

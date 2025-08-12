@@ -1,0 +1,23 @@
+[project]
+name = "sentence-bert-swedish-cased_AND_NLTK"
+version = "0.1.0"
+description = "This code is based on the `BASELINE Code` and was created to Evaluate the embedding model: `KBLab/sentence-bert-swedish-cased` that was trained on Swedish text and The Natural Language Toolkit (`nltk`) is used for sentence tokenization."
+readme = "README.md"
+requires-python = ">=3.13.3"
+dependencies = [
+    "chromadb>=1.0.16",
+    "google-generativeai>=0.8.5",
+    "joblib>=1.5.1",
+    "levenshtein>=0.27.1",
+    "matplotlib>=3.10.5",
+    "nltk>=3.9.1",
+    "openai>=1.99.9",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.1",
+    "pymupdf>=1.26.3",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.1.0",
+    "tomli>=2.2.1",
+    "tomlkit>=0.13.3",
+    "tqdm>=4.67.1",
+]

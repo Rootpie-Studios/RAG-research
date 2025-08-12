@@ -16,4 +16,4 @@
 
 ## Final Report
 
-- [Link to the Final Report](RAG_Final_Report.pdf)
+- [Link to the Final Report](RAG_Final_Report.pdf) This is our research findings for Swedish RAG

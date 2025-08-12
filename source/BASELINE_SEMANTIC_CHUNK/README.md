@@ -4,9 +4,9 @@
 
 # PDF Q&A System with Semantic Search
 
+## Introduction
 
-
-This project implements a system for question-answering over PDF documents using semantic search. It leverages OpenAI embeddings, ChromaDB for vector storage, and LangChain's `SemanticChunker` for intelligent document parsing. The system processes PDF documents, embeds questions, queries the document store, and evaluates the results, providing detailed metrics and visualizations.
+This code is based on the `BASELINE Code` and was created to Evaluate LangChain's `SemanticChunker` for intelligent document parsing. The system processes PDF documents, embeds questions, queries the document store, and evaluates the results, providing detailed metrics and visualizations.
 
 
 

@@ -1,8 +1,12 @@
 # **Evaluation of Embedding Models for Swedish Text**
 
-Documents used in this Project: [RAG-Research-GDrive](https://drive.google.com/drive/folders/1_epDuB8VUgaXHcu14uKPMTi8DXU9XLxm?usp=sharing)
+## **Important Links**
+
+- Documents used in this Project: [RAG-Research-GDrive](https://drive.google.com/drive/folders/1_epDuB8VUgaXHcu14uKPMTi8DXU9XLxm?usp=sharing)
+- Our Final Report: [Evaluation of Embedding Models for Swedish Text](docs/RAG_Final_Report.pdf)
 
 ## **Background and Goal**
+
 The main goal of this project was to investigate and improve how embedding models
 work with Swedish data, focusing on using practical techniques and finding open source
 alternatives. To do this, a dataset of around 100 Swedish PDF documents was gathered and
@@ -40,4 +44,5 @@ The id is the id of the person who created the question.
 Difficulty refers to the difference between the phrasing of the question and answer. It’s not about the difficulty of the subject.
 
 ## **Implementation**
+
 In this repo you will find different implementations and tests we did. See each directory and its corresponding `README.md` for more information on `HOW` and `WHAT` was implemented and tested.
